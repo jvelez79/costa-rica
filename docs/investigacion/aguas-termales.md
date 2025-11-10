@@ -208,7 +208,6 @@ Según el video, la mayoría de aguas termales de hoteles ofrecen:
 | **Comodidades** | Ninguna | Full (bar, restaurante, lockers) | Premium |
 | **Accesibilidad** | Rocas resbalosas | Caminos suaves | Premium |
 | **Ambiente** | Aventura/natural | Resort por el día | Resort de lujo |
-| **Riesgo caídas** | ⚠️ Alto | ✅ Bajo | ✅ Muy bajo |
 | **Experiencia** | Cruda/auténtica | Balance perfecto | Premium/pulida |
 
 ---
