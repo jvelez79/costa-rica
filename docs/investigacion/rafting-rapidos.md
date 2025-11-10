@@ -1,12 +1,10 @@
 # Investigación: Rafting en Aguas Rápidas - La Fortuna
 
-**Fecha de investigación:** 9 Noviembre 2025
-**Nivel de confianza:** Alto
 **Para:** Día 2 (Martes 25 Nov) - Actividades en La Fortuna
 
 ---
 
-## 📋 RESUMEN EJECUTIVO
+## 📋 Información Clave
 
 - ✅ **Noviembre = EXCELENTE temporada** (temporada lluviosa = niveles de agua altos + rápidos emocionantes)
 - 🌊 **Dos opciones de ríos:** Balsa (II-III, familiar) o Sarapiquí (III-IV, más desafiante)
