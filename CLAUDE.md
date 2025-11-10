@@ -124,19 +124,20 @@ Grupo de 10 adultos. Enfoque: Naturaleza, Aventura, Ciudad, Cultural.
 4. Preguntar en qué área específica ayudar
 
 ### Al Hacer Investigación
-- **Guardar SIEMPRE** en `/home/juanca/Documents/viaje-costa-rica/`
-- **Formato:** Markdown con estructura clara
-- **Nombrar archivos:** `investigacion-[tema].md`
+- **Guardar SIEMPRE** en `/home/juanca/Documents/viaje-costa-rica/docs/investigacion/`
+- **Formato:** Markdown con estructura clara para website público
+- **Nombrar archivos:** `investigacion-[tema].md` o `[tema].md`
+- **Estilo:** Aplicar formato público desde el inicio (ver sección "REFACTORING" abajo)
 - **Incluir:**
-  - Resumen ejecutivo al inicio
+  - **Información Clave** al inicio (no "Resumen Ejecutivo")
   - Costos detallados
   - **Información de estacionamiento** (ya que tenemos vehículos)
   - Operadores con contactos
   - Itinerarios sugeridos
   - Pros/contras de tour vs hacerlo independiente con vehículos
   - Rutas y tiempos de manejo
-  - Fuentes consultadas
-  - Nivel de confianza de la información
+  - Contexto útil (fecha del viaje, para qué día, etc.)
+- **NO incluir:** Metadata técnica (nivel de confianza, fecha investigación, fuentes detalladas)
 
 ### Al Investigar Actividades
 **IMPORTANTE:** Siempre considerar:
@@ -194,18 +195,21 @@ Grupo de 10 adultos. Enfoque: Naturaleza, Aventura, Ciudad, Cultural.
 
 ## 📊 Convenciones
 
-### Archivos de Investigación
+### Archivos de Investigación (Formato Público para Website)
 ```markdown
 # [Título Actividad/Tema]
-**Fecha de investigación:** [fecha]
-**Nivel de confianza:** [Alto/Medio/Bajo]
 
-## RESUMEN EJECUTIVO
-[3-5 puntos clave]
+**Para:** [Día X - Contexto del viaje]
+**Contexto:** Grupo de 10 adultos con 2 vehículos alquilados
+
+---
+
+## Información Clave
+[3-5 puntos clave más importantes]
 
 ## OPCIÓN 1: CON VEHÍCULOS PROPIOS
 - Costo entrada
-- Estacionamiento
+- Estacionamiento (disponibilidad, costo, seguridad)
 - Ruta/distancia desde alojamiento
 - Pros/contras
 
@@ -215,17 +219,21 @@ Grupo de 10 adultos. Enfoque: Naturaleza, Aventura, Ciudad, Cultural.
 - Pros/contras
 
 ## RECOMENDACIÓN
-[Tour vs Independiente]
+[Tour vs Independiente - análisis neutral]
 
 ## [Secciones detalladas]
-...
+- Operadores con contactos completos
+- Horarios
+- Logística de transporte
+- Qué llevar
 
 ## PRESUPUESTO
-[Desglose de costos]
+[Desglose de costos por opción]
 
-## FUENTES
-[Enlaces/referencias]
+---
 ```
+
+**Nota:** Ya NO incluir secciones de metadata interna, nivel de confianza, o fuentes detalladas.
 
 ### Actualización de README.md
 - Marcar ✅ cuando se complete una tarea
