@@ -82,23 +82,23 @@
 
 ---
 
-## 📋 CHECKLIST DE VUELOS
+## 📋 PREPARATIVOS DE VUELO
 
 ### Antes del Viaje (1-2 semanas antes)
-- [ ] Hacer check-in online (24h antes del vuelo)
-- [ ] Confirmar asientos seleccionados
-- [ ] Verificar restricciones de equipaje Copa Airlines
-- [ ] Imprimir o guardar boarding passes digitales
-- [ ] Verificar estado de vuelos en app de Copa
+- Hacer check-in online 24 horas antes del vuelo
+- Confirmar asientos seleccionados
+- Verificar restricciones de equipaje Copa Airlines
+- Guardar boarding passes digitales o impresos
+- Verificar estado de vuelos en la app de Copa
 
 ### Documentos Necesarios
-- [ ] Pasaporte válido (mínimo 6 meses de vigencia)
-- [ ] Boarding passes (digital o impreso)
-- [ ] Confirmación Hotel Aloft (6488.384.259)
-- [ ] Confirmaciones Airbnbs (Casa Mañana + Casa Ayarcos)
-- [ ] Confirmación alquiler de vehículos
-- [ ] Licencia de conducir (internacional si aplica)
-- [ ] Seguro de viaje (si aplica)
+- Pasaporte válido (mínimo 6 meses de vigencia)
+- Boarding passes (digital o impreso)
+- Confirmación Hotel Aloft (6488.384.259)
+- Confirmaciones Airbnbs (Casa Mañana + Casa Ayarcos)
+- Confirmación alquiler de vehículos
+- Licencia de conducir (internacional si aplica)
+- Seguro de viaje (si aplica)
 
 ### Equipaje - Copa Airlines
 - **Carry-on:** 1 maleta de mano (10 kg / 22 lbs)
@@ -109,16 +109,16 @@
 ### Durante la Escala en Panamá
 
 #### Ida (10h 58min de escala)
-- [ ] Opción 1: Lounge Copa Club (si tienes acceso)
-- [ ] Opción 2: Tour rápido de ciudad de Panamá
-- [ ] Opción 3: Explorar terminal, comer, descansar
-- [ ] Cargar dispositivos electrónicos
-- [ ] Cambiar algo de dinero a Colones si necesario
+- Opción 1: Lounge Copa Club (si hay acceso disponible)
+- Opción 2: Tour rápido de ciudad de Panamá
+- Opción 3: Explorar terminal, comer, descansar
+- Aprovechar para cargar dispositivos electrónicos
+- Considerar cambiar dinero a Colones costarricenses
 
 #### Regreso (1h 49min de escala)
-- [ ] Tiempo justo - ir directo al siguiente gate
-- [ ] Confirmar gate del siguiente vuelo en pantallas
-- [ ] Tener boarding pass listo
+- Tiempo justo - ir directo al siguiente gate
+- Confirmar gate del siguiente vuelo en las pantallas
+- Tener boarding pass listo con anticipación
 
 ---
 
@@ -200,6 +200,3 @@
 - Botella de agua vacía (llenar después de seguridad)
 
 ---
-
-**Última actualización:** 2025-11-08
-**Screenshot guardado:** itinerario-vuelos.png
