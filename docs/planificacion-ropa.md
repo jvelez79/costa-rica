@@ -38,50 +38,50 @@
 ## 👕 LISTA DE ROPA RECOMENDADA
 
 ### Ropa Superior (9-10 piezas)
-- [ ] 3 camisetas técnicas/deportivas (secado rápido) - Para hiking y aventura
-- [ ] 2 camisetas casuales - Para ciudad y casual
-- [ ] 1 camisa de manga larga ligera - Protección solar en naturaleza
-- [ ] 1-2 polos o camisas casual - Para restaurantes/ciudad
-- [ ] 1 sudadera/hoodie mediano - Para noches y aire acondicionado
-- [ ] ⚠️ 1 chaqueta/suéter GRUESO - **CRÍTICO para Volcán Irazú (5-10°C)**
+- 3 camisetas técnicas/deportivas (secado rápido) - Para hiking y aventura
+- 2 camisetas casuales - Para ciudad y casual
+- 1 camisa de manga larga ligera - Protección solar en naturaleza
+- 1-2 polos o camisas casual - Para restaurantes/ciudad
+- 1 sudadera/hoodie mediano - Para noches y aire acondicionado
+- ⚠️ 1 chaqueta/suéter GRUESO - **CRÍTICO para Volcán Irazú (5-10°C)**
   - Opciones: fleece grueso, chaqueta acolchada ligera, suéter de lana
   - Debe ser abrigador para clima de montaña
 
 ### Ropa Inferior (5-6 piezas)
-- [ ] 2 pantalones ligeros convertibles (desmontables a shorts) - Versátiles para hiking y ciudad
-- [ ] 1 pantalón casual/jeans ligero - Para ciudad
-- [ ] 1 pantalón que pueda ensuciarse - **Para ATV (se va a manchar de barro)**
-- [ ] 2 shorts deportivos/casuales - Clima cálido y actividades
-- [ ] 1 traje de baño - **ESENCIAL:** Aguas Termales (Día 1) + Cascada La Fortuna (Día 2)
+- 2 pantalones ligeros convertibles (desmontables a shorts) - Versátiles para hiking y ciudad
+- 1 pantalón casual/jeans ligero - Para ciudad
+- 1 pantalón que pueda ensuciarse - **Para ATV (se va a manchar de barro)**
+- 2 shorts deportivos/casuales - Clima cálido y actividades
+- 1 traje de baño - **ESENCIAL:** Aguas Termales (Día 1) + Cascada La Fortuna (Día 2)
 
 ### Ropa Interior y Calcetines (7-8 juegos)
-- [ ] 6 boxers/calzoncillos (puedes lavar a mitad de semana)
-- [ ] 3 pares calcetines deportivos medianos (hiking)
-- [ ] 2 pares calcetines casuales cortos
-- [ ] ⚠️ 2 pares calcetines largos/gruesos - **Para Volcán Irazú (frío) y hiking**
+- 6 boxers/calzoncillos (puedes lavar a mitad de semana)
+- 3 pares calcetines deportivos medianos (hiking)
+- 2 pares calcetines casuales cortos
+- ⚠️ 2 pares calcetines largos/gruesos - **Para Volcán Irazú (frío) y hiking**
 
 ### Calzado (3 pares)
-- [ ] 1 par botas/zapatos de hiking (impermeables) - ESENCIAL para naturaleza
-- [ ] 1 par zapatillas deportivas/tenis - Para ciudad y uso general
-- [ ] 1 par sandalias deportivas o chanclas - Casual, después de hiking, ducha
+- 1 par botas/zapatos de hiking (impermeables) - ESENCIAL para naturaleza
+- 1 par zapatillas deportivas/tenis - Para ciudad y uso general
+- 1 par sandalias deportivas o chanclas - Casual, después de hiking, ducha
 
 ### Ropa para Lluvia (IMPORTANTE)
-- [ ] 1 chaqueta impermeable/rompevientos - Para lluvias de tarde
-- [ ] 1 poncho de lluvia ligero (opcional pero útil) - Para hiking bajo lluvia
-- [ ] 1 cover/funda impermeable para mochila - Proteger equipaje en excursiones
+- 1 chaqueta impermeable/rompevientos - Para lluvias de tarde
+- 1 poncho de lluvia ligero (opcional pero útil) - Para hiking bajo lluvia
+- 1 cover/funda impermeable para mochila - Proteger equipaje en excursiones
 
 ### Accesorios Esenciales
-- [ ] 2 gorras/sombreros - Protección solar
-- [ ] 1 bandana/buff - Versátil (protección solar, sudor, polvo)
-- [ ] ⚠️ 1 gorro/beanie - **Para Volcán Irazú (frío en la cabeza)**
-- [ ] Bufanda ligera o neck gaiter (opcional) - Para el frío del Irazú
-- [ ] Gafas de sol con protección UV
-- [ ] Mochila pequeña/daypack (20-30L) - Para excursiones diarias
-- [ ] 2 toallas de secado rápido - Aguas termales, cascada, ducha
-- [ ] Bolsa impermeable/dry bag pequeña - Proteger celular/cámara en actividades de agua
+- 2 gorras/sombreros - Protección solar
+- 1 bandana/buff - Versátil (protección solar, sudor, polvo)
+- ⚠️ 1 gorro/beanie - **Para Volcán Irazú (frío en la cabeza)**
+- Bufanda ligera o neck gaiter (opcional) - Para el frío del Irazú
+- Gafas de sol con protección UV
+- Mochila pequeña/daypack (20-30L) - Para excursiones diarias
+- 2 toallas de secado rápido - Aguas termales, cascada, ducha
+- Bolsa impermeable/dry bag pequeña - Proteger celular/cámara en actividades de agua
 
 ### Ropa de Dormir
-- [ ] 2 sets pijama/ropa de dormir - Ligera, clima cálido
+- 2 sets pijama/ropa de dormir - Ligera, clima cálido
 
 ---
 
@@ -106,7 +106,7 @@ Con acceso a lavadora, puedes:
 
 ---
 
-## 🎒 RESUMEN EJECUTIVO
+## 🎒 Información Clave
 
 ### Total Aproximado de Piezas
 - Ropa superior: 9-10 piezas (incluye abrigo para Irazú)
@@ -210,16 +210,16 @@ Con acceso a lavadora, puedes:
 - **Evitar:** Blanco (se ensucia rápido en naturaleza)
 
 ### Check Final Antes de Empacar
-- [ ] ✅ Chaqueta GRUESA para Volcán Irazú (5-10°C)
-- [ ] ✅ Gorro/beanie + calcetines largos para el frío
-- [ ] ✅ Traje de baño (usar 2 veces: aguas termales + cascada)
-- [ ] ✅ Pantalón para ensuciar (ATV con barro)
-- [ ] ✅ Botas de hiking impermeables
-- [ ] ✅ Chaqueta impermeable/rompevientos
-- [ ] ✅ 2 toallas de secado rápido
-- [ ] ✅ Bolsa impermeable para electrónicos
-- [ ] ¿Cada prenda sirve para 2+ actividades?
-- [ ] ¿Todo es ligero y de secado rápido (excepto ropa de abrigo)?
+- ✅ Chaqueta GRUESA para Volcán Irazú (5-10°C)
+- ✅ Gorro/beanie + calcetines largos para el frío
+- ✅ Traje de baño (usar 2 veces: aguas termales + cascada)
+- ✅ Pantalón para ensuciar (ATV con barro)
+- ✅ Botas de hiking impermeables
+- ✅ Chaqueta impermeable/rompevientos
+- ✅ 2 toallas de secado rápido
+- ✅ Bolsa impermeable para electrónicos
+- Verificar que cada prenda sirva para 2+ actividades
+- Confirmar que todo sea ligero y de secado rápido (excepto ropa de abrigo)
 
 ---
 
@@ -231,6 +231,3 @@ _(Espacio para agregar preferencias o ajustes)_
 -
 
 ---
-
-**Última actualización:** 2025-11-08
-**Próxima revisión:** Antes del empaque final
