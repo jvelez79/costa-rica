@@ -389,6 +389,237 @@ Grupo de 10 adultos. Enfoque: Naturaleza, Aventura, Ciudad, Cultural.
 
 ---
 
+## 🌐 REFACTORING: Contenido Personal → Website Público
+
+### Contexto
+Este proyecto se publica como GitHub Pages website para compartir con el grupo de 10 viajeros. El contenido debe ser informativo y profesional, no directivo ni de "trabajo en progreso".
+
+### Principios Generales
+1. **Tono:** Informativo pero relajado (no directivo)
+2. **Audiencia:** Grupo de viajeros adultos (no notas personales)
+3. **Formato:** Eliminar elementos de planificación/trabajo
+4. **Preservar:** TODA la información valiosa (precios, contactos, detalles)
+
+---
+
+## 📋 Cambios Específicos a Aplicar
+
+### 1. Metadata Técnica → ELIMINAR
+
+**Remover siempre:**
+```markdown
+❌ **Fecha de investigación:** 9 Noviembre 2025
+❌ **Nivel de confianza:** Alto
+❌ **Última actualización:** 9 Noviembre 2025
+❌ **Próxima actualización:** [fecha]
+❌ **Última validación:** [fecha]
+```
+
+**Excepción:** Puede mantenerse metadata contextual útil:
+```markdown
+✅ **Para:** Día 2 (Martes 25 Nov) - Actividades La Fortuna
+✅ **Contexto:** Grupo de 10 adultos con 2 vehículos
+✅ **Fuente:** Review en video YouTube [con link]
+```
+
+---
+
+### 2. Títulos de Secciones → NEUTRALIZAR
+
+**SIEMPRE cambiar:**
+
+| ❌ Antes (Personal/Ejecutivo) | ✅ Después (Informativo) |
+|-------------------------------|--------------------------|
+| `RESUMEN EJECUTIVO` | `Información Clave` |
+| `ACCIÓN REQUERIDA` | `Consideraciones Importantes` |
+| `ACCIONES INMEDIATAS` | `Consideraciones para Reservas` |
+| `PRÓXIMOS PASOS` | ELIMINAR (o "Preparativos Recomendados") |
+| `CHECKLIST` | `Recomendaciones` o `Preparativos` |
+| `REGISTRO DE VALIDACIÓN` | ELIMINAR |
+| `NIVEL DE CONFIANZA` | ELIMINAR |
+
+---
+
+### 3. Listas de Tareas → INFORMACIÓN DESCRIPTIVA
+
+**Remover TODOS los checkboxes:**
+
+```markdown
+❌ ANTES (Tarea personal):
+### Checklist
+- [ ] Hacer reserva en Don Rufino
+- [ ] Confirmar transporte aeropuerto
+- [ ] Verificar horario desayuno
+
+✅ DESPUÉS (Información):
+### Recomendaciones
+- Reservar con anticipación en Don Rufino
+- Confirmar transporte del aeropuerto con anticipación
+- Verificar horario del desayuno al llegar
+```
+
+**Nota:** Mantener checkboxes ✅ decorativos en listas de características:
+```markdown
+✅ MANTENER (Características):
+- ✅ WiFi gratis incluido
+- ✅ Estacionamiento disponible
+- ✅ Desayuno incluido
+```
+
+---
+
+### 4. Tono Directivo → Informativo/Sugestivo
+
+**Patrones de cambio:**
+
+| ❌ Directivo/Urgente | ✅ Informativo/Sugestivo |
+|---------------------|--------------------------|
+| "Debes hacer X" | "Se recomienda hacer X" |
+| "Hacer INMEDIATAMENTE" | "Recomendado hacer con anticipación" |
+| "CRÍTICO - Confirmar" | "Importante confirmar" |
+| "NO olvides" | "Considerar llevar" |
+| "Hacer PRONTO" | "Recomendado hacer antes del viaje" |
+| "VERIFICAR antes de..." | "Verificar antes de..." (ok, pero más suave) |
+
+**Ejemplo completo:**
+
+```markdown
+❌ ANTES:
+### ⚠️ ACCIÓN REQUERIDA ANTES DEL VIAJE:
+**CRÍTICO - Confirmar con Casa Mañana:**
+- [ ] **Late check-in permitido ~9:00-10:00 PM**
+- [ ] Método de entrada (lockbox, código)
+- [ ] Número WhatsApp emergencias
+
+✅ DESPUÉS:
+### ⚠️ Consideraciones Importantes Antes del Viaje:
+**IMPORTANTE - Coordinar con Casa Mañana:**
+- **Late check-in permitido ~9:00-10:00 PM** - Confirmar disponibilidad
+- Método de entrada (lockbox, código, anfitrión presente)
+- Número de contacto WhatsApp para emergencias
+```
+
+---
+
+### 5. Secciones Internas → ELIMINAR O ADAPTAR
+
+**ELIMINAR completamente:**
+- Secciones "REGISTRO DE VALIDACIÓN"
+- Secciones "NIVEL DE CONFIANZA DE INFORMACIÓN"
+- Secciones "FUENTES CONSULTADAS" (opcional, puede resumirse)
+- Listas de "PRÓXIMOS PASOS" de trabajo personal
+- Referencias a "actualizar después de X"
+
+**Ejemplo:**
+```markdown
+❌ ELIMINAR:
+## REGISTRO DE VALIDACIÓN
+**Investigación original:** 9 Noviembre 2025
+**Fuentes consultadas:** 60+ fuentes
+**Nivel de confianza:** 90%
+**Cambios principales:**
+- Actualizado precios 2024-2025
+- Agregada sección X
+**Próxima actualización:** Antes de reservar
+
+✅ (Esta sección se elimina por completo)
+```
+
+---
+
+### 6. Preservar Exactamente (NO CAMBIAR)
+
+**Mantener intacto:**
+- ✅ Tablas de comparación y precios
+- ✅ Información de contacto (teléfonos, emails, websites, direcciones)
+- ✅ Coordenadas GPS
+- ✅ Detalles de operadores turísticos
+- ✅ Horarios y especificaciones técnicas
+- ✅ Presupuestos y cálculos
+- ✅ Pros/contras de opciones
+- ✅ Recomendaciones específicas (ropa, equipaje, etc.)
+- ✅ Notas importantes sobre seguridad/clima
+
+---
+
+## 🔄 Proceso de Refactoring Paso a Paso
+
+### Cuando recibas solicitud de refactoring:
+
+1. **Leer archivo completo** para entender estructura
+2. **Identificar metadata** a eliminar (líneas 1-10 típicamente)
+3. **Buscar secciones** con grep:
+   ```bash
+   grep -n "RESUMEN EJECUTIVO|ACCIÓN REQUERIDA|CHECKLIST|Nivel de confianza"
+   ```
+4. **Aplicar cambios** en orden:
+   - Remover metadata del encabezado
+   - Cambiar "RESUMEN EJECUTIVO" → "Información Clave"
+   - Cambiar títulos de secciones directivas
+   - Remover checkboxes de listas
+   - Neutralizar tono en bullets
+   - Eliminar secciones internas (REGISTRO, FUENTES)
+5. **Verificar** que no se perdió información valiosa
+6. **Commit** con mensaje descriptivo
+
+---
+
+## 📝 Template para Commits de Refactoring
+
+```
+Refactor [archivo].md: Convert to public website style
+
+- Remove metadata (Fecha de investigación, Nivel de confianza)
+- Change "RESUMEN EJECUTIVO" to "Información Clave"
+- Change "CHECKLIST" to "Recomendaciones"
+- Remove checkbox task lists
+- Neutralize tone from directive to informative
+- All [pricing/contacts/details] preserved
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+```
+
+---
+
+## ✅ Checklist de Verificación Post-Refactoring
+
+Antes de hacer commit, verificar:
+- [ ] ❌ Cero instancias de "RESUMEN EJECUTIVO"
+- [ ] ❌ Cero instancias de "Fecha de investigación"
+- [ ] ❌ Cero instancias de "Nivel de confianza"
+- [ ] ❌ Cero checkboxes `- [ ]` en listas informativas
+- [ ] ❌ Cero secciones "REGISTRO DE VALIDACIÓN"
+- [ ] ❌ Cero frases "Hacer PRONTO" / "INMEDIATAMENTE"
+- [ ] ✅ Todas las tablas de precios preservadas
+- [ ] ✅ Todos los contactos preservados
+- [ ] ✅ Todas las direcciones GPS preservadas
+- [ ] ✅ Tono neutral/informativo consistente
+
+---
+
+## 🎯 Casos Especiales
+
+### Archivos que NO se refactorizan:
+- `CLAUDE.md` (este archivo, interno)
+- `README.md` (es el README del repo GitHub, no del website)
+- Archivos en carpetas `/.git/` o `/.vscode/`
+
+### Cuando generar NUEVO contenido:
+Si generas contenido nuevo para el website, **aplicar directamente el estilo público** desde el inicio:
+- Usar "Información Clave" en lugar de "RESUMEN EJECUTIVO"
+- No incluir metadata técnica
+- Escribir en tono informativo, no directivo
+- No usar checkboxes para listas informativas (solo para características)
+
+### Archivo muy grande (>1000 líneas):
+- Refactorizar por secciones usando grep para localizar
+- Hacer múltiples edits enfocados
+- Commit al final (un commit por archivo)
+
+---
+
 **Creado:** 9 Noviembre 2025
-**Última actualización:** 9 Noviembre 2025
+**Última actualización:** 10 Noviembre 2025
 **Mantenido por:** Claude AI + Juan Carlos
