@@ -1,12 +1,10 @@
 # Investigación: Restaurantes en San José, Costa Rica
 
-**Fecha de investigación:** 9 Noviembre 2025
-**Nivel de confianza:** Alto (basado en fuentes actualizadas 2024-2025)
 **Para:** Grupo de 10 adultos con 2 vehículos alquilados
 
 ---
 
-## RESUMEN EJECUTIVO
+## Información Clave
 
 San José ofrece una escena gastronómica vibrante y diversa, desde sodas tradicionales económicas hasta restaurantes de alta cocina. Para el grupo de 10 personas con vehículos propios, el ESTACIONAMIENTO es un factor crítico a considerar.
 
@@ -969,26 +967,26 @@ San José ofrece una escena gastronómica vibrante y diversa, desde sodas tradic
 
 ---
 
-## CHECKLIST PRE-VIAJE
+## Preparativos Recomendados
 
 **2-3 Semanas Antes:**
-- [ ] Decidir restaurantes para cada día
-- [ ] Hacer reservas para grupo de 10 en restaurantes seleccionados
-- [ ] Verificar parking en cada restaurante elegido
-- [ ] Confirmar horarios de operación
+- Decidir restaurantes para cada día
+- Hacer reservas para grupo de 10 en restaurantes seleccionados
+- Verificar parking en cada restaurante elegido
+- Confirmar horarios de operación
 
 **1 Semana Antes:**
-- [ ] Re-confirmar todas las reservas
-- [ ] Descargar Google Maps offline de zonas: Escazú, Barrio Escalante, Centro San José
-- [ ] Investigar apps de taxi/Uber en Costa Rica (verificar que funcionan)
-- [ ] Cambiar algo de dinero a colones para sodas/mercados
-- [ ] Guardar números de teléfono de restaurantes
+- Re-confirmar todas las reservas
+- Descargar Google Maps offline de zonas: Escazú, Barrio Escalante, Centro San José
+- Investigar apps de taxi/Uber en Costa Rica (verificar que funcionan)
+- Cambiar algo de dinero a colones para sodas/mercados
+- Guardar números de teléfono de restaurantes
 
 **Día Antes de Cada Comida:**
-- [ ] Re-confirmar reserva si es restaurante premium
-- [ ] Verificar ruta y tiempo de manejo (Google Maps)
-- [ ] Decidir: ¿vehículos o taxi/Uber?
-- [ ] Si usan vehículos: verificar ubicación parking exacta
+- Re-confirmar reserva si es restaurante premium
+- Verificar ruta y tiempo de manejo (Google Maps)
+- Decidir: ¿vehículos o taxi/Uber?
+- Si usan vehículos: verificar ubicación parking exacta
 
 ---
 
