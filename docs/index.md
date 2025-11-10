@@ -1,5 +1,7 @@
 # 🌴 Viaje a Costa Rica - Noviembre 2025
 
+![Volcán Arenal al atardecer](./images/majestic_Arenal_volcano_at_golden_hour.png)
+
 ## 📅 Información General
 - **Fechas:** 23-29 Noviembre 2025
 - **Duración:** 6 días / 6 noches
