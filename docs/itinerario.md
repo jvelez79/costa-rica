@@ -32,10 +32,10 @@
 - Cambiar algo de dinero a Colones si no lo hiciste antes
 - Verificar horario de salida para día siguiente
 
-### Checklist
-- [ ] Transporte aeropuerto → Hotel Aloft confirmado
-- [ ] Número de confirmación del hotel
-- [ ] Dinero cambiado (Colones costarricenses)
+### Recomendaciones
+- Confirmar transporte del aeropuerto al Hotel Aloft con anticipación
+- Tener a mano el número de confirmación del hotel
+- Considerar cambiar dinero a Colones costarricenses
 
 ---
 
@@ -75,13 +75,13 @@
 - 🥗 Almuerzo: Durante traslado o al llegar a La Fortuna
 - 🍽️ Cena: Restaurante en La Fortuna o cerca del Airbnb
 
-### Checklist
-- [ ] Check-out Hotel Aloft (verificar hora)
-- [ ] Transporte San José → La Fortuna confirmado
-- [ ] Traje de baño empacado y accesible
-- [ ] Toalla para aguas termales
-- [ ] Confirmación Airbnb La Fortuna
-- [ ] Bloqueador solar y repelente
+### Recomendaciones
+- Verificar hora de check-out del Hotel Aloft
+- Confirmar transporte de San José a La Fortuna
+- Tener traje de baño empacado y accesible
+- Llevar toalla para las aguas termales
+- Guardar confirmación del Airbnb La Fortuna
+- No olvidar bloqueador solar y repelente de insectos
 
 ---
 
@@ -119,13 +119,13 @@
 - Cámara/celular en bolsa impermeable
 - La cascada requiere buena condición física (muchas escaleras)
 
-### Checklist
-- [ ] Reservación tour ATV confirmada
-- [ ] Traje de baño + toalla
-- [ ] Ropa extra para cambio
-- [ ] Bolsa impermeable para electrónicos
-- [ ] Zapatos apropiados para agua
-- [ ] Bloqueador resistente al agua
+### Recomendaciones
+- Confirmar reservación del tour de ATV
+- Llevar traje de baño y toalla
+- Empacar ropa extra para cambio
+- Tener bolsa impermeable para proteger electrónicos
+- Usar zapatos apropiados para agua
+- Aplicar bloqueador resistente al agua
 
 ---
 
@@ -167,12 +167,12 @@
 - 🥗 Almuerzo: Durante traslado o al llegar a San José
 - 🍽️ Cena: Restaurante en San José (explorar gastronomía local)
 
-### Checklist
-- [ ] Check-out Airbnb La Fortuna
-- [ ] Transporte La Fortuna → San José confirmado
-- [ ] Confirmación Airbnb San José
-- [ ] Espacio en maleta para souvenirs
-- [ ] Lista de souvenirs a comprar
+### Recomendaciones
+- Completar check-out del Airbnb La Fortuna
+- Confirmar transporte de La Fortuna a San José
+- Tener confirmación del Airbnb San José
+- Dejar espacio en la maleta para souvenirs
+- Preparar lista de souvenirs a comprar
 
 ---
 
@@ -225,13 +225,13 @@
 - El Irazú puede estar nublado - ir temprano en la mañana
 - Altitud alta - puede afectar a algunas personas
 
-### Checklist
-- [ ] Tour confirmado (horario de salida)
-- [ ] Ropa de abrigo empacada y accesible
-- [ ] Cámara con batería cargada
-- [ ] Snacks y agua
-- [ ] Bloqueador (aún con frío, la altitud intensifica el sol)
-- [ ] Dinero para comida/souvenirs
+### Recomendaciones
+- Confirmar tour y horario de salida
+- Tener ropa de abrigo empacada y accesible
+- Cargar batería de la cámara
+- Llevar snacks y agua
+- Aplicar bloqueador (aún con frío, la altitud intensifica el sol)
+- Llevar dinero para comida y souvenirs
 
 ---
 
@@ -279,15 +279,15 @@
 - 🥗 Almuerzo: Explorar restaurantes locales
 - 🍽️ Cena: Última cena especial en Costa Rica
 
-### Checklist
-- [ ] Lavar ropa en Airbnb
-- [ ] Empacar maleta para regreso
-- [ ] Verificar no olvidar nada en el Airbnb
-- [ ] Preparar ropa del vuelo
-- [ ] Confirmar transporte al aeropuerto
-- [ ] Check-in online del vuelo (si es posible 24h antes)
-- [ ] Repasar restricciones de equipaje
-- [ ] Souvenirs comprados y empacados
+### Recomendaciones
+- Aprovechar lavadora del Airbnb para lavar ropa
+- Comenzar a empacar maleta para el regreso
+- Verificar que no se olvide nada en el Airbnb
+- Preparar ropa del vuelo del día siguiente
+- Confirmar transporte al aeropuerto
+- Hacer check-in online del vuelo (disponible 24h antes)
+- Repasar restricciones de equipaje
+- Verificar que souvenirs estén comprados y empacados
 
 ---
 
@@ -306,15 +306,15 @@
 - Check-in y seguridad
 - Vuelo de regreso
 
-### Checklist Final
-- [ ] Alarma configurada para 5:00am o antes
-- [ ] Maletas cerradas y listas
-- [ ] Revisión final del Airbnb (no olvidar nada)
-- [ ] Boarding passes listos (digital o impreso)
-- [ ] Pasaporte y documentos accesibles
-- [ ] Snacks para el viaje
-- [ ] Batería de celular cargada
-- [ ] Souvenirs bien empacados (carry-on si es frágil)
+### Recomendaciones Finales
+- Configurar alarma para 5:00am o antes
+- Tener maletas cerradas y listas la noche anterior
+- Hacer revisión final del Airbnb para no olvidar nada
+- Tener boarding passes listos (digital o impreso)
+- Mantener pasaporte y documentos accesibles
+- Llevar snacks para el viaje
+- Cargar batería del celular
+- Empacar souvenirs con cuidado (carry-on si son frágiles)
 
 ---
 
@@ -395,6 +395,3 @@
 - Propinas: 10% usual
 
 ---
-
-**Última actualización:** 2025-11-08
-**Status:** Itinerario completo confirmado
