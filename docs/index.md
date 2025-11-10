@@ -32,28 +32,14 @@
 - [**alojamientos.md**](./alojamientos.md) - Info de los 3 alojamientos, check-in/out, contactos
 - [**planificacion-ropa.md**](./planificacion-ropa.md) - Lista completa de ropa + plan por día
 
-### 📋 Pendiente
-- [ ] Confirmar reservas de tours y actividades
-- [ ] Coordinar transporte aeropuerto ↔ hoteles
-- [ ] Coordinar traslados La Fortuna ↔ San José
-- [ ] Contactar anfitriones de Airbnbs
-- [ ] Checklist de documentos (pasaporte, seguros, etc.)
-- [ ] Presupuesto detallado y gastos
-- [ ] Equipaje adicional (electrónicos, medicinas, first aid kit)
-- [ ] Comprar/verificar seguro de viaje
+### 📋 Preparativos del Viaje
+- Confirmación de reservas de tours y actividades en proceso
+- Transporte desde el aeropuerto a los hoteles en coordinación
+- Traslados entre La Fortuna y San José organizándose
+- Contacto con anfitriones de Airbnbs para coordinar detalles
+- Importante tener documentos al día (pasaporte, seguros, etc.)
+- Presupuesto detallado disponible próximamente
+- Considerar equipaje adicional (electrónicos, medicinas, botiquín)
+- Recomendado verificar o adquirir seguro de viaje
 
 ---
-
-## 🎯 Próximos Pasos
-1. ✅ ~~Información de vuelos~~
-2. ✅ ~~Itinerario detallado día por día~~
-3. ✅ ~~Información de alojamientos~~
-4. ✅ ~~Planificación de ropa actualizada~~
-5. Contactar anfitriones Airbnb (confirmar early check-out día 29)
-6. Confirmar todos los transportes
-7. Preparar checklist final de equipaje
-
----
-
-**Última actualización:** 2025-11-08
-# costa-rica
