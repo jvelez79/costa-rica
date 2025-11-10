@@ -1,0 +1,63 @@
+site_name: 🌴 Viaje Costa Rica 2025
+site_description: Planificación completa del viaje a Costa Rica - Noviembre 2025
+site_author: Grupo Viajeros
+
+theme:
+  name: material
+  language: es
+  palette:
+  # Palette toggle for light mode
+  - scheme: default
+    primary: green
+    accent: light green
+    toggle:
+      icon: material/brightness-7
+      name: Cambiar a modo oscuro
+  # Palette toggle for dark mode
+  - scheme: slate
+    primary: green
+    accent: light green
+    toggle:
+      icon: material/brightness-4
+      name: Cambiar a modo claro
+  features:
+  - navigation.instant
+  - navigation.tracking
+  - navigation.sections
+  - navigation.expand
+  - navigation.top
+  - search.suggest
+  - search.highlight
+  - content.code.copy
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+- search:
+    lang: es
+
+markdown_extensions:
+- pymdownx.emoji:
+    emoji_index: !!python/name:material.extensions.emoji.twemoji ""
+    emoji_generator: !!python/name:material.extensions.emoji.to_svg ""
+- pymdownx.tasklist:
+    custom_checkbox: true
+- admonition
+- pymdownx.details
+- pymdownx.superfences
+- tables
+- attr_list
+- md_in_html
+
+nav:
+- '🏠 Inicio': index.md
+- '✈️ Vuelos': vuelos.md
+- '📅 Itinerario': itinerario.md
+- '🏨 Alojamientos': alojamientos.md
+- '👕 Planificación Ropa': planificacion-ropa.md
+- '📚 Investigación':
+  - '🌋 Volcán Arenal': investigacion/volcan-arenal.md
+  - '♨️ Aguas Termales': investigacion/aguas-termales.md
+  - '🍽️ Restaurantes La Fortuna': investigacion/restaurantes-la-fortuna.md
+  - '🍽️ Restaurantes San José': investigacion/restaurantes-san-jose.md
+  - '🚣 Rafting Rápidos': investigacion/rafting-rapidos.md

@@ -1,0 +1,394 @@
+# CLAUDE.md - Instrucciones para Asistente AI
+
+## 🎯 Propósito del Proyecto
+Planificación y documentación completa del viaje a Costa Rica (23-29 Noviembre 2025).
+Grupo de 10 adultos. Enfoque: Naturaleza, Aventura, Ciudad, Cultural.
+
+## 📂 Estructura del Proyecto
+
+### Archivos Principales
+- **README.md** - Resumen general, próximos pasos, información clave
+- **vuelos.md** - Itinerario completo de vuelos Copa Airlines
+- **itinerario.md** - Plan día por día con actividades
+- **alojamientos.md** - Info de Hotel Aloft + 2 Airbnbs
+- **planificacion-ropa.md** - Lista de ropa y plan por día
+
+### Archivos de Investigación
+- **investigacion-volcan-arenal.md** - Research completo Día 1
+- (Pendiente) investigacion-dia2-actividades.md
+- (Pendiente) investigacion-aguas-termales.md
+- (Pendiente) investigacion-transporte.md
+
+### Archivos de Referencia
+- **Booking.com_ Confirmation.pdf** - Confirmación Hotel Aloft
+
+## 🗓️ Contexto del Viaje
+
+### Información Clave
+- **Fechas:** 23-29 Noviembre 2025 (6 días / 6 noches)
+- **Grupo:** 10 adultos
+- **Regiones:** San José + La Fortuna (Arenal)
+- **Tipo:** Naturaleza, Aventura, Ciudad, Cultural
+- **Transporte:** ✅ **2 vehículos alquilados** (capacidad para 10 personas)
+
+### Itinerario Resumido
+- **Día 0 (Dom 23):** Llegada San José → Hotel Aloft (2 vehículos)
+- **Día 1 (Lun 24):** Traslado La Fortuna (3h drive) → Volcán Arenal + Aguas Termales
+- **Día 2 (Mar 25):** ATV Los Rápidos + Cascada La Fortuna
+- **Día 3 (Mié 26):** Traslado San José (3h drive) → City Tour + Mercado Artesanías
+- **Día 4 (Jue 27):** Cartago + Basílica + Volcán Irazú (FRÍO!)
+- **Día 5 (Vie 28):** Día libre San José
+- **Día 6 (Sáb 29):** Check-out temprano → Vuelo regreso (devolver vehículos)
+
+### Alojamientos
+- **Noche 1:** Hotel Aloft San José (Conf: 6488.384.259)
+- **Noches 2-3:** Casa Mañana - La Fortuna (Airbnb)
+- **Noches 4-6:** Casa Ayarcos - San José (Airbnb)
+
+### Transporte
+- ✅ **2 vehículos de alquiler reservados** (grupo de 10 personas)
+- **Pickup:** Aeropuerto SJO (llegada Dom 23, ~7:00 PM)
+- **Drop-off:** Aeropuerto SJO (salida Sáb 29, ~6:30-7:00 AM)
+- **Duración:** 6 días completos
+- **Rutas principales:**
+  - SJO → San José ciudad (~30 min)
+  - San José → La Fortuna (~3-3.5 horas, 130 km)
+  - La Fortuna → San José (~3-3.5 horas)
+  - San José → Cartago/Irazú (~1-2 horas)
+
+## 📋 Tareas Pendientes
+
+### ✅ Completado
+- [x] Vuelos confirmados (Copa Airlines)
+- [x] Hotel Aloft San José (Noche 1)
+- [x] Airbnb La Fortuna (Noches 2-3)
+- [x] Airbnb San José (Noches 4-6)
+- [x] **Alquiler de 2 vehículos**
+- [x] Investigación Volcán Arenal
+- [x] Investigación Aguas Termales (comparación Baldi vs Tabacón vs otros)
+
+### 🔴 Prioridad URGENTE
+- [ ] **🔥 Contactar Casa Mañana (Airbnb La Fortuna):** Confirmar late check-in ~9:00-10:00 PM Día 1 (Lun 24)
+- [ ] **🔥 Contactar Casa Ayarcos (Airbnb San José):** Confirmar early check-out ~6:00 AM Día 6 (Sáb 29)
+
+### Investigación Necesaria
+- [ ] ATV Los Rápidos (operadores, precios, horarios, estacionamiento)
+- [ ] Cascada La Fortuna (entrada, logística, tiempo, parking)
+- [ ] Tours Cartago + Irazú (o hacerlo independiente con vehículos)
+- [ ] City Tour San José (¿tour o explorar con vehículos?)
+- [ ] Restaurantes recomendados (con estacionamiento)
+- [ ] Estacionamiento en cada destino
+
+### Documentación Pendiente
+- [ ] Checklist de equipaje adicional (electrónicos, medicinas)
+- [ ] Presupuesto detallado consolidado
+- [ ] Seguro de viaje
+- [ ] Itinerario de comidas/restaurantes
+- [ ] Confirmación alquiler vehículos (detalles, seguro, combustible)
+- [ ] Rutas GPS/mapas offline descargados
+- [ ] Información sobre conducir en Costa Rica
+
+## 🚗 Información de Vehículos Alquilados
+
+### Detalles de Reserva
+- **Cantidad:** 2 vehículos
+- **Capacidad:** Para 10 personas total + equipaje
+- **Pickup:** Aeropuerto SJO
+- **Fecha/Hora Pickup:** Dom 23 Nov ~7:00 PM (después de llegada vuelo 6:56 PM)
+- **Fecha/Hora Drop-off:** Sáb 29 Nov ~6:30-7:00 AM (antes de vuelo 8:07 AM)
+
+### Pendiente Confirmar
+- [ ] Compañía de alquiler
+- [ ] Modelo de vehículos (SUV, van, minivan?)
+- [ ] Número de confirmación
+- [ ] Seguro incluido (cobertura)
+- [ ] Política de combustible (lleno-lleno?)
+- [ ] Conductor adicional incluido?
+- [ ] GPS incluido o usar celular?
+- [ ] Peajes en ruta (método de pago)
+- [ ] Restricciones (4x4 necesario para algún destino?)
+
+### Consideraciones de Manejo
+- **Distancia total estimada:** ~500-600 km durante 6 días
+- **Combustible:** Presupuestar gasolina
+- **Conductor:** Definir quién maneja (licencia internacional?)
+- **Seguro:** Verificar cobertura completa
+- **Mapas:** Descargar Google Maps offline para ambas regiones
+
+## 🔧 Instrucciones para Claude
+
+### Al Comenzar Sesión
+1. Leer README.md primero (contexto general)
+2. Verificar pendientes en README.md
+3. Recordar que **tenemos 2 vehículos alquilados** - afecta todas las recomendaciones de transporte
+4. Preguntar en qué área específica ayudar
+
+### Al Hacer Investigación
+- **Guardar SIEMPRE** en `/home/juanca/Documents/viaje-costa-rica/`
+- **Formato:** Markdown con estructura clara
+- **Nombrar archivos:** `investigacion-[tema].md`
+- **Incluir:**
+  - Resumen ejecutivo al inicio
+  - Costos detallados
+  - **Información de estacionamiento** (ya que tenemos vehículos)
+  - Operadores con contactos
+  - Itinerarios sugeridos
+  - Pros/contras de tour vs hacerlo independiente con vehículos
+  - Rutas y tiempos de manejo
+  - Fuentes consultadas
+  - Nivel de confianza de la información
+
+### Al Investigar Actividades
+**IMPORTANTE:** Siempre considerar:
+- ¿Se puede hacer independiente con vehículos o requiere tour?
+- ¿Hay estacionamiento disponible?
+- ¿Es gratis o pagado el parking?
+- ¿Seguro para dejar vehículos?
+- ¿Tour incluye beneficios que valen la pena vs ir por cuenta propia?
+- Comparar costo: Tour vs entrada + parking + gasolina
+
+### Al Actualizar Archivos
+- Mantener formato consistente con archivos existentes
+- Actualizar fecha de "Última actualización"
+- Marcar pendientes como completados en README.md
+- Cross-referenciar entre archivos cuando sea relevante
+
+### Preferencias de Formato
+- Usar emojis para secciones (📅 🏨 ✈️ 🌋 🚗 etc.)
+- Listas con checkboxes para tareas
+- Tablas para comparaciones
+- Resaltar IMPORTANTE con **negrita** o ⚠️
+- Incluir costos en USD
+- Horarios en formato 12h (AM/PM) y 24h
+
+### Estilo de Comunicación
+- Ser directo y práctico
+- Priorizar información accionable
+- Incluir opciones (Tour/Independiente, Budget/Mid-range/Premium)
+- Anticipar preguntas de seguimiento
+- Dar recomendaciones basadas en contexto del grupo
+- **Aprovechar ventaja de tener vehículos propios**
+
+## 🎯 Áreas de Enfoque
+
+### Prioridad Alta
+1. Confirmar detalles de alquiler de vehículos (seguro, conductor adicional)
+2. Completar investigación de actividades Día 2
+3. Investigar estacionamiento en cada destino
+4. Presupuesto consolidado (incluir gasolina)
+5. Contactar Airbnbs para confirmar parking y early check-out Día 6
+
+### Prioridad Media
+1. Opciones de restaurantes por zona (con parking)
+2. Checklist equipaje completo
+3. Seguro de viaje
+4. Números de emergencia
+5. Rutas GPS/mapas offline
+6. Información sobre conducir en Costa Rica (reglas, peajes)
+
+### Prioridad Baja
+1. Souvenirs a comprar
+2. Frases en español útiles
+3. Apps recomendadas
+4. Gasolineras en ruta
+
+## 📊 Convenciones
+
+### Archivos de Investigación
+```markdown
+# [Título Actividad/Tema]
+**Fecha de investigación:** [fecha]
+**Nivel de confianza:** [Alto/Medio/Bajo]
+
+## RESUMEN EJECUTIVO
+[3-5 puntos clave]
+
+## OPCIÓN 1: CON VEHÍCULOS PROPIOS
+- Costo entrada
+- Estacionamiento
+- Ruta/distancia desde alojamiento
+- Pros/contras
+
+## OPCIÓN 2: TOUR ORGANIZADO
+- Costo tour
+- Qué incluye
+- Pros/contras
+
+## RECOMENDACIÓN
+[Tour vs Independiente]
+
+## [Secciones detalladas]
+...
+
+## PRESUPUESTO
+[Desglose de costos]
+
+## FUENTES
+[Enlaces/referencias]
+```
+
+### Actualización de README.md
+- Marcar ✅ cuando se complete una tarea
+- Añadir nuevos pendientes según surjan
+- Actualizar "Última actualización"
+- Mantener sección "Próximos Pasos" actualizada
+
+## 🔗 Referencias Cruzadas
+
+### Clima por Región
+- **San José:** Ver itinerario.md líneas 369-374
+- **La Fortuna:** Ver itinerario.md líneas 376-381
+- **Volcán Irazú:** Ver itinerario.md líneas 383-385
+
+### Ropa Recomendada por Día
+- Ver planificacion-ropa.md sección "Plan Día por Día"
+- Cross-ref con itinerario.md para actividades
+
+### Horarios de Vuelo
+- Ver vuelos.md para timeline completo
+- Considerar check-out temprano Sábado 29 (vuelo 8:07 AM)
+- Devolver vehículos en aeropuerto antes de check-in
+
+### Rutas de Manejo
+- **San José → La Fortuna:** ~130 km, 3-3.5 horas (Ruta 1 Norte)
+- **La Fortuna → San José:** ~130 km, 3-3.5 horas (ruta de regreso)
+- **San José → Volcán Irazú:** ~54 km, 1.5 horas
+- Ver investigacion-volcan-arenal.md para detalles de conducción
+
+## 💡 Tips para Investigación
+
+### Cuando Investigar Tours
+- **SIEMPRE comparar:** Tour vs Hacerlo con vehículos propios
+- Considerar:
+  - ¿Tour ahorra tiempo/dinero vs independiente?
+  - ¿Tour incluye guía experto que vale la pena?
+  - ¿Estacionamiento fácil/seguro si vamos solos?
+  - ¿Grupo de 10 obtiene descuento en tour?
+- Buscar operadores con +1000 reseñas
+- Verificar reseñas 2024-2025 (actuales)
+- Incluir teléfono, email, website
+- Comparar precios grupo vs individual
+- Verificar política cancelación
+
+### Cuando Investigar Destinos
+- **SIEMPRE incluir:**
+  - Dirección exacta (para GPS)
+  - Coordenadas GPS si disponible
+  - Información de estacionamiento (disponibilidad, costo, seguridad)
+  - Tiempo de manejo desde alojamiento
+  - Estado de carreteras (4x4 necesario?)
+  - Gasolineras cercanas
+- Incluir múltiples opciones de rutas si aplica
+- Verificar tiempos de viaje realistas (con tráfico)
+- Considerar peajes
+
+### Cuando Investigar Comida
+- Rango de precios (Budget/Mid/Premium)
+- Ubicación respecto a alojamiento
+- **¿Tiene estacionamiento?** (CRÍTICO)
+- Horarios de operación
+- Reservas necesarias para grupo 10?
+- Menú/tipo de comida
+
+## 🚨 Consideraciones Especiales
+
+### Grupo de 10 Personas
+- Algunos tours requieren reserva anticipada
+- Descuentos grupales posibles
+- **2 vehículos = coordinación entre conductores necesaria**
+- Presupuesto total significativo
+- Radio/walkie-talkies útiles para comunicación entre vehículos
+
+### Tenemos 2 Vehículos Alquilados
+- **VENTAJA:** Flexibilidad total de horarios
+- **VENTAJA:** Podemos visitar lugares remotos sin tours costosos
+- **VENTAJA:** Ahorro en transporte tours (que cobran $60-80 pp)
+- **CONSIDERACIÓN:** Necesitamos estacionamiento seguro en cada destino
+- **CONSIDERACIÓN:** Costo de gasolina (~$100-150 total para 6 días)
+- **CONSIDERACIÓN:** Al menos 2 conductores designados
+- **CONSIDERACIÓN:** Licencia de conducir internacional? (verificar)
+
+### Noviembre = Época Lluviosa
+- Lluvia probable cada tarde
+- **Conducir con lluvia:** Más cuidado, velocidad reducida
+- Carreteras pueden estar resbaladizas
+- Planes de contingencia necesarios
+- Ropa impermeable esencial
+- Visibilidad reducida en volcanes
+
+### Check-out Temprano Sábado 29
+- Vuelo 8:07 AM requiere salir hotel 6:00 AM
+- **Devolver vehículos ~6:30-7:00 AM en aeropuerto**
+- Verificar horario de apertura de oficina alquiler
+- Llenar tanque noche anterior (viernes 28 PM)
+- Coordinar con anfitrión Airbnb
+- Preparar todo noche anterior
+
+### Volcán Irazú - FRÍO
+- 5-10°C posible
+- Ropa de abrigo ESENCIAL
+- **Conducir a alta altitud:** Cuidado con neblina
+- Ver planificacion-ropa.md Día 4
+
+## 🗺️ Rutas Principales
+
+### San José → La Fortuna (Día 1)
+- **Distancia:** ~130 km
+- **Tiempo:** 3-3.5 horas
+- **Ruta:** Tomar Ruta 1 Norte hacia Ciudad Quesada, luego Ruta 142 hacia La Fortuna
+- **Gasolineras:** Disponibles en ruta (llenar antes de salir SJ)
+- **Peajes:** Verificar si hay
+- **Paradas sugeridas:** Sarchí (artesanías), Zarcero (parque topiary)
+
+### La Fortuna → San José (Día 3)
+- **Distancia:** ~130 km
+- **Tiempo:** 3-3.5 horas
+- **Ruta:** Reversa de la ida
+- **Consideración:** Salir temprano para evitar tráfico entrada a San José
+
+### San José → Cartago → Irazú (Día 4)
+- **Distancia:** ~54 km total
+- **Tiempo:** 1.5-2 horas
+- **Ruta:** Tomar Ruta 2 hacia Cartago, luego subir a Irazú
+- **Consideración:** Carretera de montaña, curvas
+- **Altitud:** 3,432m - manejar con cuidado
+
+### Dentro de San José (Días 3, 5)
+- **Parking:** Investigar estacionamiento seguro cerca de atracciones
+- **Tráfico:** Pesado en horas pico (7-9 AM, 5-7 PM)
+- **Opción:** Dejar vehículos en hotel, usar taxi/Uber para ciudad
+
+## 📝 Formato para Presupuestos
+
+### Siempre Incluir en Cálculos:
+- Costo base actividad
+- **Gasolina** (estimar por km)
+- **Parking** (si aplica)
+- Comidas
+- Propinas
+- **Total por persona** (dividir entre 10)
+- **Total grupo**
+
+### Ejemplo:
+```markdown
+## Presupuesto Día 2
+
+**Opción 1: Tours Organizados**
+- ATV tour: $85 × 10 = $850
+- Cascada tour: $45 × 10 = $450
+- TOTAL: $1,300
+
+**Opción 2: Independiente con Vehículos**
+- ATV entrada: $60 × 10 = $600
+- Cascada entrada: $18 × 10 = $180
+- Gasolina: ~$20
+- Parking: $10
+- TOTAL: $810
+- **AHORRO: $490**
+```
+
+---
+
+**Creado:** 9 Noviembre 2025
+**Última actualización:** 9 Noviembre 2025
+**Mantenido por:** Claude AI + Juan Carlos
