@@ -1,11 +1,8 @@
 # Investigación Volcán Arenal - Día 1 (Lunes 24 Noviembre 2025)
 
-**Fecha de investigación:** 9 Noviembre 2025
-**Última validación:** 9 Noviembre 2025 (precios y datos verificados para 2024-2025)
-
 ---
 
-## RESUMEN EJECUTIVO
+## Información Clave
 
 ### Estado Actual del Volcán
 - **Status:** DORMIDO desde octubre 2010 (15 años sin actividad)
@@ -207,13 +204,13 @@
 
 ---
 
-### ⚠️ ACCIÓN REQUERIDA ANTES DEL VIAJE:
+### ⚠️ Consideraciones Importantes Antes del Viaje:
 
-**CRÍTICO - Confirmar con Casa Mañana:**
-- [ ] **Late check-in permitido ~9:00-10:00 PM**
-- [ ] Método de entrada (lockbox, código, anfitrión presente)
-- [ ] Instrucciones específicas para check-in nocturno
-- [ ] Número de contacto WhatsApp para emergencias
+**IMPORTANTE - Coordinar con Casa Mañana:**
+- **Late check-in permitido ~9:00-10:00 PM** - Confirmar disponibilidad
+- Método de entrada (lockbox, código, anfitrión presente)
+- Instrucciones específicas para check-in nocturno
+- Número de contacto WhatsApp para emergencias
 
 **Nota:** Mayoría de Airbnbs permiten late check-in si se avisa con anticipación. Muchos tienen self check-in automático.
 
@@ -716,34 +713,6 @@ El volcán es el escenario perfecto para actividades de aventura y relajación, 
 - ¿Qué pasa si llueve fuerte?
 - ¿Descuento para grupo de 10 personas?
 - ¿Guía bilingüe incluido?
-
----
-
-## REGISTRO DE VALIDACIÓN
-
-**Investigación original:** 9 Noviembre 2025
-**Última validación:** 9 Noviembre 2025
-**Fuentes consultadas:** 60+ fuentes verificadas incluyendo:
-- TripAdvisor (reseñas 2024-2025)
-- Visit Costa Rica (oficial)
-- Sitios oficiales: Tabacon.com, BaldiHotSprings.cr, DesafioCostaRica.com, EcoterraCostaRica.com
-- Weather Spark, Weather2Visit (datos climáticos)
-- Costa Rica Travel Blogs (2024-2025)
-- CRIE.cr, Gap.cr (contactos emergencia)
-- AllTrails, Walk My World, Thoroughly Travel (senderos y comparaciones)
-
-**Nivel de confianza:** 90% (información actual y verificada con múltiples fuentes)
-
-**Cambios principales en validación 2024-2025:**
-- ✅ Estado volcán dormido desde 2010 (confirmado)
-- ⚠️ Probabilidad lluvia noviembre: 81% (actualizado de 78%)
-- ⚠️ Precios tours combo: $130-192 (aumentaron de $85-150)
-- ➕ Agregada sección detallada aguas termales (Baldi, Tabacón, Ecotermales, Termalitas)
-- ➕ Agregados contactos Hospital San Carlos
-- ➕ Actualizado presupuesto con 4 opciones claras
-- ⚠️ MonteTours: Aclarado que es operador de Monteverde, no local de Arenal
-
-**Próxima actualización:** Antes de reservar (verificar disponibilidad específica para fechas)
 
 ---
 
