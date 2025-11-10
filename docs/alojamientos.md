@@ -46,15 +46,15 @@
 ### GPS Coordinates
 - **Coordenadas:** N 009° 57.339, W 84° 11.692
 
-### Checklist
-- [x] Confirmación de reserva (6488.384.259)
-- [x] Teléfono del hotel (+506 2205 3511)
-- [x] Dirección exacta para GPS
-- [x] Desayuno incluido confirmado
-- [x] WiFi y estacionamiento gratis confirmados
-- [ ] Confirmar transporte del aeropuerto al hotel
-- [ ] Verificar horario del desayuno
-- [ ] Llevar ID con foto y tarjeta de crédito al check-in
+### Información Importante
+- Confirmación de reserva: 6488.384.259
+- Teléfono del hotel: +506 2205 3511
+- Dirección disponible para GPS
+- Desayuno incluido en la reserva
+- WiFi y estacionamiento gratuitos confirmados
+- Confirmar transporte del aeropuerto al hotel con anticipación
+- Verificar horario del desayuno al llegar
+- Llevar ID con foto y tarjeta de crédito para el check-in
 
 ### Contacto
 - **Nombre:** Aloft San Jose Hotel, Costa Rica
@@ -81,13 +81,13 @@
 - **Horario check-in:** Verificar con anfitrión
 - **Horario check-out:** Verificar con anfitrión
 
-### Servicios Importantes
-- [ ] Wi-Fi
-- [ ] Cocina (para preparar desayunos)
-- [ ] Lavadora (útil si necesitas)
-- [ ] Estacionamiento (si aplica)
-- [ ] A/C o ventiladores
-- [ ] Agua caliente
+### Servicios a Verificar con Anfitrión
+- Wi-Fi disponible
+- Cocina equipada (para preparar desayunos)
+- Lavadora disponible
+- Estacionamiento (confirmar disponibilidad)
+- Aire acondicionado o ventiladores
+- Agua caliente
 
 ### Lo que Necesitas Saber
 - **Instrucciones de llegada:** Obtener del anfitrión
@@ -95,13 +95,13 @@
 - **Reglas de la casa:** Revisar antes de llegar
 - **Parking:** Verificar si hay y dónde
 
-### Checklist Pre-Llegada
-- [ ] Contactar anfitrión para confirmar llegada
-- [ ] Obtener instrucciones detalladas de acceso
-- [ ] Dirección exacta para GPS
-- [ ] Teléfono del anfitrión
-- [ ] Preguntar sobre recomendaciones locales
-- [ ] Verificar si incluye desayuno o cocina disponible
+### Preparativos de Llegada
+- Contactar anfitrión para confirmar llegada con anticipación
+- Obtener instrucciones detalladas de acceso
+- Solicitar dirección exacta para GPS
+- Guardar teléfono del anfitrión
+- Preguntar sobre recomendaciones locales
+- Verificar disponibilidad de cocina
 
 ### Actividades desde esta Base
 - Volcán Arenal (Día 1)
@@ -132,14 +132,14 @@
 - **Horario check-in:** Verificar con anfitrión
 - **Horario check-out:** ⚠️ COORDINAR early check-out
 
-### Servicios Importantes
-- [ ] Wi-Fi
-- [ ] Cocina
-- [ ] **Lavadora** ⭐ (IMPORTANTE - lavar ropa acumulada)
-- [ ] Estacionamiento (si aplica)
-- [ ] A/C o ventiladores
-- [ ] Agua caliente
-- [ ] Plancha (para ropa del regreso)
+### Servicios a Verificar con Anfitrión
+- Wi-Fi disponible
+- Cocina equipada
+- **Lavadora** ⭐ (importante para lavar ropa acumulada)
+- Estacionamiento (confirmar disponibilidad)
+- Aire acondicionado o ventiladores
+- Agua caliente
+- Plancha disponible (para ropa del regreso)
 
 ### Lo que Necesitas Saber
 - **Instrucciones de llegada:** Obtener del anfitrión
@@ -148,15 +148,15 @@
 - **Devolver llaves:** Método para check-out temprano
 - **Reglas de la casa:** Revisar
 
-### Checklist Pre-Llegada
-- [ ] Contactar anfitrión para confirmar llegada
-- [ ] ⭐ COORDINAR early check-out (6am del sábado 29)
-- [ ] Obtener instrucciones detalladas de acceso
-- [ ] Dirección exacta para GPS
-- [ ] Teléfono del anfitrión
-- [ ] Preguntar sobre uso de lavadora
-- [ ] Verificar procedimiento para check-out temprano
-- [ ] Preguntar recomendaciones de restaurantes cercanos
+### Preparativos de Llegada
+- Contactar anfitrión para confirmar llegada con anticipación
+- ⭐ **IMPORTANTE:** Coordinar early check-out (6am del sábado 29)
+- Obtener instrucciones detalladas de acceso
+- Solicitar dirección exacta para GPS
+- Guardar teléfono del anfitrión
+- Preguntar sobre uso de lavadora
+- Verificar procedimiento para check-out temprano
+- Solicitar recomendaciones de restaurantes cercanos
 
 ### Actividades desde esta Base
 - City Tour San José (Día 3 - llegada)
@@ -172,39 +172,39 @@
 
 ---
 
-## 📋 CHECKLIST GENERAL DE ALOJAMIENTOS
+## 📋 GUÍA GENERAL DE ALOJAMIENTOS
 
 ### Antes del Viaje
-- [ ] Imprimir/guardar todas las confirmaciones
-- [ ] Tener todos los números de teléfono guardados
-- [ ] Descargar direcciones en Google Maps offline
-- [ ] Contactar a todos los anfitriones
-- [ ] Revisar políticas de cancelación
-- [ ] Verificar qué está incluido (toallas, jabón, etc.)
+- Imprimir o guardar digitalmente todas las confirmaciones
+- Tener todos los números de teléfono guardados en el celular
+- Descargar direcciones en Google Maps offline
+- Contactar a todos los anfitriones con anticipación
+- Revisar políticas de cancelación
+- Verificar qué está incluido (toallas, jabón, etc.)
 
 ### Información a Obtener de Cada Airbnb
-- [ ] Dirección exacta y cómo llegar
-- [ ] Código Wi-Fi
-- [ ] Instrucciones de check-in/check-out
-- [ ] Reglas de la casa
-- [ ] Qué está incluido (toallas, productos de baño, etc.)
-- [ ] Recomendaciones locales
-- [ ] Contacto de emergencia
+- Dirección exacta y cómo llegar
+- Código Wi-Fi
+- Instrucciones de check-in y check-out
+- Reglas de la casa
+- Qué está incluido (toallas, productos de baño, etc.)
+- Recomendaciones locales
+- Contacto de emergencia
 
 ### Al Hacer Check-in
-- [ ] Verificar que todo funcione (Wi-Fi, A/C, agua caliente)
-- [ ] Ubicar extintores/salidas de emergencia
-- [ ] Tomar fotos del estado del lugar (protección)
-- [ ] Guardar número de emergencia del anfitrión
-- [ ] Preguntar sobre basura/reciclaje
+- Verificar que todo funcione (Wi-Fi, A/C, agua caliente)
+- Ubicar extintores y salidas de emergencia
+- Tomar fotos del estado del lugar para protección
+- Guardar número de emergencia del anfitrión
+- Preguntar sobre basura y reciclaje
 
 ### Al Hacer Check-out
-- [ ] Limpiar y ordenar según reglas de la casa
-- [ ] Verificar no olvidar nada (cajones, baño, enchufes)
-- [ ] Sacar basura si es requerido
-- [ ] Dejar llaves según instrucciones
-- [ ] Apagar luces, A/C, cerrar ventanas
-- [ ] Tomar foto final del lugar limpio
+- Limpiar y ordenar según reglas de la casa
+- Verificar que no se olvide nada (cajones, baño, enchufes)
+- Sacar basura si es requerido
+- Dejar llaves según instrucciones
+- Apagar luces, A/C, cerrar ventanas
+- Tomar foto final del lugar limpio
 
 ---
 
@@ -214,14 +214,14 @@
 El check-out será MUY temprano (~6:00am) por el vuelo a las 8:07am.
 
 #### Preparativos Noche Anterior (Viernes 28)
-- [ ] Maletas 100% empacadas
-- [ ] Ropa del vuelo lista y separada
-- [ ] Artículos de baño en carry-on
-- [ ] Revisar no olvidar nada en cajones/closet
-- [ ] Dejar área limpia y lista
-- [ ] Coordinar método para devolver llaves
-- [ ] Configurar múltiples alarmas (5:00am)
-- [ ] Cargar todos los dispositivos
+- Tener maletas 100% empacadas
+- Dejar ropa del vuelo lista y separada
+- Colocar artículos de baño en carry-on
+- Revisar que no se olvide nada en cajones/closet
+- Dejar área limpia y lista para salir
+- Coordinar método para devolver llaves con anfitrión
+- Configurar múltiples alarmas para las 5:00am
+- Cargar todos los dispositivos electrónicos
 
 #### Mañana del Check-out (Sábado 29)
 - ⏰ 5:00am: Despertar
@@ -263,6 +263,3 @@ El check-out será MUY temprano (~6:00am) por el vuelo a las 8:07am.
 - Link: https://www.airbnb.com/rooms/37756859
 
 ---
-
-**Última actualización:** 2025-11-08
-**Próxima acción:** Contactar anfitriones para confirmar detalles
