@@ -34,7 +34,7 @@ Grupo de 10 adultos. Enfoque: Naturaleza, Aventura, Ciudad, Cultural.
 ### Itinerario Resumido
 - **Día 0 (Dom 23):** Llegada San José → Hotel Aloft (2 vehículos)
 - **Día 1 (Lun 24):** Traslado La Fortuna (3h drive) → Volcán Arenal + Aguas Termales
-- **Día 2 (Mar 25):** ATV Los Rápidos + Cascada La Fortuna
+- **Día 2 (Mar 25):** ATV (Cuatrimotos) + Rafting Los Rápidos + Cascada La Fortuna
 - **Día 3 (Mié 26):** Traslado San José (3h drive) → City Tour + Mercado Artesanías
 - **Día 4 (Jue 27):** Cartago + Basílica + Volcán Irazú (FRÍO!)
 - **Día 5 (Vie 28):** Día libre San José
@@ -72,7 +72,8 @@ Grupo de 10 adultos. Enfoque: Naturaleza, Aventura, Ciudad, Cultural.
 - [ ] **🔥 Contactar Casa Ayarcos (Airbnb San José):** Confirmar early check-out ~6:00 AM Día 6 (Sáb 29)
 
 ### Investigación Necesaria
-- [ ] ATV Los Rápidos (operadores, precios, horarios, estacionamiento)
+- [ ] ATV - Tours en cuatrimotos (operadores, precios, horarios, estacionamiento)
+- [ ] Rafting Los Rápidos (ya investigado en rafting-rapidos.md)
 - [ ] Cascada La Fortuna (entrada, logística, tiempo, parking)
 - [ ] Tours Cartago + Irazú (o hacerlo independiente con vehículos)
 - [ ] City Tour San José (¿tour o explorar con vehículos?)
@@ -439,16 +440,20 @@ docs/investigacion/
 
 **Opción 1: Tours Organizados**
 - ATV tour: $85 × 10 = $850
+- Rafting Los Rápidos: $75 × 10 = $750
 - Cascada tour: $45 × 10 = $450
-- TOTAL: $1,300
+- TOTAL: $2,050
 
-**Opción 2: Independiente con Vehículos**
-- ATV entrada: $60 × 10 = $600
+**Opción 2: Mix (Tour Rafting + Independiente resto)**
+- Rafting tour: $75 × 10 = $750 (incluye transporte, equipo, almuerzo)
+- ATV independiente: $60 × 10 = $600
 - Cascada entrada: $18 × 10 = $180
-- Gasolina: ~$20
-- Parking: $10
-- TOTAL: $810
-- **AHORRO: $490**
+- Gasolina: ~$30
+- Parking: $15
+- TOTAL: $1,575
+- **AHORRO: $475**
+
+**Nota:** Rafting requiere tour organizado (equipo, guías certificados, seguridad)
 ```
 
 ---

@@ -453,12 +453,15 @@ Opciones recomendadas:
 ## 📝 NOTAS ADICIONALES
 
 ### Combinación con ATV
-Si el itinerario original mencionaba "ATV Los Rápidos":
-- ⚠️ **Aclaración:** "Los Rápidos" probablemente se refería a rafting, NO a un tour de ATV
-- ✅ Si quieren hacer **ATV + Rafting mismo día:** Posible pero AGOTADOR
-- ⏰ **Opción combo:** Algunos operadores ofrecen combos (ATV + Rafting = ~8-9 horas)
-- 💰 **Costo combo:** ~$130-150 pp
-- 🎯 **Recomendación:** Separar actividades en días diferentes, O elegir una sola para Día 2
+**Aclaración importante:** ATV y "Los Rápidos" son dos actividades SEPARADAS:
+- 🏍️ **ATV:** Tours en cuatrimotos/vehículos todo terreno
+- 🌊 **Los Rápidos:** Rafting en aguas rápidas (esta actividad)
+
+**Si quieren hacer ambas el mismo día (Día 2):**
+- ⚠️ **AGOTADOR:** Ambas son actividades físicamente demandantes
+- ⏰ **Tiempo total:** ~8-9 horas combinadas (más Cascada La Fortuna = día MUY intenso)
+- 💰 **Costo combo:** ~$130-150 pp (si existe)
+- 🎯 **Recomendación:** Considerar hacer 2 de las 3 actividades (ATV + Cascada, o Rafting + Cascada)
 
 ### Alternativa: Safari Float
 Si prefieren algo **más relajado** que rafting:

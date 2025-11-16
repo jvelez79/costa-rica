@@ -108,7 +108,8 @@
 ### Actividades desde esta Base
 - Volcán Arenal (Día 1)
 - Aguas Termales (Día 1)
-- ATV Los Rápidos (Día 2)
+- ATV - Cuatrimotos (Día 2)
+- Rafting Los Rápidos (Día 2)
 - Cascada La Fortuna (Día 2)
 
 ### Notas

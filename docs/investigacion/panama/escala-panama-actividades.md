@@ -1,7 +1,9 @@
 # Actividades - Panamá City
 
-**Para:** Escala 11 horas (7:30 AM - 6:28 PM, Dom 23 Nov)
-**Tiempo disponible en ciudad:** ~4.5 horas (10 AM - 2 PM)
+**Para:** Escala 10h 58min (7:30 AM - 6:28 PM, Dom 23 Nov)
+**Tiempo disponible en ciudad:**
+- **Conservador:** ~4.5 horas (9:30 AM - 2:00 PM)
+- **Optimista:** ~6.5 horas (9:30 AM - 4:00 PM)
 
 ---
 
@@ -170,19 +172,25 @@
 
 ## 💡 RECOMENDACIONES RÁPIDAS
 
-**Tiempo limitado (4.5 horas):**
+**Plan Conservador (4.5 horas en ciudad - 9:30 AM a 2:00 PM):**
 1. Quedarse en Casco Viejo
 2. Walking tour (plazas, iglesias, street art)
 3. Altar de Oro (must-see, gratis)
 4. Mercado Mariscos (ceviche $1)
 5. Pedro Mandinga (degustación gratis)
 6. Café Geisha
-7. Cocktail en rooftop
+7. Cocktail en rooftop antes de regresar
 
-**Si quieren Canal:**
-- Ir directo a Miraflores (30 min Uber)
-- 2 horas en Canal
-- Regresar PTY 2 PM
+**Plan Optimista (6.5 horas en ciudad - 9:30 AM a 4:00 PM):**
+1. **Opción A:** Casco Viejo + Canal de Panamá (Miraflores)
+   - 9:30 AM - 12:00 PM: Casco Viejo (2.5h)
+   - 12:30 PM - 2:30 PM: Miraflores Locks (2h)
+   - 3:00 PM - 4:00 PM: Regreso + almuerzo rápido
+2. **Opción B:** Todo el día en Casco Viejo (más relajado)
+   - Explorar con calma todas las plazas y museos
+   - Almuerzo sentado en restaurante
+   - Compras de artesanías
+   - Más tiempo para fotos y disfrutar
 
 **Mejor valor:**
 - Muchas actividades GRATIS

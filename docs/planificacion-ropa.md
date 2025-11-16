@@ -29,7 +29,7 @@
 
 ## Actividades Específicas Confirmadas
 ✅ **Naturaleza:** Volcán Arenal, Cascada La Fortuna, Volcán Irazú
-✅ **Aventura:** Aguas Termales, ATV Los Rápidos
+✅ **Aventura:** Aguas Termales, ATV (Cuatrimotos), Rafting Los Rápidos
 ✅ **Ciudad/Cultural:** San José, Cartago, Basílica, Mercado Artesanías
 ⚠️ **IMPORTANTE:** Volcán Irazú requiere ropa de ABRIGO (frío extremo)
 

@@ -93,12 +93,18 @@
 📍 La Fortuna (permanece en Airbnb)
 
 ### Actividades
-1. 🏍️ **Los Rápidos ATV**
+1. 🏍️ **ATV (Cuatrimotos)**
    - Tour en cuatrimoto/ATV
    - Aventura off-road
    - Duración: Medio día
 
-2. 💦 **Cascada La Fortuna**
+2. 🌊 **Rafting en Los Rápidos**
+   - Rafting en aguas rápidas (Río Balsa o Sarapiquí)
+   - Clase II-III o III-IV
+   - Duración: 5-6 horas total (2.5h en el río)
+   - Incluye transporte, equipo, guías, almuerzo
+
+3. 💦 **Cascada La Fortuna**
    - Catarata de 70+ metros de altura
    - Descenso de ~500 escalones
    - Posibilidad de nadar en la poza
@@ -107,8 +113,9 @@
 
 ### Ropa Recomendada
 - **ATV:** Ropa que pueda ensuciarse, zapatos cerrados, gafas de sol
+- **Rafting:** Traje de baño, ropa que pueda mojarse (tour provee equipo de seguridad)
 - **Cascada:** Traje de baño debajo, pantalón corto, zapatos con buen agarre (pueden mojarse)
-- **Cambio de ropa:** Para después de actividades
+- **Cambio de ropa:** Para después de cada actividad (llevar múltiples cambios)
 
 ### Comidas
 - 🍳 Desayuno: En Airbnb o restaurante cercano
@@ -116,10 +123,13 @@
 - 🍽️ Cena: Explorar restaurantes de La Fortuna
 
 ### Notas del Día
-- Día completo de aventura
+- Día COMPLETO de aventura (3 actividades intensas)
+- Planear bien el timing - puede ser un día largo
 - Llevar mochila pequeña waterproof
-- Cámara/celular en bolsa impermeable
+- Cámara/celular en bolsa impermeable (especialmente para rafting)
 - La cascada requiere buena condición física (muchas escaleras)
+- Tours de rafting incluyen transporte desde La Fortuna
+- Considerar si hacer las 3 actividades o elegir 2
 
 ### Recomendaciones
 - Confirmar reservación del tour de ATV
@@ -349,7 +359,8 @@
 
 ### Aventura
 - ✅ Aguas Termales (Día 1)
-- ✅ ATV Los Rápidos (Día 2)
+- ✅ ATV - Cuatrimotos (Día 2)
+- ✅ Rafting en Los Rápidos (Día 2)
 - ✅ Cascada La Fortuna (Día 2)
 
 ### Cultural y Ciudad

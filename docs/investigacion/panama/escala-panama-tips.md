@@ -9,24 +9,45 @@
 
 ## ⏰ TIMING CRÍTICO
 
-### ⚠️ REGLA DE ORO
+### Dos Estrategias Disponibles
+
+#### ⚠️ PLAN CONSERVADOR (Máxima seguridad)
 **Regresar a PTY a las 3:30 PM (3 horas antes del vuelo 6:28 PM)**
 
-### Por qué 3 horas antes:
-1. PTY requiere 3h para vuelos internacionales
-2. Doble seguridad (2 checkpoints)
-3. Líneas largas (30-60 min espera)
-4. Gates cambian frecuentemente
-5. Aeropuerto grande (10-15 min entre gates)
-6. Buffer para tráfico/imprevistos
-
-### ⚠️ Si Salen a Ciudad
-- **SALIR de Casco Viejo: 2:00 PM MÁXIMO**
+**Timeline:**
+- **SALIR de Casco Viejo: 2:00 PM**
 - Viaje regreso: 30 min + buffer
 - Llegar PTY: 2:30-2:45 PM
 - Recoger equipaje: 15 min
 - Check-in + seguridad: 45-60 min
 - En gate: 3:30 PM (3h antes)
+- **Tiempo en ciudad: ~4.5 horas (9:30 AM - 2:00 PM)**
+
+#### ✅ PLAN OPTIMISTA (Recomendado - más tiempo en ciudad)
+**Regresar a PTY a las 4:30 PM (2 horas antes del vuelo 6:28 PM)**
+
+**Timeline:**
+- **SALIR de Casco Viejo: 4:00 PM**
+- Viaje regreso: 30 min
+- Llegar PTY: 4:30-4:45 PM
+- Recoger equipaje: 15 min
+- Check-in + seguridad: 45-60 min
+- En gate: 5:30 PM (1h antes boarding)
+- **Tiempo en ciudad: ~6.5 horas (9:30 AM - 4:00 PM)**
+
+### Por qué considerar plan optimista:
+1. Copa recomienda 2h para vuelos internacionales (no 3h)
+2. Ya tienen boarding pass (conexión)
+3. Domingo = menos tráfico y líneas más cortas
+4. Ganan 2 horas extras en ciudad
+5. Aún llegan con 1 hora de margen al gate
+
+### Por qué algunos prefieren plan conservador:
+1. Buffer extra para imprevistos
+2. Doble seguridad (2 checkpoints en PTY)
+3. Gates pueden cambiar (10-15 min caminar)
+4. Tráfico impredecible
+5. Menos estrés
 
 ---
 
@@ -309,8 +330,8 @@ Sí, muy bien. Más barato que taxis.
 **¿Qué pasa si perdemos vuelo?**
 Recomprar ($300-600+). Copa NO espera. NO arriesgarse.
 
-**¿Vale la pena salir 11 horas?**
-Sí con tour organizado (5.5h). O Casco Viejo por cuenta propia (4.5h útiles).
+**¿Vale la pena salir con escala de 11 horas?**
+Sí, totalmente. Tienen entre 4.5-6.5 horas útiles en ciudad (según plan conservador u optimista).
 
 **¿Hay descuento grupal?**
 Probablemente para tours. Contactar operadores.
@@ -322,13 +343,13 @@ Sí, 30-45 min gratis por dispositivo.
 
 ## 💡 TIPS FINALES
 
-1. **Timing es TODO:** No arriesgar vuelo a Costa Rica
+1. **Timing es TODO:** No arriesgar vuelo a Costa Rica - elegir entre plan conservador (2 PM) u optimista (4 PM)
 2. **Uber > Taxi:** Ahorra $, más rápido, tracking
-3. **Casco Viejo tiene TODO:** No ir lejos con tiempo limitado
+3. **Casco Viejo tiene TODO:** No ir lejos, todo está concentrado
 4. **Gratis es mejor:** Altar de Oro, plazas, street art, Pedro Mandinga degustación
 5. **Ceviche $1:** Must-try en Mercado Mariscos
 6. **Café Geisha:** Probar en Sisu o Café Unido
 7. **Domingo = ligero:** Tráfico mínimo, perfecto para salir
 8. **Llevar efectivo:** $80-120 USD en pequeño
 9. **Bloqueador solar:** Calor fuerte, humedad alta
-10. **Regresar 2 PM:** Sin excepción si salen a ciudad
+10. **Tienen 10h 58min de escala:** Escala larga = 4.5-6.5 horas útiles en ciudad

@@ -20,7 +20,7 @@
 
 ## 🎯 Actividades Principales
 - 🌋 Volcán Arenal + ♨️ Aguas Termales
-- 🏍️ ATV Los Rápidos + 💦 Cascada La Fortuna
+- 🏍️ ATV + 🌊 Rafting Los Rápidos + 💦 Cascada La Fortuna
 - 🏛️ City Tour San José + 🎨 Mercado Artesanías
 - ⛪ Cartago + Basílica + 🌋 Volcán Irazú (¡FRÍO!)
 

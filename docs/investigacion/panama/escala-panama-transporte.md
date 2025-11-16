@@ -21,7 +21,7 @@
 
 ---
 
-## 📊 COMPARACIÓN RÁPIDA (para escala IDA de 11 horas)
+## 📊 COMPARACIÓN RÁPIDA (para escala IDA de 10h 58min)
 
 | Opción | Costo (ida) | Tiempo | Dificultad | Recomendado |
 |--------|-------------|--------|------------|-------------|
@@ -266,7 +266,7 @@
 ### ✅ Recomendación para Escala IDA (10h 58min)
 
 **Metro + Metrobús ES VIABLE para escala larga:**
-- ✅ Con 11 horas de escala, pierdes ~2 horas transporte = quedan **8+ horas útiles**
+- ✅ Con casi 11 horas de escala (10h 58min), pierdes ~2 horas transporte = quedan **8+ horas útiles**
 - ✅ Ahorro significativo: $27-30 vs Uber ($5 vs $30-36)
 - ✅ Tiempo suficiente para explorar tranquilamente
 - ✅ Experiencia local auténtica usando transporte público
@@ -408,7 +408,7 @@ NO salir del aeropuerto - tiempo muy corto, quedarse en terminal
 
 ---
 
-## 🏆 RECOMENDACIÓN FINAL (Escala IDA 11 horas)
+## 🏆 RECOMENDACIÓN FINAL (Escala IDA 10h 58min)
 
 ### 🥇 OPCIÓN BALANCEADA: UBER
 **Mejor para:** Comodidad + Maximizar tiempo en ciudad
@@ -446,7 +446,7 @@ NO salir del aeropuerto - tiempo muy corto, quedarse en terminal
 
 ## ✅ VEREDICTO
 
-**Con 11 horas de escala, AMBAS opciones son viables:**
+**Con 10h 58min de escala, AMBAS opciones son viables:**
 
 - **Elige Uber si:** Valoras comodidad, velocidad, y 1 hora extra en ciudad ($30-36)
 - **Elige Metro si:** Priorizas ahorro significativo y experiencia local ($5)
