@@ -1,5 +1,7 @@
 # Restaurantes - Panamá City
 
+![Restaurantes en Panamá](../../assets/images/panama-restaurantes-hero.jpg)
+
 **Para:** Escala 11 horas (7:30 AM - 6:28 PM, Dom 23 Nov)
 **Zona principal:** Casco Viejo
 

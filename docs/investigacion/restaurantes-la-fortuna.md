@@ -1,5 +1,7 @@
 # Investigacion: Restaurantes en La Fortuna para Grupo de 10 Personas
 
+![Gastronomía en La Fortuna](../assets/images/restaurantes-la-fortuna-hero.jpg)
+
 **Para:** Dia 2 (Martes 25 Noviembre 2025)
 **Contexto:** Grupo de 10 adultos con 2 vehiculos alquilados
 

@@ -1,5 +1,7 @@
 # ✈️ Información de Vuelos - Costa Rica Nov 2025
 
+![Vuelos Copa Airlines](assets/images/vuelos-hero.jpg)
+
 ## 📅 Resumen
 - **Fecha Salida:** Domingo 23 Noviembre 2025
 - **Fecha Regreso:** Sábado 29 Noviembre 2025

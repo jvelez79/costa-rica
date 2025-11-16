@@ -1,5 +1,7 @@
 # Restaurantes en San José, Costa Rica
 
+![Restaurantes en San José](../assets/images/restaurantes-san-jose-hero.jpg)
+
 **Para:** Grupo de 10 adultos con 2 vehículos alquilados
 
 ---

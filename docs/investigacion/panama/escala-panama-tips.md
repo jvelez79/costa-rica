@@ -1,5 +1,7 @@
 # Tips & Consideraciones - Escala Panamá
 
+![Panamá City](../../assets/images/panama-tips-hero.jpg)
+
 **Escala:** 10h 58min (7:30 AM - 6:28 PM, Dom 23 Nov 2025)
 **Aeropuerto:** Tocumen International (PTY)
 

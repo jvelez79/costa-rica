@@ -1,4 +1,7 @@
 # Planificación de Ropa - Viaje Costa Rica
+
+![Planificación de equipaje](assets/images/ropa-hero.jpg)
+
 **Fechas:** 23-29 Noviembre 2025 (6 días)
 
 ## Información del Clima por Región (Noviembre 2025)

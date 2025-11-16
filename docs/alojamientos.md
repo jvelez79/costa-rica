@@ -1,5 +1,7 @@
 # 🏨 Alojamientos - Costa Rica Nov 2025
 
+![Alojamientos en Costa Rica](assets/images/alojamientos-hero.jpg)
+
 ## 📋 Resumen
 - **Total noches:** 6
 - **Lugares:** 3 diferentes

@@ -1,5 +1,7 @@
 # Investigación Volcán Arenal - Día 1 (Lunes 24 Noviembre 2025)
 
+![Volcán Arenal](../assets/images/volcan-arenal-hero.jpg)
+
 ---
 
 ## Información Clave

@@ -1,5 +1,7 @@
 # Metro de Panamá - Guía Completa para Viajeros
 
+![Metro de Panamá](../../assets/images/panama-metro-hero.jpg)
+
 **Contexto:** Escala en Panamá - Domingo 23 Noviembre 2025
 **Ruta principal:** Aeropuerto Tocumen (PTY) → Casco Viejo
 

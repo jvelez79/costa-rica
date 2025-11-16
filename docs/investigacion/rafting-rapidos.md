@@ -1,5 +1,7 @@
 # Investigación: Rafting en Aguas Rápidas - La Fortuna
 
+![Rafting en Costa Rica](../assets/images/rafting-hero.jpg)
+
 **Para:** Día 2 (Martes 25 Nov) - Actividades en La Fortuna
 
 ---

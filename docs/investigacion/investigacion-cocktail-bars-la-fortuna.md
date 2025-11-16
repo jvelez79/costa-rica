@@ -1,5 +1,7 @@
 # Investigación: Cocktail Bars & Lounges en La Fortuna
 
+![Cocktails en La Fortuna](../assets/images/cocktails-la-fortuna-hero.jpg)
+
 **Para:** Noches en La Fortuna (Lun 24 - Mar 25 Noviembre)
 
 ---

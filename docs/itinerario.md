@@ -1,5 +1,7 @@
 # 📅 Itinerario Día por Día - Costa Rica Nov 2025
 
+![Aventura en Costa Rica](assets/images/itinerario-hero.jpg)
+
 ## 🗓️ Resumen General
 - **Duración Total:** 6 días / 6 noches
 - **Regiones:** San José, La Fortuna (Arenal)

@@ -1,5 +1,7 @@
 # Información Aguas Termales La Fortuna
 
+![Aguas Termales en La Fortuna](../assets/images/aguas-termales-hero.jpg)
+
 **Fuente:** Review en video YouTube de viajera comparando termales gratis vs pagadas
 **URL del video:** https://www.youtube.com/watch?v=1wrCiDqL2Bo
 

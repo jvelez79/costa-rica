@@ -1,5 +1,7 @@
 # Cocktail Bars & Lounges en San José
 
+![Cocktail Bars en San José](../assets/images/cocktails-san-jose-hero.jpg)
+
 **Para:** Noches en San José (Dom 23, Mié 26, Jue 27, Vie 28 Noviembre)
 
 ---
