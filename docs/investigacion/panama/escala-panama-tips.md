@@ -26,37 +26,6 @@
 - Check-in + seguridad: 45-60 min
 - En gate: 3:30 PM (3h antes)
 
-### Riesgo de Perder Vuelo
-- Copa Airlines NO esperará
-- Recomprar vuelo: $300-600+ por persona
-- Pierden conexión a Costa Rica
-- **NO VALE LA PENA el riesgo**
-
----
-
-## 📋 VISA & DOCUMENTOS
-
-### Pasaporte Americano
-- ✅ NO requiere visa
-- Hasta 90 días
-- Solo presentar pasaporte en migración
-
-### Otros Pasaportes
-- Pueden entrar SIN visa si tienen:
-  - Visa/residencia USA (válida 6+ meses, usada 1+ vez)
-  - Visa/residencia Canadá (válida 6+ meses)
-  - Visa/residencia UK (válida 6+ meses)
-  - Visa Schengen (válida 6+ meses)
-
-### Si Se Quedan en Aeropuerto
-- NO necesitan pasar migración
-- Quedarse en zona de tránsito (airside)
-- NO necesitan visa
-
-### Si Salen del Aeropuerto
-- DEBEN pasar migración
-- Verificar requisitos según nacionalidad
-
 ---
 
 ## 🧳 GUARDADO DE EQUIPAJE
@@ -185,27 +154,6 @@
 ### WhatsApp
 - Útil para coordinar grupo
 - Funciona con WiFi
-
----
-
-## 🗣️ IDIOMA
-
-### Español
-- Idioma predominante
-- Áreas turísticas: Muchos hablan inglés básico
-- Restaurantes/tours: Inglés común
-
-### Frases Útiles
-- "¿Cuánto cuesta?" = How much?
-- "La cuenta, por favor" = Check, please
-- "¿Dónde está...?" = Where is...?
-- "Gracias" = Thank you
-- "Hola" = Hello
-
-### No Preocuparse
-- Tours organizados: Guías bilingües
-- Uber: App en inglés
-- Señales en lugares turísticos
 
 ---
 
