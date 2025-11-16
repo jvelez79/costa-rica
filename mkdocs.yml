@@ -24,7 +24,6 @@ theme:
   - navigation.instant
   - navigation.tracking
   - navigation.sections
-  - navigation.expand
   - navigation.top
   - search.suggest
   - search.highlight
@@ -82,6 +81,9 @@ nav:
     - 'Premium Cocktails': investigacion/cocktail-bars-san-jose/premium-cocktails.md
     - 'Craft Beer & Cocktails': investigacion/cocktail-bars-san-jose/craft-beer-cocktails.md
     - 'Casual Bars': investigacion/cocktail-bars-san-jose/casual-bars.md
+
+  # City Tour San José
+  - '🏛️ City Tour San José': investigacion/city-tour-san-jose.md
 
   # Otras actividades
   - '🚣 Rafting Rápidos': investigacion/rafting-rapidos.md
