@@ -5,15 +5,31 @@
 
 ---
 
-## 📊 COMPARACIÓN RÁPIDA
+## ⏰ CONTEXTO: Dos Escalas Diferentes
+
+### 🛫 IDA - Domingo 23 Noviembre
+- **Llegada PTY:** 7:30 AM
+- **Salida PTY:** 6:28 PM
+- **Escala:** **10h 58min** ← Tiempo SUFICIENTE para explorar ciudad
+- **Recomendación:** Uber o Metro son viables según presupuesto
+
+### 🛬 REGRESO - Sábado 29 Noviembre
+- **Llegada PTY:** 10:32 AM
+- **Salida PTY:** 12:21 PM
+- **Escala:** **1h 49min** ← Tiempo CORTO, quedarse en terminal
+- **Recomendación:** NO salir del aeropuerto
+
+---
+
+## 📊 COMPARACIÓN RÁPIDA (para escala IDA de 11 horas)
 
 | Opción | Costo (ida) | Tiempo | Dificultad | Recomendado |
 |--------|-------------|--------|------------|-------------|
-| **Uber** | $13-18 | 20-30 min | Fácil | ⭐⭐⭐⭐⭐ SÍ |
-| **Taxi Oficial** | $35 | 20-30 min | Fácil | ⭐⭐⭐ OK |
-| **Metro + Metrobús** | $0.75 | 45-70 min | Media | ⭐⭐ Solo si budget extremo |
+| **Uber** | $13-18 | 20-30 min | Fácil | ⭐⭐⭐⭐⭐ Mejor relación precio/tiempo |
+| **Taxi Oficial** | $35 | 20-30 min | Fácil | ⭐⭐⭐ OK si no tienes app |
+| **Metro + Metrobús** | $0.75 | 45-70 min | Media | ⭐⭐⭐⭐ Excelente si hay presupuesto ajustado |
 | **Private Transfer** | $40-60 | 20-30 min | Muy fácil | ⭐⭐⭐⭐ Premium |
-| **Bus Público** | $0.25 | 1+ hora | Difícil | ❌ NO |
+| **Bus Público** | $0.25 | 1+ hora | Difícil | ❌ NO recomendado |
 
 ---
 
@@ -224,23 +240,28 @@
 
 ---
 
-### ⚠️ Recomendación para Escala 4.5 Horas
+### ✅ Recomendación para Escala IDA (10h 58min)
 
-**NO recomendado para escala corta:**
-- Pierdes ~2 horas totales en transporte (ida+vuelta)
-- Solo quedan 2.5 horas útiles en Casco Viejo
-- Riesgo de retraso y perder vuelo de conexión
-- Múltiples transfers aumentan complejidad
-- Incómodo con equipaje de mano
+**Metro + Metrobús ES VIABLE para escala larga:**
+- ✅ Con 11 horas de escala, pierdes ~2 horas transporte = quedan **8+ horas útiles**
+- ✅ Ahorro significativo: $27-30 vs Uber ($5 vs $30-36)
+- ✅ Tiempo suficiente para explorar tranquilamente
+- ✅ Experiencia local auténtica usando transporte público
 
-**SOLO usar si:**
-- Budget extremadamente ajustado ($27-30 ahorro vs Uber)
-- Experiencia previa con sistemas de metro
-- No les importa perder tiempo de visita
-- Viajan solo con mochila pequeña
-- Tienen margen de tiempo extra
+**Usar Metro si:**
+- Presupuesto ajustado (ahorras $25-30 por pareja)
+- Te gusta usar transporte público local
+- No te molesta cargar equipaje en transfers
+- Quieres experiencia más auténtica
 
-**MEJOR OPCIÓN:** Uber ($30-36 roundtrip) = más tiempo en Casco Viejo
+**Usar Uber si:**
+- Prefieres comodidad y velocidad
+- Llegas cansado del vuelo temprano
+- Quieres maximizar tiempo en Casco Viejo (30 min extra por trayecto)
+- Viajan con mucho equipaje
+
+**⚠️ IMPORTANTE REGRESO (1h 49min):**
+NO salir del aeropuerto - tiempo muy corto, quedarse en terminal
 
 ---
 
@@ -311,23 +332,45 @@
 
 ---
 
-## ⏰ TIMING CRÍTICO
+## ⏰ TIMING PARA ESCALA IDA (10h 58min)
 
-### Timeline Sugerido
+### Timeline Sugerido - CON UBER (más rápido)
 
 **7:30 AM** - Aterrizaje PTY
 **7:45-8:15 AM** - Migración (~30 min)
-**8:15-8:30 AM** - Guardar equipaje
+**8:15-8:30 AM** - Guardar equipaje ($5/maleta)
 **8:30-9:00 AM** - Salir terminal, pedir Uber
-**9:00-9:30 AM** - **Viaje PTY → Casco** (Uber/taxi)
+**9:00-9:30 AM** - **Viaje PTY → Casco** (Uber, 20-30 min)
 
-**9:30 AM-2:00 PM** - **4.5 horas en Casco Viejo** ✨
+**9:30 AM-4:30 PM** - **~7 HORAS en Casco Viejo** ✨
 
-**2:00 PM** - ⚠️ **DEADLINE ABSOLUTO - Pedir Uber regreso**
-**2:00-2:45 PM** - Viaje Casco → PTY (30 min + buffer)
-**2:45 PM** - Llegar PTY
-**2:45-3:30 PM** - Recoger equipaje, check-in
-**3:30 PM** - **MÍNIMO 3h antes vuelo 6:28 PM**
+**4:30 PM** - ⚠️ **Salir de Casco Viejo - Pedir Uber regreso**
+**4:30-5:15 PM** - Viaje Casco → PTY (30 min + buffer)
+**5:15 PM** - Llegar PTY
+**5:15-6:00 PM** - Recoger equipaje, pasar seguridad, ir al gate
+**6:00 PM** - En gate, listos para boarding
+**6:28 PM** - **Salida vuelo CM 460 a San José**
+
+---
+
+### Timeline Sugerido - CON METRO (más económico)
+
+**7:30 AM** - Aterrizaje PTY
+**7:45-8:15 AM** - Migración (~30 min)
+**8:15-8:30 AM** - Guardar equipaje ($5/maleta)
+**8:30-9:00 AM** - Encontrar Metrobús, comprar tarjeta
+**9:00-10:15 AM** - **Viaje PTY → Casco** (Metrobús + Metro, ~70 min)
+
+**10:15 AM-4:00 PM** - **~6 HORAS en Casco Viejo** ✨
+
+**4:00 PM** - ⚠️ **Salir de Casco Viejo hacia Metro**
+**4:00-5:15 PM** - Viaje Casco → PTY (Metro + Metrobús, ~70 min)
+**5:15 PM** - Llegar PTY
+**5:15-6:00 PM** - Recoger equipaje, pasar seguridad, ir al gate
+**6:00 PM** - En gate, listos para boarding
+**6:28 PM** - **Salida vuelo CM 460 a San José**
+
+**Diferencia:** Uber = 7 horas en ciudad | Metro = 6 horas en ciudad (1 hora menos)
 
 ---
 
@@ -342,21 +385,52 @@
 
 ---
 
-## 🏆 RECOMENDACIÓN FINAL
+## 🏆 RECOMENDACIÓN FINAL (Escala IDA 11 horas)
 
-**🥇 MEJOR: UBER**
-- Balance perfecto precio/comodidad
-- $30-36 roundtrip pareja
-- Rápido (20-30 min)
-- Fácil de usar
-- **Más tiempo en ciudad = mejor experiencia**
+### 🥇 OPCIÓN BALANCEADA: UBER
+**Mejor para:** Comodidad + Maximizar tiempo en ciudad
+- ✅ $30-36 roundtrip pareja
+- ✅ Rápido (20-30 min cada trayecto)
+- ✅ **7 horas útiles en Casco Viejo**
+- ✅ Fácil de usar, sin complicaciones
+- ✅ Ideal si llegas cansado o con equipaje pesado
 
-**🥈 ALTERNATIVA: TAXI** (si no tienen smartphone)
+### 🥈 OPCIÓN ECONÓMICA: METRO + METROBÚS
+**Mejor para:** Presupuesto ajustado + Experiencia local
+- ✅ $5.00 roundtrip pareja (**ahorro de $25-30 vs Uber**)
+- ✅ **6 horas útiles en Casco Viejo** (solo 1 hora menos que Uber)
+- ✅ Experiencia auténtica de transporte local
+- ✅ Sistema moderno, limpio y seguro
+- ⚠️ Requiere múltiples transfers (Metrobús → Línea 2 → Línea 1)
+- ⚠️ Más cansado con equipaje de mano
+
+### 🥉 ALTERNATIVA: TAXI OFICIAL
+**Mejor para:** Sin smartphone o no confías en apps
 - $60-70 roundtrip
-- Más caro pero sin tecnología
+- Misma velocidad que Uber
+- Sin necesidad de tecnología
+- ❌ Casi doble precio que Uber
 
-**🥉 SOLO SI BUDGET EXTREMO: METRO + METROBÚS**
-- $5.00 roundtrip pareja
-- Pierdes 2+ horas
-- Solo si $$ muy ajustado
-- Requiere múltiples transfers
+### 💎 PREMIUM: PRIVATE TRANSFER
+**Mejor para:** Máxima comodidad sin preocupaciones
+- $80-120 roundtrip
+- Te esperan con letrero, ayudan con equipaje
+- ❌ Precio alto para escala de exploración
+
+---
+
+## ✅ VEREDICTO
+
+**Con 11 horas de escala, AMBAS opciones son viables:**
+
+- **Elige Uber si:** Valoras comodidad, velocidad, y 1 hora extra en ciudad ($30-36)
+- **Elige Metro si:** Priorizas ahorro significativo y experiencia local ($5)
+
+**Ambas te dan suficiente tiempo (6-7 horas) para:**
+- Explorar Casco Viejo
+- Almorzar tranquilamente
+- Visitar 3-4 atracciones principales
+- Compras de souvenirs
+- Regresar con tiempo de sobra al aeropuerto
+
+**⚠️ RECUERDA:** En el regreso (29 Nov) la escala es solo 1h 49min - **NO salir del aeropuerto**
