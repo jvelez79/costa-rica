@@ -201,7 +201,7 @@
    - Cráter con lago de color turquesa
    - Paisaje lunar
    - Vistas espectaculares (en días despejados se ven ambos océanos)
-   - **Temperatura:** FRÍO (puede estar a 5-10°C)
+   - **Temperatura:** FRÍO (puede estar a 41-50°F / 5-10°C)
 
 ### Ropa Recomendada - MUY IMPORTANTE
 - ⚠️ **ABRIGARSE:** Hace mucho frío en el Irazú
@@ -368,19 +368,19 @@
 
 ### Clima por Región (Noviembre 2025)
 - **San José:**
-  - Temperatura: 16-24°C (59-75°F) - Máx promedio: 22.7°C, Mín promedio: 15.2°C
+  - Temperatura: 59-75°F (16-24°C) - Máx promedio: 73°F, Mín promedio: 59°F (22.7°C / 15.2°C)
   - Lluvias: ~28 días con lluvia, 165mm precipitación
   - 6 horas de sol al día
   - Fin de época lluviosa (condiciones mejoran durante el mes)
 
 - **La Fortuna (Arenal):**
-  - Temperatura: 20-29°C (68-83°F) - Días cálidos, noches agradables
+  - Temperatura: 68-83°F (20-29°C) - Días cálidos, noches agradables
   - Lluvias: ~21 días con lluvia, 315mm precipitación
   - Lluvias típicas de 1-3 horas seguidas de cielos despejados
   - Húmedo, fin de temporada lluviosa
 
 - **Volcán Irazú:**
-  - Temperatura: 5-15°C (41-59°F) - **¡MUY FRÍO!** (3,432 msnm altitud)
+  - Temperatura: 41-59°F (5-15°C) - **¡MUY FRÍO!** (3,432 msnm altitud)
   - Puede estar nublado/con neblina
 
 ### Empaque Estratégico

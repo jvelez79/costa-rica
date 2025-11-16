@@ -161,6 +161,7 @@ Grupo de 10 adultos. Enfoque: Naturaleza, Aventura, Ciudad, Cultural.
 - Resaltar IMPORTANTE con **negrita** o ⚠️
 - Incluir costos en USD
 - Horarios en formato 12h (AM/PM) y 24h
+- **Temperaturas siempre en Fahrenheit (°F)** - Incluir Celsius entre paréntesis solo si es relevante
 
 ### Estilo de Comunicación
 - Ser directo y práctico
@@ -333,7 +334,7 @@ Grupo de 10 adultos. Enfoque: Naturaleza, Aventura, Ciudad, Cultural.
 - Preparar todo noche anterior
 
 ### Volcán Irazú - FRÍO
-- 5-10°C posible
+- 41-50°F (5-10°C) posible
 - Ropa de abrigo ESENCIAL
 - **Conducir a alta altitud:** Cuidado con neblina
 - Ver planificacion-ropa.md Día 4

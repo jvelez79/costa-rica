@@ -4,19 +4,19 @@
 ## Información del Clima por Región (Noviembre 2025)
 
 ### San José
-- **Temperatura:** 16-24°C (59-75°F)
-- **Promedio:** Máx 22.7°C / Mín 15.2°C
+- **Temperatura:** 59-75°F (16-24°C)
+- **Promedio:** Máx 73°F / Mín 59°F (22.7°C / 15.2°C)
 - **Lluvias:** ~28 días con lluvia, 165mm precipitación
 - **Condición:** Fin de época lluviosa, condiciones mejoran durante el mes
 
 ### La Fortuna (Arenal)
-- **Temperatura:** 20-29°C (68-83°F)
+- **Temperatura:** 68-83°F (20-29°C)
 - **Condición:** Cálido y húmedo
 - **Lluvias:** ~21 días con lluvia, 315mm precipitación
 - **Nota:** Lluvias de 1-3 horas seguidas de cielos despejados
 
 ### ⚠️ Volcán Irazú
-- **Temperatura:** 5-15°C (41-59°F) - **¡MUY FRÍO!**
+- **Temperatura:** 41-59°F (5-15°C) - **¡MUY FRÍO!**
 - **Altitud:** 3,432 msnm
 - **Condición:** Puede estar nublado/con neblina
 
@@ -43,7 +43,7 @@
 - 1 camisa de manga larga ligera - Protección solar en naturaleza
 - 1-2 polos o camisas casual - Para restaurantes/ciudad
 - 1 sudadera/hoodie mediano - Para noches y aire acondicionado
-- ⚠️ 1 chaqueta/suéter GRUESO - **CRÍTICO para Volcán Irazú (5-10°C)**
+- ⚠️ 1 chaqueta/suéter GRUESO - **CRÍTICO para Volcán Irazú (41-50°F / 5-10°C)**
   - Opciones: fleece grueso, chaqueta acolchada ligera, suéter de lana
   - Debe ser abrigador para clima de montaña
 
@@ -120,7 +120,7 @@ Con acceso a lavadora, puedes:
 - **Cómodo:** ~7-8 kg
 
 ### ⚠️ ITEMS CRÍTICOS NO NEGOCIABLES
-1. **Chaqueta/suéter GRUESO** - Volcán Irazú hace frío (5-10°C)
+1. **Chaqueta/suéter GRUESO** - Volcán Irazú hace frío (41-50°F / 5-10°C)
 2. **Botas de hiking impermeables** - Volcán Arenal, Cascada, Irazú
 3. **Traje de baño** - Aguas termales y cascada
 4. **Chaqueta impermeable** - Lluvias frecuentes
@@ -210,7 +210,7 @@ Con acceso a lavadora, puedes:
 - **Evitar:** Blanco (se ensucia rápido en naturaleza)
 
 ### Check Final Antes de Empacar
-- ✅ Chaqueta GRUESA para Volcán Irazú (5-10°C)
+- ✅ Chaqueta GRUESA para Volcán Irazú (41-50°F / 5-10°C)
 - ✅ Gorro/beanie + calcetines largos para el frío
 - ✅ Traje de baño (usar 2 veces: aguas termales + cascada)
 - ✅ Pantalón para ensuciar (ATV con barro)

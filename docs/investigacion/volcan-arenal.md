@@ -13,7 +13,7 @@
 ### Información Esencial para Noviembre 2025
 
 **Clima:**
-- Temperatura: 20-29°C (68-83°F)
+- Temperatura: 68-83°F (20-29°C)
 - Humedad: 93% promedio
 - Lluvia: 81% probabilidad diaria (fin de época lluviosa)
 - Patrón típico: Mañanas despejadas, lluvia 2-4 PM (tormentas 1-3h seguidas de cielos despejados)
