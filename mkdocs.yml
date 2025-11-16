@@ -56,10 +56,41 @@ nav:
 - '🏨 Alojamientos': alojamientos.md
 - '👕 Planificación Ropa': planificacion-ropa.md
 - '📚 Investigación':
+  # Volcán Arenal
   - '🌋 Volcán Arenal': investigacion/volcan-arenal.md
   - '♨️ Aguas Termales': investigacion/aguas-termales.md
+
+  # Restaurantes La Fortuna
   - '🍽️ Restaurantes La Fortuna': investigacion/restaurantes-la-fortuna.md
+
+  # Restaurantes San José
   - '🍽️ Restaurantes San José': investigacion/restaurantes-san-jose.md
+  - 'Restaurantes San José - Categorías':
+    - 'Premium': investigacion/restaurantes-san-jose/premium.md
+    - 'Mid-Range': investigacion/restaurantes-san-jose/mid-range.md
+    - 'Sodas y Budget': investigacion/restaurantes-san-jose/sodas-y-budget.md
+    - 'Guía por Zonas': investigacion/restaurantes-san-jose/guia-zonas.md
+    - 'Guía Práctica': investigacion/restaurantes-san-jose/guia-practica.md
+
+  # Cocktail Bars La Fortuna
   - '🍹 Cocktail Bars La Fortuna': investigacion/investigacion-cocktail-bars-la-fortuna.md
+
+  # Cocktail Bars San José
   - '🍹 Cocktail Bars San José': investigacion/investigacion-cocktail-bars-san-jose.md
+  - 'Cocktail Bars San José - Categorías':
+    - 'Speakeasies': investigacion/cocktail-bars-san-jose/speakeasies.md
+    - 'Premium Cocktails': investigacion/cocktail-bars-san-jose/premium-cocktails.md
+    - 'Craft Beer & Cocktails': investigacion/cocktail-bars-san-jose/craft-beer-cocktails.md
+    - 'Casual Bars': investigacion/cocktail-bars-san-jose/casual-bars.md
+
+  # Otras actividades
   - '🚣 Rafting Rápidos': investigacion/rafting-rapidos.md
+
+  # Escala Panamá
+  - '✈️ Escala Panamá':
+    - 'Tips Generales': investigacion/panama/escala-panama-tips.md
+    - 'Transporte': investigacion/panama/escala-panama-transporte.md
+    - 'Metro de Panamá': investigacion/panama/metro-panama.md
+    - 'Actividades': investigacion/panama/escala-panama-actividades.md
+    - 'Restaurantes': investigacion/panama/escala-panama-restaurantes.md
+    - 'Equipaje': investigacion/panama/escala-panama-equipaje.md

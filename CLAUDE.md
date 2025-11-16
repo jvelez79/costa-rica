@@ -139,6 +139,61 @@ Grupo de 10 adultos. Enfoque: Naturaleza, Aventura, Ciudad, Cultural.
   - Contexto útil (fecha del viaje, para qué día, etc.)
 - **NO incluir:** Metadata técnica (nivel de confianza, fecha investigación, fuentes detalladas)
 
+### ⚠️ IMPORTANTE: Contenido Modular y Conciso
+
+**Principio fundamental:** Archivos deben ser **REFERENCIA RÁPIDA**, no textos extensos.
+
+**Límites de Tamaño:**
+- ✅ **MÁXIMO 300-400 líneas por archivo**
+- ❌ Si pasa 400 líneas → DIVIDIR en módulos más pequeños
+
+**Estructura Modular:**
+Cuando un archivo es muy extenso (>400 líneas):
+1. Crear **carpeta con nombre del tema**
+2. Convertir archivo original en **INDEX conciso** (~150-250 líneas):
+   - Información clave
+   - Tabla comparativa rápida
+   - Links a módulos especializados
+   - Recomendaciones generales
+3. Crear **módulos especializados** en subcarpeta (cada uno <300 líneas):
+   - Contenido enfocado en subtema específico
+   - Información condensada (20-30 líneas por ítem)
+   - Links de navegación (volver a INDEX, ir a siguiente módulo)
+
+**Ejemplo de Estructura:**
+```
+docs/investigacion/
+├── restaurantes-san-jose.md (INDEX ~200 líneas)
+└── restaurantes-san-jose/
+    ├── premium.md (~200 líneas)
+    ├── mid-range.md (~250 líneas)
+    ├── sodas-y-budget.md (~200 líneas)
+    ├── guia-zonas.md (~250 líneas)
+    └── guia-practica.md (~200 líneas)
+```
+
+**Formato Conciso por Ítem:**
+- ❌ **ANTES:** 60-80 líneas por restaurante/bar/actividad
+- ✅ **DESPUÉS:** 20-30 líneas por restaurante/bar/actividad
+
+**Información esencial primero:**
+- Datos de contacto (teléfono, ubicación, web)
+- Precios y horarios
+- Especialidades (bullet points breves)
+- Rating y recomendación
+- Detalles opcionales al final
+
+**Evitar:**
+- Secciones largas de pros/contras (máximo 3-4 puntos cada una)
+- Repetición de información disponible en otros módulos
+- Texto narrativo extenso
+- Múltiples párrafos explicativos
+
+**Navegación en MkDocs:**
+- Archivo INDEX aparece en nav principal
+- Módulos aparecen como subsecciones
+- Links relativos entre archivos funcionan perfecto
+
 ### Al Investigar Actividades
 **IMPORTANTE:** Siempre considerar:
 - ¿Se puede hacer independiente con vehículos o requiere tour?
