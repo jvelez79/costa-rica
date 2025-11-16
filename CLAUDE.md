@@ -684,6 +684,250 @@ Si generas contenido nuevo para el website, **aplicar directamente el estilo pú
 
 ---
 
+## 🎨 GENERACIÓN DE IMÁGENES CON IA
+
+### Contexto
+El website utiliza imágenes "hero" generadas con IA para ilustrar cada sección principal. Se usa **Gemini 2.5 Flash Image** (también conocido como "Nano Banana"), el modelo de generación de imágenes de Google.
+
+---
+
+### 📋 Proceso de Generación de Imágenes
+
+#### 1. Prerequisitos
+- **API Key de Google AI:** Obtener en https://ai.google.dev/
+- **Billing habilitado:** Nano Banana requiere billing activo (tier gratuito tiene cuota 0)
+- **Librería Python:** `pip install google-genai`
+
+#### 2. Estructura del Script
+
+Crear script `generate_images.py` en la raíz del proyecto:
+
+```python
+from google import genai
+from google.genai import types
+from pathlib import Path
+
+# Configuración
+API_KEY = "tu-api-key-aqui"
+OUTPUT_DIR = Path("docs/assets/images")
+MODEL = "gemini-2.5-flash-image"
+
+# Crear cliente
+client = genai.Client(api_key=API_KEY)
+
+# Generar imagen
+response = client.models.generate_content(
+    model=MODEL,
+    contents=[prompt],
+    config=types.GenerateContentConfig(
+        response_modalities=["Image"],
+        image_config=types.ImageConfig(
+            aspect_ratio="16:9"  # Para hero images
+        )
+    )
+)
+
+# Extraer y guardar imagen
+if response.candidates:
+    for part in response.candidates[0].content.parts:
+        if hasattr(part, 'inline_data'):
+            with open(output_path, 'wb') as f:
+                f.write(part.inline_data.data)
+```
+
+#### 3. Prompts Efectivos para Nano Banana
+
+**Estructura de prompt recomendada:**
+```
+[Sujeto principal], [detalles específicos], [estilo de iluminación],
+[composición], [atmósfera/mood], professional [tipo] photography,
+[adjetivos de calidad], photorealistic style
+```
+
+**Ejemplos usados en este proyecto:**
+
+- **Volcán Arenal:**
+  ```
+  Majestic Arenal Volcano in Costa Rica, perfect cone shape,
+  lush tropical rainforest at base, morning mist, dramatic clouds,
+  professional landscape photography, vibrant greens, sense of scale
+  and grandeur, national geographic style, photorealistic
+  ```
+
+- **Restaurantes San José:**
+  ```
+  Modern upscale restaurant interior in San Jose Costa Rica,
+  stylish urban dining room with tropical touches, beautifully
+  plated fusion cuisine, warm ambient lighting, bustling atmosphere,
+  professional restaurant photography, cosmopolitan vibes, photorealistic style
+  ```
+
+- **Cocktail Bar:**
+  ```
+  Sophisticated speakeasy cocktail bar interior in San Jose,
+  craft cocktails being prepared by bartender, moody atmospheric lighting,
+  vintage modern decor with tropical accents, premium spirits display,
+  intimate urban nightlife vibe, professional bar photography, photorealistic style
+  ```
+
+**Tips para prompts:**
+- ✅ Ser específico con ubicación ("Costa Rica", "San José")
+- ✅ Incluir "professional [tipo] photography" para calidad
+- ✅ Usar "photorealistic style" para realismo
+- ✅ Describir iluminación ("golden hour", "warm ambient", "moody")
+- ✅ Añadir atmósfera/mood ("inviting", "vibrant", "serene")
+- ❌ NO usar parámetros de Midjourney (`--ar`, `--v`, `--style raw`)
+
+#### 4. Configuración de Aspect Ratio
+
+Opciones disponibles en Nano Banana:
+- `"16:9"` - **Recomendado para hero images** (panorámico)
+- `"1:1"` - Cuadrado
+- `"3:2"`, `"2:3"` - Foto tradicional (horizontal/vertical)
+- `"9:16"` - Vertical móvil
+
+**Todas las opciones generan 1290 tokens = mismo costo**
+
+#### 5. Costos y Límites
+
+- **Precio:** $30.00 por 1 millón tokens
+- **Tokens por imagen:** 1,290 tokens
+- **Costo por imagen:** ~$0.039 USD
+- **Resolución:** Hasta 1024x1024px
+- **Formato:** JPG (inline data en respuesta)
+- **Tamaño resultante:** ~1.5-2MB por imagen
+
+**Ejemplo costo proyecto:**
+- 14 imágenes × $0.039 = **~$0.55 USD total**
+
+#### 6. Inserción en Markdown
+
+**Estructura de directorios:**
+```
+docs/
+├── assets/
+│   └── images/
+│       ├── vuelos-hero.jpg
+│       ├── itinerario-hero.jpg
+│       └── ...
+├── index.md
+├── vuelos.md
+└── investigacion/
+    ├── volcan-arenal.md
+    └── panama/
+        └── escala-panama-tips.md
+```
+
+**Rutas relativas en Markdown:**
+
+| Ubicación archivo .md | Ruta a imagen | Ejemplo |
+|----------------------|---------------|---------|
+| `/docs/` | `assets/images/nombre.jpg` | `![Texto](assets/images/vuelos-hero.jpg)` |
+| `/docs/investigacion/` | `../assets/images/nombre.jpg` | `![Texto](../assets/images/volcan-arenal-hero.jpg)` |
+| `/docs/investigacion/panama/` | `../../assets/images/nombre.jpg` | `![Texto](../../assets/images/panama-tips-hero.jpg)` |
+
+**Insertar después del título:**
+```markdown
+# Título de la Página
+
+![Descripción alternativa](ruta/a/imagen.jpg)
+
+## Primera Sección
+Contenido...
+```
+
+#### 7. Workflow Completo
+
+1. **Crear lista de imágenes necesarias:**
+   - Identificar páginas principales
+   - Definir tema/concepto para cada imagen
+   - Priorizar secciones más importantes
+
+2. **Escribir prompts:**
+   - Usar estructura recomendada arriba
+   - Adaptar al contexto específico (Costa Rica, Panamá, etc.)
+   - Incluir keywords relevantes (volcán, playa, ciudad, etc.)
+
+3. **Ejecutar script de generación:**
+   ```bash
+   python3 generate_images.py
+   ```
+
+4. **Verificar imágenes generadas:**
+   ```bash
+   ls -lh docs/assets/images/
+   ```
+
+5. **Insertar en archivos markdown:**
+   - Usar rutas relativas correctas según ubicación
+   - Colocar después del título H1
+
+6. **Verificar build:**
+   ```bash
+   mkdocs build --clean
+   ```
+
+7. **Commit cambios:**
+   ```bash
+   git add docs/assets/images/ docs/*.md
+   git commit -m "Add AI-generated hero images"
+   ```
+
+#### 8. Troubleshooting
+
+**Error: "429 RESOURCE_EXHAUSTED"**
+- **Causa:** Cuota excedida o billing no habilitado
+- **Solución:** Habilitar billing en Google AI Studio
+- **URL:** https://ai.google.dev/pricing
+
+**Error: "aspect_ratio - Extra inputs not permitted"**
+- **Causa:** Estructura incorrecta del config
+- **Solución:** Usar `types.GenerateContentConfig` con `image_config`:
+  ```python
+  config=types.GenerateContentConfig(
+      response_modalities=["Image"],
+      image_config=types.ImageConfig(aspect_ratio="16:9")
+  )
+  ```
+
+**Imágenes no aparecen en MkDocs:**
+- Verificar rutas relativas (según nivel de subdirectorio)
+- Confirmar que imágenes están en `docs/assets/images/`
+- Rebuild con `mkdocs build --clean`
+
+**Calidad de imagen no deseada:**
+- Mejorar prompt con más detalles específicos
+- Añadir "professional photography", "photorealistic"
+- Especificar iluminación y composición
+- Regenerar imagen con prompt ajustado
+
+---
+
+### 📊 Imágenes Generadas en Este Proyecto
+
+**Total:** 14 imágenes hero
+**Costo:** $0.55 USD
+**Fecha:** 16 Noviembre 2025
+
+| Archivo | Página | Tema |
+|---------|--------|------|
+| `vuelos-hero.jpg` | vuelos.md | Terminal aeropuerto Copa Airlines |
+| `itinerario-hero.jpg` | itinerario.md | Collage aventura Costa Rica |
+| `alojamientos-hero.jpg` | alojamientos.md | Villa tropical con piscina |
+| `ropa-hero.jpg` | planificacion-ropa.md | Flat lay equipaje viaje |
+| `volcan-arenal-hero.jpg` | investigacion/volcan-arenal.md | Volcán Arenal majestuoso |
+| `aguas-termales-hero.jpg` | investigacion/aguas-termales.md | Piscinas termales luxury |
+| `rafting-hero.jpg` | investigacion/rafting-rapidos.md | Rafting en rápidos |
+| `restaurantes-la-fortuna-hero.jpg` | investigacion/restaurantes-la-fortuna.md | Comida costarricense |
+| `restaurantes-san-jose-hero.jpg` | investigacion/restaurantes-san-jose.md | Restaurante urbano moderno |
+| `cocktails-la-fortuna-hero.jpg` | investigacion/investigacion-cocktail-bars-la-fortuna.md | Cocteles tropicales |
+| `cocktails-san-jose-hero.jpg` | investigacion/investigacion-cocktail-bars-san-jose.md | Speakeasy bar urbano |
+| `panama-tips-hero.jpg` | investigacion/panama/escala-panama-tips.md | Skyline Panamá City |
+| `panama-metro-hero.jpg` | investigacion/panama/metro-panama.md | Estación metro moderna |
+| `panama-restaurantes-hero.jpg` | investigacion/panama/escala-panama-restaurantes.md | Albrook Mall food court |
+
+---
+
 **Creado:** 9 Noviembre 2025
-**Última actualización:** 10 Noviembre 2025
+**Última actualización:** 16 Noviembre 2025
 **Mantenido por:** Claude AI + Juan Carlos
