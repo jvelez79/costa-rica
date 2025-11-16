@@ -2,409 +2,300 @@
 
 ![Aventura en Costa Rica](assets/images/itinerario-hero.jpg)
 
+---
+
 ## 🗓️ Resumen General
-- **Duración Total:** 6 días / 6 noches
+
+- **Duración Total:** 6 días / 6 noches (23-29 Noviembre 2025)
+- **Grupo:** 10 adultos
 - **Regiones:** San José, La Fortuna (Arenal)
+- **Transporte:** 2 vehículos alquilados
 - **Tipo de viaje:** Naturaleza, Aventura, Ciudad, Cultural
 
 ---
 
-## ✈️ DÍA 0 - DOMINGO 23 NOVIEMBRE
+## 📋 Itinerario Completo
 
-### Vuelo y Llegada
-- **Vuelo:** SJU 06:00am → SJO 06:56pm
-- **Estado:** ✈️ Llegada Pura Vida 👍
-- **Llegada estimada:** ~7:00pm (hora local Costa Rica)
+| Día | Fecha | Actividades Principales | Ubicación | Alojamiento |
+|:---:|-------|------------------------|-----------|-------------|
+| **[1](itinerario/dia-1.md)** | Dom 23 Nov | Llegada SJO → Check-in hotel | San José | Hotel Aloft |
+| **[2](itinerario/dia-2.md)** | Lun 24 Nov | Traslado La Fortuna → Volcán Arenal + Aguas Termales | La Fortuna | Airbnb La Fortuna |
+| **[3](itinerario/dia-3.md)** | Mar 25 Nov | ATV + Rafting Los Rápidos + Cascada La Fortuna | La Fortuna | Airbnb La Fortuna |
+| **[4](itinerario/dia-4.md)** | Mié 26 Nov | Traslado San José → City Tour + Mercado Artesanías | San José | Airbnb San José |
+| **[5](itinerario/dia-5.md)** | Jue 27 Nov | Cartago + Basílica + Volcán Irazú | San José (excursión) | Airbnb San José |
+| **[6](itinerario/dia-6.md)** | Vie 28 Nov | Día libre San José (relax, compras, preparación) | San José | Airbnb San José |
+| **[7](itinerario/dia-7.md)** | Sáb 29 Nov | Check-out temprano → Vuelo regreso | Aeropuerto SJO | - |
 
-### Alojamiento
-📍 **San José - Hotel Aloft**
-- Primera noche en hotel
-- Ubicación: San José ciudad
-- Check-in: ~8:00pm-8:30pm (después de llegar del aeropuerto)
-
-### Actividades
-- 🚖 Transporte del aeropuerto SJO al Hotel Aloft
-- 🏨 Check-in en hotel
-- 🍽️ Cena ligera (buscar restaurante cercano o room service)
-- 😴 Descansar del viaje
-
-### Notas del Día
-- Llegada nocturna - solo descansar
-- Tener transporte pre-arreglado del aeropuerto
-- Cambiar algo de dinero a Colones si no lo hiciste antes
-- Verificar horario de salida para día siguiente
-
-### Recomendaciones
-- Confirmar transporte del aeropuerto al Hotel Aloft con anticipación
-- Tener a mano el número de confirmación del hotel
-- Considerar cambiar dinero a Colones costarricenses
+**Haz clic en el número del día para ver detalles completos.**
 
 ---
 
-## 🌋 DÍA 1 - LUNES 24 NOVIEMBRE
+## 📍 Itinerario por Día
 
-### Traslado
-- 🚗 **Traslado San José → La Fortuna**
-- **Distancia:** ~130 km (~3 horas)
-- **Salida sugerida:** 8:00am-9:00am
-
-### Alojamiento
-📍 **La Fortuna - Airbnb**
-- **Link:** https://www.airbnb.com/l/T56fxqdQ
-- Check-in: Tarde (después de actividades)
-- Noches: 2 (Lunes 24 y Martes 25)
-
-### Actividades
-1. 🌋 **Volcán Arenal**
-   - Uno de los volcanes más activos de Costa Rica
-   - Vistas impresionantes del cono volcánico
-   - Senderos y miradores
-   - Duración: 2-3 horas
-
-2. ♨️ **Aguas Termales**
-   - Aguas termales naturales calentadas por el volcán
-   - Opciones: Tabacón, Baldi, Ecotermales, etc.
-   - Relajación después del viaje
-   - Duración: 2-4 horas (tarde/noche)
-
-### Ropa Recomendada
-- **Mañana/Volcán:** Pantalón convertible, camiseta técnica, botas hiking, gorra
-- **Tarde/Termales:** Traje de baño, sandalias, toalla, ropa cómoda para después
-- **Extras:** Bloqueador solar, repelente de insectos
-
-### Comidas
-- 🍳 Desayuno: Hotel Aloft (check-out)
-- 🥗 Almuerzo: Durante traslado o al llegar a La Fortuna
-- 🍽️ Cena: Restaurante en La Fortuna o cerca del Airbnb
-
-### Recomendaciones
-- Verificar hora de check-out del Hotel Aloft
-- Confirmar transporte de San José a La Fortuna
-- Tener traje de baño empacado y accesible
-- Llevar toalla para las aguas termales
-- Guardar confirmación del Airbnb La Fortuna
-- No olvidar bloqueador solar y repelente de insectos
+### [Día 1 - Domingo 23 Noviembre](itinerario/dia-1.md)
+**Llegada a Costa Rica**
+- ✈️ Vuelo SJU → SJO (llegada 6:56 PM)
+- 🚗 Pickup de 2 vehículos alquilados en aeropuerto
+- 🏨 Check-in Hotel Aloft San José
+- 😴 Descanso
 
 ---
 
-## 🚙 DÍA 2 - MARTES 25 NOVIEMBRE
+### [Día 2 - Lunes 24 Noviembre](itinerario/dia-2.md)
+**Traslado a La Fortuna - Volcán y Aguas Termales**
+- 🚗 Traslado San José → La Fortuna (3 horas, 130 km)
+- 🌋 Volcán Arenal (senderos, miradores)
+- ♨️ Aguas Termales (tarde/noche - Tabacón, Baldi, u otro)
+- 🏠 Check-in Airbnb Casa Mañana - La Fortuna
 
-### Ubicación
-📍 La Fortuna (permanece en Airbnb)
-
-### Actividades
-1. 🏍️ **ATV (Cuatrimotos)**
-   - Tour en cuatrimoto/ATV
-   - Aventura off-road
-   - Duración: Medio día
-
-2. 🌊 **Rafting en Los Rápidos**
-   - Rafting en aguas rápidas (Río Balsa o Sarapiquí)
-   - Clase II-III o III-IV
-   - Duración: 5-6 horas total (2.5h en el río)
-   - Incluye transporte, equipo, guías, almuerzo
-
-3. 💦 **Cascada La Fortuna**
-   - Catarata de 70+ metros de altura
-   - Descenso de ~500 escalones
-   - Posibilidad de nadar en la poza
-   - Muy fotogénico
-   - Duración: 2-3 horas
-
-### Ropa Recomendada
-- **ATV:** Ropa que pueda ensuciarse, zapatos cerrados, gafas de sol
-- **Rafting:** Traje de baño, ropa que pueda mojarse (tour provee equipo de seguridad)
-- **Cascada:** Traje de baño debajo, pantalón corto, zapatos con buen agarre (pueden mojarse)
-- **Cambio de ropa:** Para después de cada actividad (llevar múltiples cambios)
-
-### Comidas
-- 🍳 Desayuno: En Airbnb o restaurante cercano
-- 🥗 Almuerzo: Durante o entre actividades
-- 🍽️ Cena: Explorar restaurantes de La Fortuna
-
-### Notas del Día
-- Día COMPLETO de aventura (3 actividades intensas)
-- Planear bien el timing - puede ser un día largo
-- Llevar mochila pequeña waterproof
-- Cámara/celular en bolsa impermeable (especialmente para rafting)
-- La cascada requiere buena condición física (muchas escaleras)
-- Tours de rafting incluyen transporte desde La Fortuna
-- Considerar si hacer las 3 actividades o elegir 2
-
-### Recomendaciones
-- Confirmar reservación del tour de ATV
-- Llevar traje de baño y toalla
-- Empacar ropa extra para cambio
-- Tener bolsa impermeable para proteger electrónicos
-- Usar zapatos apropiados para agua
-- Aplicar bloqueador resistente al agua
+**Ver detalles:** [Volcán Arenal](investigacion/volcan-arenal.md) | [Aguas Termales](investigacion/aguas-termales.md) | [Restaurantes](investigacion/restaurantes-la-fortuna.md)
 
 ---
 
-## 🏙️ DÍA 3 - MIÉRCOLES 26 NOVIEMBRE
+### [Día 3 - Martes 25 Noviembre](itinerario/dia-3.md)
+**Día de Aventura en La Fortuna**
+- 🏍️ ATV (Cuatrimotos) - Medio día
+- 🌊 Rafting Los Rápidos (Río Balsa o Sarapiquí) - Clase II-III o III-IV
+- 💦 Cascada La Fortuna (70m altura, 500 escalones)
+- 🏠 Segunda noche Airbnb La Fortuna
 
-### Traslado
-- 🚗 **Traslado La Fortuna → San José**
-- **Distancia:** ~130 km (~3 horas)
-- **Salida sugerida:** 8:00am-9:00am
+**Nota:** Día MUY intenso - considerar hacer solo 2 de las 3 actividades.
 
-### Alojamiento
-📍 **San José - Airbnb**
-- **Link:** https://www.airbnb.com/l/BQqGHlXz
-- Check-in: Tarde
-- Noches: 3 (Miércoles 26, Jueves 27, Viernes 28)
-
-### Actividades
-1. 🏛️ **City Tour San José**
-   - Centro histórico
-   - Teatro Nacional
-   - Plaza de la Cultura
-   - Museo del Oro (opcional)
-   - Arquitectura colonial
-
-2. 🎨 **Mercado de Artesanías**
-   - Souvenirs y artesanías locales
-   - Café costarricense
-   - Arte local
-   - Productos típicos
-
-### Ropa Recomendada
-- Casual urbano
-- Zapatos cómodos para caminar
-- Mochila pequeña para compras
-- Gorra/sombrero
-
-### Comidas
-- 🍳 Desayuno: Airbnb La Fortuna (check-out)
-- 🥗 Almuerzo: Durante traslado o al llegar a San José
-- 🍽️ Cena: Restaurante en San José (explorar gastronomía local)
-
-### Recomendaciones
-- Completar check-out del Airbnb La Fortuna
-- Confirmar transporte de La Fortuna a San José
-- Tener confirmación del Airbnb San José
-- Dejar espacio en la maleta para souvenirs
-- Preparar lista de souvenirs a comprar
+**Ver detalles:** [Rafting Los Rápidos](investigacion/rafting-rapidos.md)
 
 ---
 
-## ⛪ DÍA 4 - JUEVES 27 NOVIEMBRE
+### [Día 4 - Miércoles 26 Noviembre](itinerario/dia-4.md)
+**Regreso a San José - City Tour**
+- 🚗 Traslado La Fortuna → San José (3 horas, 130 km)
+- 🏛️ City Tour San José (Teatro Nacional, Plaza de la Cultura, museos)
+- 🎨 Mercado de Artesanías (souvenirs, café, artesanías)
+- 🏠 Check-in Airbnb Casa Ayarcos - San José
 
-### Ubicación
-📍 San José (permanece en Airbnb)
-
-### Excursión del Día
-🚌 **Tour Cartago + Volcán Irazú**
-
-### Actividades
-1. **Cartago** (Ciudad histórica, antigua capital)
-   - Ciudad colonial
-   - Arquitectura histórica
-   - Centro de la ciudad
-
-2. ⛪ **Basílica de Nuestra Señora de los Ángeles**
-   - Iglesia más importante de Costa Rica
-   - Arquitectura bizantina
-   - Significado religioso y cultural
-   - La "Negrita" - patrona de Costa Rica
-
-3. 🌋 **Volcán Irazú**
-   - Volcán más alto de Costa Rica (3,432 msnm)
-   - Cráter con lago de color turquesa
-   - Paisaje lunar
-   - Vistas espectaculares (en días despejados se ven ambos océanos)
-   - **Temperatura:** FRÍO (puede estar a 41-50°F / 5-10°C)
-
-### Ropa Recomendada - MUY IMPORTANTE
-- ⚠️ **ABRIGARSE:** Hace mucho frío en el Irazú
-- Chaqueta/sudadera gruesa
-- Pantalones largos
-- Calcetines largos
-- Botas o zapatos cerrados
-- Gorra/gorro (para frío)
-- Bufanda (opcional pero útil)
-- **Capas:** El clima cambia rápido
-
-### Comidas
-- 🍳 Desayuno: Airbnb San José (temprano)
-- 🥗 Almuerzo: Durante tour en Cartago
-- 🍽️ Cena: De regreso en San José
-
-### Notas del Día
-- Salida temprano (7:00am-8:00am probable)
-- Tour de día completo
-- Llevar snacks y agua
-- El Irazú puede estar nublado - ir temprano en la mañana
-- Altitud alta - puede afectar a algunas personas
-
-### Recomendaciones
-- Confirmar tour y horario de salida
-- Tener ropa de abrigo empacada y accesible
-- Cargar batería de la cámara
-- Llevar snacks y agua
-- Aplicar bloqueador (aún con frío, la altitud intensifica el sol)
-- Llevar dinero para comida y souvenirs
+**Ver detalles:** [Restaurantes San José](investigacion/restaurantes-san-jose.md)
 
 ---
 
-## 🎯 DÍA 5 - VIERNES 28 NOVIEMBRE
+### [Día 5 - Jueves 27 Noviembre](itinerario/dia-5.md)
+**Excursión Cartago y Volcán Irazú**
+- 🏛️ Cartago (ciudad histórica, antigua capital)
+- ⛪ Basílica de Nuestra Señora de los Ángeles (La Negrita)
+- 🌋 Volcán Irazú (3,432m - ¡MUY FRÍO! 41-50°F / 5-10°C)
+- 🏠 Segunda noche Airbnb San José
 
-### Ubicación
-📍 San José (permanece en Airbnb)
-
-### Actividades
-📋 **Día libre en San José**
-
-### Opciones Sugeridas
-1. **Relajación y compras de último momento**
-   - Revisitar Mercado de Artesanías
-   - Comprar souvenirs pendientes
-   - Café costarricense para llevar
-
-2. **Explorar barrios de San José**
-   - Barrio Escalante (hipster, cafés, restaurantes)
-   - Barrio Amón (arquitectura victoriana)
-
-3. **Museos (si interesa)**
-   - Museo del Oro Precolombino
-   - Museo Nacional de Costa Rica
-   - Museo de Arte Costarricense
-
-4. **Gastronomía**
-   - Probar platos que no has probado
-   - Restaurantes recomendados
-   - Cafés specialty coffee
-
-5. **Preparación para regreso**
-   - Lavar ropa (usar lavadora del Airbnb)
-   - Empacar
-   - Organizar souvenirs
-   - Revisar checklist de vuelo
-
-### Ropa Recomendada
-- Casual cómodo
-- Según actividades elegidas
-- Preparar ropa para vuelo del día siguiente
-
-### Comidas
-- 🍳 Desayuno: Airbnb
-- 🥗 Almuerzo: Explorar restaurantes locales
-- 🍽️ Cena: Última cena especial en Costa Rica
-
-### Recomendaciones
-- Aprovechar lavadora del Airbnb para lavar ropa
-- Comenzar a empacar maleta para el regreso
-- Verificar que no se olvide nada en el Airbnb
-- Preparar ropa del vuelo del día siguiente
-- Confirmar transporte al aeropuerto
-- Hacer check-in online del vuelo (disponible 24h antes)
-- Repasar restricciones de equipaje
-- Verificar que souvenirs estén comprados y empacados
+**⚠️ IMPORTANTE:** Llevar ropa de abrigo (chaqueta gruesa, pantalones largos, gorro).
 
 ---
 
-## ✈️ DÍA 6 - SÁBADO 29 NOVIEMBRE
+### [Día 6 - Viernes 28 Noviembre](itinerario/dia-6.md)
+**Día Libre en San José**
 
-### Check-out y Vuelo de Regreso
-- 🏠 **Check-out Airbnb:** MUY TEMPRANO (~6:00am o antes)
-- 🚖 **Transporte al aeropuerto:** 6:00am-6:30am
-- ✈️ **Vuelo:** SJO 08:07am → SJU 03:56pm
-- 🏠 **Llegada a casa:** ~5:00pm-6:00pm
+Opciones sugeridas:
+- 🛍️ Compras finales de souvenirs
+- 🏙️ Explorar barrios (Escalante, Amón)
+- 🏛️ Museos (Oro, Jade, Nacional)
+- ☕ Coffee tour urbano
+- 🧳 **Preparación para regreso** (empacar, lavar ropa, llenar gasolina)
 
-### Actividades
-- Check-out Airbnb
-- Desayuno rápido/ligero
-- Transporte al aeropuerto
-- Check-in y seguridad
-- Vuelo de regreso
-
-### Recomendaciones Finales
-- Configurar alarma para 5:00am o antes
-- Tener maletas cerradas y listas la noche anterior
-- Hacer revisión final del Airbnb para no olvidar nada
-- Tener boarding passes listos (digital o impreso)
-- Mantener pasaporte y documentos accesibles
-- Llevar snacks para el viaje
-- Cargar batería del celular
-- Empacar souvenirs con cuidado (carry-on si son frágiles)
+**🚨 CRÍTICO:** Hacer check-in online del vuelo (disponible 24h antes), empacar TODO, llenar tanques de gasolina.
 
 ---
 
-## 📊 RESUMEN DE ALOJAMIENTOS
+### [Día 7 - Sábado 29 Noviembre](itinerario/dia-7.md)
+**Vuelo de Regreso**
+- ⏰ 5:00 AM - Despertar (configurar múltiples alarmas!)
+- 🏠 6:00 AM - Check-out Airbnb (MUY temprano)
+- 🚗 6:30 AM - Devolución vehículos en aeropuerto
+- ✈️ 8:07 AM - Vuelo SJO → PTY → SJU
+- 🏠 3:56 PM - Llegada Puerto Rico
+
+---
+
+## 📊 Resumen de Alojamientos
 
 ### Noche 1 (Dom 23)
 🏨 **Hotel Aloft - San José**
 - Primera noche post-llegada
 - Ubicación urbana conveniente
+- Confirmación: 6488.384.259
 
 ### Noches 2-3 (Lun 24, Mar 25)
-🏠 **Airbnb La Fortuna**
-- Link: https://www.airbnb.com/l/T56fxqdQ
+🏠 **Airbnb Casa Mañana - La Fortuna**
+- [Link reserva](https://www.airbnb.com/l/T56fxqdQ)
 - 2 noches
 - Área del Volcán Arenal
+- **IMPORTANTE:** Confirmar late check-in ~9:00-10:00 PM (Día 2)
 
 ### Noches 4-6 (Mié 26, Jue 27, Vie 28)
-🏠 **Airbnb San José**
-- Link: https://www.airbnb.com/l/BQqGHlXz
+🏠 **Airbnb Casa Ayarcos - San José**
+- [Link reserva](https://www.airbnb.com/l/BQqGHlXz)
 - 3 noches
 - Base para ciudad y excursiones
+- **IMPORTANTE:** Confirmar early check-out ~6:00 AM (Día 7)
 
 ---
 
-## 🎒 RESUMEN DE ACTIVIDADES
+## 🎒 Resumen de Actividades
 
-### Naturaleza y Volcanes
-- ✅ Volcán Arenal (Día 1)
-- ✅ Volcán Irazú (Día 4)
+### 🌋 Naturaleza y Volcanes
+- ✅ Volcán Arenal (Día 2)
+- ✅ Volcán Irazú (Día 5)
 
-### Aventura
-- ✅ Aguas Termales (Día 1)
-- ✅ ATV - Cuatrimotos (Día 2)
-- ✅ Rafting en Los Rápidos (Día 2)
-- ✅ Cascada La Fortuna (Día 2)
+### 🏞️ Aventura
+- ✅ Aguas Termales (Día 2)
+- ✅ ATV - Cuatrimotos (Día 3)
+- ✅ Rafting en Los Rápidos (Día 3)
+- ✅ Cascada La Fortuna (Día 3)
 
-### Cultural y Ciudad
-- ✅ City Tour San José (Día 3)
-- ✅ Mercado de Artesanías (Día 3)
-- ✅ Cartago histórico (Día 4)
-- ✅ Basílica de Los Ángeles (Día 4)
-- ✅ Día libre San José (Día 5)
+### 🏛️ Cultural y Ciudad
+- ✅ City Tour San José (Día 4)
+- ✅ Mercado de Artesanías (Día 4)
+- ✅ Cartago histórico (Día 5)
+- ✅ Basílica de Los Ángeles (Día 5)
+- ✅ Día libre San José (Día 6)
 
 ---
 
-## 💡 TIPS GENERALES DEL ITINERARIO
+## 💡 Tips Generales del Itinerario
 
-### Transporte
-- Confirmar TODOS los traslados con anticipación
-- Tener número de contacto de drivers/agencias
-- Tiempo de buffer para traslados (tráfico posible)
+### 🚗 Transporte (Tenemos 2 Vehículos Alquilados)
 
-### Clima por Región (Noviembre 2025)
-- **San José:**
-  - Temperatura: 59-75°F (16-24°C) - Máx promedio: 73°F, Mín promedio: 59°F (22.7°C / 15.2°C)
-  - Lluvias: ~28 días con lluvia, 165mm precipitación
-  - 6 horas de sol al día
-  - Fin de época lluviosa (condiciones mejoran durante el mes)
+**Ventajas:**
+- ✅ Flexibilidad total de horarios
+- ✅ Podemos visitar lugares remotos sin tours costosos
+- ✅ Ahorro en transporte (tours cobran $60-80 pp)
 
-- **La Fortuna (Arenal):**
-  - Temperatura: 68-83°F (20-29°C) - Días cálidos, noches agradables
-  - Lluvias: ~21 días con lluvia, 315mm precipitación
-  - Lluvias típicas de 1-3 horas seguidas de cielos despejados
-  - Húmedo, fin de temporada lluviosa
+**Consideraciones:**
+- Estacionamiento seguro en cada destino
+- Gasolina (~$100-150 total para 6 días)
+- Al menos 2 conductores designados
+- Coordinar ambos vehículos (radio/WhatsApp útil)
 
-- **Volcán Irazú:**
-  - Temperatura: 41-59°F (5-15°C) - **¡MUY FRÍO!** (3,432 msnm altitud)
-  - Puede estar nublado/con neblina
+**Rutas principales:**
+- San José ↔ La Fortuna: 130 km, 3-3.5 horas
+- San José → Cartago/Irazú: 54 km, 1.5 horas
 
-### Empaque Estratégico
+---
+
+### 🌦️ Clima por Región (Noviembre 2025)
+
+**San José:**
+- Temperatura: 59-75°F (16-24°C) - Máx: 73°F, Mín: 59°F
+- Lluvias: ~28 días con lluvia, 165mm precipitación
+- 6 horas de sol al día
+- Fin de época lluviosa (mejora durante el mes)
+
+**La Fortuna (Arenal):**
+- Temperatura: 68-83°F (20-29°C) - Días cálidos, noches agradables
+- Lluvias: ~21 días con lluvia, 315mm precipitación
+- Lluvias típicas de 1-3 horas seguidas de cielos despejados
+- Húmedo, fin de temporada lluviosa
+
+**Volcán Irazú:**
+- Temperatura: **41-59°F (5-15°C)** - **¡MUY FRÍO!** (3,432 msnm altitud)
+- Puede estar nublado/con neblina
+- **Llevar ropa de abrigo obligatoria**
+
+---
+
+### 🎒 Empaque Estratégico
+
 - **Mochila de día:** Llevar diario con esenciales
-- **En Airbnb:** Usar lavadora día 3 o día 5
+- **Ropa:** Sistema de capas (clima varía mucho)
+- **Impermeable:** Poncho o chamarra para lluvia
+- **En Airbnb:** Usar lavadora Día 4 o Día 6
 - **Souvenirs:** Dejar espacio en maleta
 
-### Dinero
-- Tener colones para gastos pequeños
-- Dólares aceptados en muchos lugares
-- Tarjetas de crédito ampliamente aceptadas
-- Propinas: 10% usual
+**Ropa crítica:**
+- Traje de baño (aguas termales, rafting, cascada)
+- Ropa de abrigo (Volcán Irazú)
+- Zapatos de hiking
+- Ropa que pueda ensuciarse/mojarse
+
+📚 **Ver:** [Planificación de Ropa Completa](planificacion-ropa.md)
 
 ---
+
+### 💰 Dinero
+
+- **Colones:** Tener para gastos pequeños
+- **Dólares:** Aceptados en muchos lugares
+- **Tarjetas:** Ampliamente aceptadas
+- **Propinas:** 10% usual (muchos restaurantes la incluyen)
+- **ATMs:** Disponibles en aeropuerto y ciudades
+
+---
+
+### 📱 Conectividad
+
+- **SIM local:** Kolbi (operador estatal) - disponible en aeropuerto
+- **WiFi:** Disponible en hoteles, Airbnbs, restaurantes
+- **Mapas:** Descargar offline (Google Maps, Waze)
+- **WhatsApp:** Funcional con WiFi/datos
+
+---
+
+### 🔐 Seguridad
+
+- **En general:** Costa Rica es seguro para turistas
+- **En San José:** Estar atento en áreas turísticas (Mercado Central)
+- **Vehículos:** No dejar objetos visibles, usar estacionamientos seguros
+- **Documentos:** Guardar copias digitales de pasaportes
+- **Emergencias:** 911 (número único en Costa Rica)
+
+---
+
+### ☕ Souvenirs Populares
+
+- Café costarricense (empacado/sellado)
+- Chocolate
+- Artesanías de madera
+- Salsa Lizano
+- Ron Centenario
+- Productos naturales (jabones, aceites)
+
+**Consejo:** Comprar café en supermercado es más barato que en tiendas turísticas.
+
+---
+
+## 🎯 Consideraciones Especiales
+
+### Grupo de 10 Personas
+- Algunos tours requieren reserva anticipada
+- Descuentos grupales posibles
+- Coordinación importante (especialmente con 2 vehículos)
+
+### Noviembre = Época Lluviosa (Final)
+- Lluvia probable cada tarde (1-3 horas)
+- Conducir con cuidado cuando llueve
+- Planes de contingencia útiles
+- Ropa impermeable esencial
+
+### Check-out Temprano Día 7
+- Vuelo 8:07 AM requiere salir Airbnb 6:00 AM
+- Devolver vehículos ~6:30-7:00 AM en aeropuerto
+- Configurar múltiples alarmas 5:00 AM
+- TODO preparado la noche anterior (Día 6)
+
+---
+
+## 📚 Recursos Adicionales
+
+- [Información de Vuelos](vuelos.md)
+- [Alojamientos Detallados](alojamientos.md)
+- [Planificación de Ropa](planificacion-ropa.md)
+- [Volcán Arenal - Guía Completa](investigacion/volcan-arenal.md)
+- [Aguas Termales - Comparación](investigacion/aguas-termales.md)
+- [Rafting Los Rápidos](investigacion/rafting-rapidos.md)
+- [Restaurantes La Fortuna](investigacion/restaurantes-la-fortuna.md)
+- [Restaurantes San José](investigacion/restaurantes-san-jose.md)
+
+---
+
+**¡Pura Vida!** 🇨🇷
+
+Disfruta este viaje increíble por Costa Rica. Este itinerario combina lo mejor de naturaleza, aventura, cultura y relajación.
+
+---
+
+_Última actualización: 16 Noviembre 2025_
