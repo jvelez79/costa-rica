@@ -1,5 +1,28 @@
 # CLAUDE.md - Instrucciones para Asistente AI
 
+## ⚠️ REGLA CRÍTICA - NUMERACIÓN DE DÍAS
+
+**🔴 SUPER IMPORTANTE - LEER SIEMPRE PRIMERO:**
+
+**Los días del viaje SIEMPRE se cuentan desde Día 1, NUNCA desde Día 0.**
+
+### Numeración Correcta:
+- ✅ **Día 1** (Dom 23 Nov) - Llegada San José
+- ✅ **Día 2** (Lun 24 Nov) - Traslado La Fortuna → Volcán Arenal + Aguas Termales
+- ✅ **Día 3** (Mar 25 Nov) - ATV + Rafting Los Rápidos + Cascada La Fortuna
+- ✅ **Día 4** (Mié 26 Nov) - Traslado San José → City Tour + Mercado Artesanías
+- ✅ **Día 5** (Jue 27 Nov) - Cartago + Basílica + Volcán Irazú
+- ✅ **Día 6** (Vie 28 Nov) - Día libre San José
+- ✅ **Día 7** (Sáb 29 Nov) - Check-out temprano → Vuelo regreso
+
+### ❌ NUNCA usar:
+- ❌ Día 0 (Dom 23) - INCORRECTO
+- ❌ Contar desde 0 - INCORRECTO
+
+**Esta regla debe aplicarse en TODOS los archivos, TODAS las referencias, y TODAS las sesiones.**
+
+---
+
 ## 🎯 Propósito del Proyecto
 Planificación y documentación completa del viaje a Costa Rica (23-29 Noviembre 2025).
 Grupo de 10 adultos. Enfoque: Naturaleza, Aventura, Ciudad, Cultural.
@@ -14,8 +37,8 @@ Grupo de 10 adultos. Enfoque: Naturaleza, Aventura, Ciudad, Cultural.
 - **planificacion-ropa.md** - Lista de ropa y plan por día
 
 ### Archivos de Investigación
-- **investigacion-volcan-arenal.md** - Research completo Día 1
-- (Pendiente) investigacion-dia2-actividades.md
+- **investigacion-volcan-arenal.md** - Research completo Día 2
+- (Pendiente) investigacion-dia3-actividades.md
 - (Pendiente) investigacion-aguas-termales.md
 - (Pendiente) investigacion-transporte.md
 
@@ -32,13 +55,13 @@ Grupo de 10 adultos. Enfoque: Naturaleza, Aventura, Ciudad, Cultural.
 - **Transporte:** ✅ **2 vehículos alquilados** (capacidad para 10 personas)
 
 ### Itinerario Resumido
-- **Día 0 (Dom 23):** Llegada San José → Hotel Aloft (2 vehículos)
-- **Día 1 (Lun 24):** Traslado La Fortuna (3h drive) → Volcán Arenal + Aguas Termales
-- **Día 2 (Mar 25):** ATV (Cuatrimotos) + Rafting Los Rápidos + Cascada La Fortuna
-- **Día 3 (Mié 26):** Traslado San José (3h drive) → City Tour + Mercado Artesanías
-- **Día 4 (Jue 27):** Cartago + Basílica + Volcán Irazú (FRÍO!)
-- **Día 5 (Vie 28):** Día libre San José
-- **Día 6 (Sáb 29):** Check-out temprano → Vuelo regreso (devolver vehículos)
+- **Día 1 (Dom 23):** Llegada San José → Hotel Aloft (2 vehículos)
+- **Día 2 (Lun 24):** Traslado La Fortuna (3h drive) → Volcán Arenal + Aguas Termales
+- **Día 3 (Mar 25):** ATV (Cuatrimotos) + Rafting Los Rápidos + Cascada La Fortuna
+- **Día 4 (Mié 26):** Traslado San José (3h drive) → City Tour + Mercado Artesanías
+- **Día 5 (Jue 27):** Cartago + Basílica + Volcán Irazú (FRÍO!)
+- **Día 6 (Vie 28):** Día libre San José
+- **Día 7 (Sáb 29):** Check-out temprano → Vuelo regreso (devolver vehículos)
 
 ### Alojamientos
 - **Noche 1:** Hotel Aloft San José (Conf: 6488.384.259)
@@ -68,15 +91,15 @@ Grupo de 10 adultos. Enfoque: Naturaleza, Aventura, Ciudad, Cultural.
 - [x] Investigación Aguas Termales (comparación Baldi vs Tabacón vs otros)
 
 ### 🔴 Prioridad URGENTE
-- [ ] **🔥 Contactar Casa Mañana (Airbnb La Fortuna):** Confirmar late check-in ~9:00-10:00 PM Día 1 (Lun 24)
-- [ ] **🔥 Contactar Casa Ayarcos (Airbnb San José):** Confirmar early check-out ~6:00 AM Día 6 (Sáb 29)
+- [ ] **🔥 Contactar Casa Mañana (Airbnb La Fortuna):** Confirmar late check-in ~9:00-10:00 PM Día 2 (Lun 24)
+- [ ] **🔥 Contactar Casa Ayarcos (Airbnb San José):** Confirmar early check-out ~6:00 AM Día 7 (Sáb 29)
 
 ### Investigación Necesaria
-- [ ] ATV - Tours en cuatrimotos (operadores, precios, horarios, estacionamiento)
-- [ ] Rafting Los Rápidos (ya investigado en rafting-rapidos.md)
-- [ ] Cascada La Fortuna (entrada, logística, tiempo, parking)
-- [ ] Tours Cartago + Irazú (o hacerlo independiente con vehículos)
-- [ ] City Tour San José (¿tour o explorar con vehículos?)
+- [ ] ATV - Tours en cuatrimotos (operadores, precios, horarios, estacionamiento) - Día 3
+- [ ] Rafting Los Rápidos (ya investigado en rafting-rapidos.md) - Día 3
+- [ ] Cascada La Fortuna (entrada, logística, tiempo, parking) - Día 3
+- [ ] Tours Cartago + Irazú (o hacerlo independiente con vehículos) - Día 5
+- [ ] City Tour San José (¿tour o explorar con vehículos?) - Día 4
 - [ ] Restaurantes recomendados (con estacionamiento)
 - [ ] Estacionamiento en cada destino
 
@@ -231,10 +254,10 @@ docs/investigacion/
 
 ### Prioridad Alta
 1. Confirmar detalles de alquiler de vehículos (seguro, conductor adicional)
-2. Completar investigación de actividades Día 2
+2. Completar investigación de actividades Día 3
 3. Investigar estacionamiento en cada destino
 4. Presupuesto consolidado (incluir gasolina)
-5. Contactar Airbnbs para confirmar parking y early check-out Día 6
+5. Contactar Airbnbs para confirmar parking y early check-out Día 7
 
 ### Prioridad Media
 1. Opciones de restaurantes por zona (con parking)
@@ -393,11 +416,11 @@ docs/investigacion/
 - 41-50°F (5-10°C) posible
 - Ropa de abrigo ESENCIAL
 - **Conducir a alta altitud:** Cuidado con neblina
-- Ver planificacion-ropa.md Día 4
+- Ver planificacion-ropa.md Día 5
 
 ## 🗺️ Rutas Principales
 
-### San José → La Fortuna (Día 1)
+### San José → La Fortuna (Día 2)
 - **Distancia:** ~130 km
 - **Tiempo:** 3-3.5 horas
 - **Ruta:** Tomar Ruta 1 Norte hacia Ciudad Quesada, luego Ruta 142 hacia La Fortuna
@@ -405,20 +428,20 @@ docs/investigacion/
 - **Peajes:** Verificar si hay
 - **Paradas sugeridas:** Sarchí (artesanías), Zarcero (parque topiary)
 
-### La Fortuna → San José (Día 3)
+### La Fortuna → San José (Día 4)
 - **Distancia:** ~130 km
 - **Tiempo:** 3-3.5 horas
 - **Ruta:** Reversa de la ida
 - **Consideración:** Salir temprano para evitar tráfico entrada a San José
 
-### San José → Cartago → Irazú (Día 4)
+### San José → Cartago → Irazú (Día 5)
 - **Distancia:** ~54 km total
 - **Tiempo:** 1.5-2 horas
 - **Ruta:** Tomar Ruta 2 hacia Cartago, luego subir a Irazú
 - **Consideración:** Carretera de montaña, curvas
 - **Altitud:** 3,432m - manejar con cuidado
 
-### Dentro de San José (Días 3, 5)
+### Dentro de San José (Días 4, 6)
 - **Parking:** Investigar estacionamiento seguro cerca de atracciones
 - **Tráfico:** Pesado en horas pico (7-9 AM, 5-7 PM)
 - **Opción:** Dejar vehículos en hotel, usar taxi/Uber para ciudad
@@ -436,7 +459,7 @@ docs/investigacion/
 
 ### Ejemplo:
 ```markdown
-## Presupuesto Día 2
+## Presupuesto Día 3
 
 **Opción 1: Tours Organizados**
 - ATV tour: $85 × 10 = $850
@@ -486,7 +509,7 @@ Este proyecto se publica como GitHub Pages website para compartir con el grupo d
 
 **Excepción:** Puede mantenerse metadata contextual útil:
 ```markdown
-✅ **Para:** Día 2 (Martes 25 Nov) - Actividades La Fortuna
+✅ **Para:** Día 3 (Martes 25 Nov) - Actividades La Fortuna
 ✅ **Contexto:** Grupo de 10 adultos con 2 vehículos
 ✅ **Fuente:** Review en video YouTube [con link]
 ```

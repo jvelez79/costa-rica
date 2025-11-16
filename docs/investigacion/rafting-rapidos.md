@@ -2,7 +2,7 @@
 
 ![Rafting en Costa Rica](../assets/images/rafting-hero.jpg)
 
-**Para:** Día 2 (Martes 25 Nov) - Actividades en La Fortuna
+**Para:** Día 3 (Martes 25 Nov) - Actividades en La Fortuna
 
 ---
 
@@ -270,7 +270,7 @@
 
 ---
 
-## 📅 ITINERARIO SUGERIDO DÍA 2 (Mar 25 Nov)
+## 📅 ITINERARIO SUGERIDO DÍA 3 (Mar 25 Nov)
 
 ### OPCIÓN 1: Rafting + Cascada La Fortuna
 
@@ -373,7 +373,7 @@ Opciones recomendadas:
 - [ ] Confirmar interés/comodidad con nivel de rápidos
 - [ ] Definir presupuesto aceptable ($70-80 pp)
 
-### 4. **Coordinar con Cascada La Fortuna** (DÍA 2 TARDE)
+### 4. **Coordinar con Cascada La Fortuna** (DÍA 3 TARDE)
 - [ ] Si hacen rafting AM, planear Cascada PM
 - [ ] Ver investigacion-cascada-la-fortuna.md (PENDIENTE crear)
 - [ ] Considerar energía del grupo después de rafting
@@ -457,7 +457,7 @@ Opciones recomendadas:
 - 🏍️ **ATV:** Tours en cuatrimotos/vehículos todo terreno
 - 🌊 **Los Rápidos:** Rafting en aguas rápidas (esta actividad)
 
-**Si quieren hacer ambas el mismo día (Día 2):**
+**Si quieren hacer ambas el mismo día (Día 3):**
 - ⚠️ **AGOTADOR:** Ambas son actividades físicamente demandantes
 - ⏰ **Tiempo total:** ~8-9 horas combinadas (más Cascada La Fortuna = día MUY intenso)
 - 💰 **Costo combo:** ~$130-150 pp (si existe)
@@ -476,7 +476,7 @@ Si prefieren algo **más relajado** que rafting:
 
 ## ✅ RESUMEN FINAL
 
-**Para Grupo de 10 Adultos, Día 2 (25 Nov):**
+**Para Grupo de 10 Adultos, Día 3 (25 Nov):**
 
 1. **Río recomendado:** Balsa (Clase II-III)
 2. **Operador sugerido:** WAVE Rafting o Arenal Rafting
@@ -496,7 +496,7 @@ Si prefieren algo **más relajado** que rafting:
 
 ## 🔗 REFERENCIAS CRUZADAS
 
-- Ver **itinerario.md** - Día 2 líneas 53-65
+- Ver **itinerario.md** - Día 3 líneas 53-65
 - Ver **CLAUDE.md** - Información vehículos alquilados
 - Pendiente: **investigacion-cascada-la-fortuna.md**
 - Pendiente: **investigacion-atv-la-fortuna.md** (si consideran ATV)

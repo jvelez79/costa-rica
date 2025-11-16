@@ -55,7 +55,7 @@
 - 1 pantalón casual/jeans ligero - Para ciudad
 - 1 pantalón que pueda ensuciarse - **Para ATV (se va a manchar de barro)**
 - 2 shorts deportivos/casuales - Clima cálido y actividades
-- 1 traje de baño - **ESENCIAL:** Aguas Termales (Día 1) + Cascada La Fortuna (Día 2)
+- 1 traje de baño - **ESENCIAL:** Aguas Termales (Día 2) + Cascada La Fortuna (Día 3)
 
 ### Ropa Interior y Calcetines (7-8 juegos)
 - 6 boxers/calzoncillos (puedes lavar a mitad de semana)
@@ -90,7 +90,7 @@
 
 ## 📦 ESTRATEGIA DE EMPAQUE
 
-### Aprovecha la Lavadora (Día 3-4)
+### Aprovecha la Lavadora (Día 4-5)
 Con acceso a lavadora, puedes:
 - Llevar **menos ropa** (6 días pero ropa para 3-4)
 - Lavar ropa técnica a mitad del viaje

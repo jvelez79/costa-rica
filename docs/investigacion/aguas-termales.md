@@ -333,7 +333,7 @@ Según el video, la mayoría de aguas termales de hoteles ofrecen:
 - Infraestructura para grupo grande
 
 **Opción 3 (Combinar ambas):**
-- DÍA 1: Termales gratis (sunset, experiencia natural)
-- DÍA 2: Eco Termales o Baldi (comodidades, relax)
-- Costo: $420-530 (dependiendo de cuál pagada elijan)
+- DÍA 2: Termales gratis (sunset, experiencia natural)
+- DÍA 3: Eco Termales o Baldi (comodidades, relax)
+- Costo: $420-530 (dependiendo de cuál pagada elijen)
 - Mejor de ambos mundos

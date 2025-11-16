@@ -106,11 +106,11 @@
 - Verificar disponibilidad de cocina
 
 ### Actividades desde esta Base
-- Volcán Arenal (Día 1)
-- Aguas Termales (Día 1)
-- ATV - Cuatrimotos (Día 2)
-- Rafting Los Rápidos (Día 2)
-- Cascada La Fortuna (Día 2)
+- Volcán Arenal (Día 2)
+- Aguas Termales (Día 2)
+- ATV - Cuatrimotos (Día 3)
+- Rafting Los Rápidos (Día 3)
+- Cascada La Fortuna (Día 3)
 
 ### Notas
 - Ubicación estratégica para actividades de naturaleza/aventura
@@ -162,13 +162,13 @@
 - Solicitar recomendaciones de restaurantes cercanos
 
 ### Actividades desde esta Base
-- City Tour San José (Día 3 - llegada)
-- Mercado de Artesanías (Día 3)
-- Excursión Cartago + Volcán Irazú (Día 4)
-- Día libre San José (Día 5)
+- City Tour San José (Día 4 - llegada)
+- Mercado de Artesanías (Día 4)
+- Excursión Cartago + Volcán Irazú (Día 5)
+- Día libre San José (Día 6)
 
 ### Notas Especiales
-- **Lavadora:** Planear lavar ropa Día 4 o 5
+- **Lavadora:** Planear lavar ropa Día 5 o 6
 - **Early check-out:** Preparar todo desde la noche anterior
 - **Transporte aeropuerto:** Coordinar para las 6:00am-6:30am
 - **Ubicación:** Verificar cercanía a restaurantes para última cena

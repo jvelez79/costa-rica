@@ -2,7 +2,7 @@
 
 ![Gastronomía en La Fortuna](../assets/images/restaurantes-la-fortuna-hero.jpg)
 
-**Para:** Dia 2 (Martes 25 Noviembre 2025)
+**Para:** Día 3 (Martes 25 Noviembre 2025)
 **Contexto:** Grupo de 10 adultos con 2 vehiculos alquilados
 
 ---
@@ -752,7 +752,7 @@
 
 ---
 
-## ITINERARIO SUGERIDO DIA 2 (Martes 25 Nov)
+## ITINERARIO SUGERIDO DÍA 3 (Martes 25 Nov)
 
 ### OPCION A: PREMIUM + CONVENIENCIA
 **6:30 AM** - Desayuno: **Soda La Parada** (24h)

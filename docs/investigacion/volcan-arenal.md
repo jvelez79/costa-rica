@@ -1,4 +1,4 @@
-# Investigación Volcán Arenal - Día 1 (Lunes 24 Noviembre 2025)
+# Investigación Volcán Arenal - Día 2 (Lunes 24 Noviembre 2025)
 
 ![Volcán Arenal](../assets/images/volcan-arenal-hero.jpg)
 
@@ -133,11 +133,11 @@
 
 ---
 
-## ITINERARIO RECOMENDADO - DÍA 1 (Lun 24 Nov)
+## ITINERARIO RECOMENDADO - DÍA 2 (Lun 24 Nov)
 
-### ⚠️ NOTA IMPORTANTE: LLEGADA NOCTURNA DÍA 0
-- **Día 0 (Dom 23 Nov):** Llegada a SJO 6:55 PM → Hotel Aloft San José (~8:30 PM)
-- **Día 1 (Lun 24 Nov):** Empieza desde Hotel Aloft
+### ⚠️ NOTA IMPORTANTE: LLEGADA NOCTURNA DÍA 1
+- **Día 1 (Dom 23 Nov):** Llegada a SJO 6:55 PM → Hotel Aloft San José (~8:30 PM)
+- **Día 2 (Lun 24 Nov):** Empieza desde Hotel Aloft
 
 ---
 
@@ -445,7 +445,7 @@
 - ✅ Caminar más despacio (30 min extra)
 
 ### Si Lluvia Fuerte/Niebla Densa
-- **Plan B:** Reprogramar volcán para Día 2 (Martes 25)
+- **Plan B:** Reprogramar volcán para Día 3 (Martes 25)
 - **Alternativa Día 1:**
   - Mañana: Aguas termales (mejor con lluvia)
   - Tarde: Cascada La Fortuna
