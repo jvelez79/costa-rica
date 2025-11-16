@@ -26,7 +26,7 @@
 | Opción | Costo (ida) | Tiempo | Dificultad | Recomendado |
 |--------|-------------|--------|------------|-------------|
 | **Uber** | $13-18 | 20-30 min | Fácil | ⭐⭐⭐⭐⭐ Mejor relación precio/tiempo |
-| **Taxi Oficial** | $35 | 20-30 min | Fácil | ⭐⭐⭐ OK si no tienes app |
+| **Taxi Oficial** | $30 | 20-30 min | Fácil | ⭐⭐⭐ OK si no tienes app |
 | **Metro + Metrobús** | $0.75 | 45-70 min | Media | ⭐⭐⭐⭐ Excelente si hay presupuesto ajustado |
 | **Private Transfer** | $40-60 | 20-30 min | Muy fácil | ⭐⭐⭐⭐ Premium |
 | **Bus Público** | $0.25 | 1+ hora | Difícil | ❌ NO recomendado |
@@ -78,33 +78,56 @@
 
 ## 🚕 OPCIÓN 2: TAXI OFICIAL
 
-### Costo
-- **Tarifa fija:** $35 (1-2 personas)
-- **Adicional:** $10 por pasajero extra
-- **Total roundtrip pareja:** ~$60-70
+### Costo (Tarifas Oficiales 2025)
+- **Tarifa fija Casco Viejo:** $30.00 (1-2 personas)
+- **Adicional:** $10-20 por pasajero extra (dependiendo distancia)
+- **Total roundtrip pareja:** ~$60
+
+**Fuente:** [panamatocumen.com/taxis](https://panamatocumen.com/taxis) (sitio oficial)
 
 ### Desde PTY
-1. Salir de customs/arrivals
-2. Buscar **taxi stand oficial**
-3. Comprar ticket en **mostrador autorizado**
+1. Salir de zona **Arrivals**
+2. Buscar **taxi stand oficial** en área de transporte terrestre
+3. Ir al **mostrador autorizado** (counter oficial)
 4. Decir destino: "Casco Viejo"
-5. Pagar $35 (efectivo/tarjeta)
+5. Pagar **$30** en efectivo (USD)
 6. Te asignan taxi amarillo oficial
-7. NO pagar nuevamente al conductor
+7. **NO pagar nuevamente al conductor** (ya pagaste en counter)
 
-### Regreso
+### ⚠️ ADVERTENCIAS IMPORTANTES
+
+**Riesgo de sobrecargos:**
+- ❌ Conductores NO oficiales se acercan agresivamente a turistas
+- ❌ Intentan cobrar tarifas infladas (más de $30)
+- ❌ Dicen ser "oficiales" pero no lo son
+
+**Protégete:**
+- ✅ **SOLO usar taxis del counter oficial**
+- ✅ **Confirmar precio ANTES de cargar equipaje**
+- ✅ Ignorar conductores que te aborden directamente
+- ✅ Si te dicen precio mayor a $30 a Casco Viejo = NO es oficial
+
+### Regreso (Casco → PTY)
 - Negociar precio ANTES de subir ($25-30)
-- O pedir al restaurante que llamen taxi oficial
+- O pedir al restaurante que llamen taxi oficial/confiable
+- Confirmar tarifa antes de arrancar
+
+### Método de Pago
+- **Efectivo SOLAMENTE** (USD preferido)
+- **NO aceptan tarjeta** (muy raro que acepten)
+- Llevar billetes pequeños ($20, $10, $5)
 
 ### Ventajas
-- ✅ No requiere smartphone/app
-- ✅ Oficial, regulado
+- ✅ No requiere smartphone/app/internet
+- ✅ Oficial, regulado (si usas counter oficial)
 - ✅ Disponible 24/7
+- ✅ Inmediatamente disponible
 
 ### Desventajas
-- ❌ Casi doble caro que Uber
-- ❌ Sin tracking
-- ❌ Pago efectivo preferido
+- ❌ Solo efectivo (no tarjeta)
+- ❌ Sin tracking GPS
+- ❌ Riesgo de conductores NO oficiales que intentan estafar
+- ❌ Doble precio que Uber ($30 vs $15-18)
 
 ---
 
@@ -376,12 +399,12 @@ NO salir del aeropuerto - tiempo muy corto, quedarse en terminal
 
 ## 💰 COSTO TOTAL TRANSPORTE (PAREJA)
 
-| Opción | Costo Total | Tiempo Perdido |
-|--------|-------------|----------------|
-| Uber | $30-36 | 1 hora |
-| Taxi | $60-70 | 1 hora |
-| Metro + Metrobús | $5.00 | 2+ horas |
-| Private | $80-120 | 1 hora |
+| Opción | Costo Total | Tiempo Perdido | Horas en Ciudad |
+|--------|-------------|----------------|-----------------|
+| Uber | $30-36 | 1 hora | ~7 horas |
+| Taxi Oficial | $60 | 1 hora | ~7 horas |
+| Metro + Metrobús | $5.00 | 2+ horas | ~6 horas |
+| Private Transfer | $80-120 | 1 hora | ~7 horas |
 
 ---
 
@@ -406,10 +429,12 @@ NO salir del aeropuerto - tiempo muy corto, quedarse en terminal
 
 ### 🥉 ALTERNATIVA: TAXI OFICIAL
 **Mejor para:** Sin smartphone o no confías en apps
-- $60-70 roundtrip
+- $60 roundtrip (tarifa oficial $30 cada trayecto)
 - Misma velocidad que Uber
-- Sin necesidad de tecnología
-- ❌ Casi doble precio que Uber
+- Sin necesidad de tecnología o internet
+- ⚠️ Solo efectivo, no tarjeta
+- ⚠️ Cuidado con conductores NO oficiales que cobran más
+- ❌ Doble precio que Uber ($60 vs $30-36)
 
 ### 💎 PREMIUM: PRIVATE TRANSFER
 **Mejor para:** Máxima comodidad sin preocupaciones
