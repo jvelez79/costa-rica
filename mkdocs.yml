@@ -61,6 +61,12 @@ nav:
 
   # Restaurantes La Fortuna
   - '🍽️ Restaurantes La Fortuna': investigacion/restaurantes-la-fortuna.md
+  - 'Restaurantes La Fortuna - Categorías':
+    - 'Desayuno': investigacion/restaurantes-la-fortuna/desayuno.md
+    - 'Almuerzo': investigacion/restaurantes-la-fortuna/almuerzo.md
+    - 'Cena': investigacion/restaurantes-la-fortuna/cena.md
+    - 'Sodas y Budget': investigacion/restaurantes-la-fortuna/sodas-y-budget.md
+    - 'Guía Práctica': investigacion/restaurantes-la-fortuna/guia-practica.md
 
   # Restaurantes San José
   - '🍽️ Restaurantes San José': investigacion/restaurantes-san-jose.md
