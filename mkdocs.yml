@@ -59,6 +59,10 @@ nav:
   - '🌋 Volcán Arenal': investigacion/volcan-arenal.md
   - '♨️ Aguas Termales': investigacion/aguas-termales.md
 
+  # Actividades La Fortuna
+  - '💦 Cascada La Fortuna': investigacion/cascada-la-fortuna.md
+  - '🚣 Rafting Rápidos': investigacion/rafting-rapidos.md
+
   # Comida Típica
   - '🍴 Comida Típica Costarricense': investigacion/comida-bebidas-costarricenses.md
 
@@ -93,9 +97,6 @@ nav:
 
   # City Tour San José
   - '🏛️ City Tour San José': investigacion/city-tour-san-jose.md
-
-  # Otras actividades
-  - '🚣 Rafting Rápidos': investigacion/rafting-rapidos.md
 
   # Escala Panamá
   - '✈️ Escala Panamá':
