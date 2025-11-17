@@ -35,6 +35,8 @@ La comida costarricense es sencilla, fresca y deliciosa. Basada en arroz, frijol
 
 ### Gallo Pinto
 
+![Gallo Pinto](../assets/images/gallo-pinto.jpg)
+
 **Qué es:** El desayuno nacional de Costa Rica. Arroz mezclado con frijoles negros, salsa Lizano, culantro y cebolla.
 
 **Cuándo:** Desayuno (servido con huevos, plátano maduro, tortilla, natilla)
@@ -48,6 +50,8 @@ La comida costarricense es sencilla, fresca y deliciosa. Basada en arroz, frijol
 ---
 
 ### Casado
+
+![Casado Costarricense](../assets/images/casado-costarricense.jpg)
 
 **Qué es:** El almuerzo tradicional costarricense. Plato completo con arroz, frijoles, ensalada, plátano maduro, picadillo y proteína (pollo, carne, pescado o cerdo).
 
@@ -81,6 +85,8 @@ La comida costarricense es sencilla, fresca y deliciosa. Basada en arroz, frijol
 
 ### Ceviche
 
+![Ceviche Costarricense](../assets/images/ceviche-costarricense.jpg)
+
 **Qué es:** Pescado fresco (corvina, dorado, tilapia) marinado en jugo de limón con cebolla, cilantro, pimientos, apio.
 
 **Cuándo:** Aperitivo, almuerzo ligero, snack de bar
@@ -99,6 +105,8 @@ La comida costarricense es sencilla, fresca y deliciosa. Basada en arroz, frijol
 ---
 
 ### Chifrijo
+
+![Chifrijo Costarricense](../assets/images/chifrijo-costarricense.jpg)
 
 **Qué es:** Plato inventado en San José. Base de arroz y frijoles rojos, cubierto con chicharrón (cerdo frito crujiente) y pico de gallo. Servido en bowl.
 
@@ -222,6 +230,8 @@ La comida costarricense es sencilla, fresca y deliciosa. Basada en arroz, frijol
 ### Sin Alcohol
 
 #### ☕ Café Costarricense
+
+![Café Costarricense](../assets/images/cafe-costarricense.jpg)
 
 **Qué es:** Costa Rica produce café de altísima calidad, reconocido mundialmente. Café arábica cultivado en volcanes.
 
