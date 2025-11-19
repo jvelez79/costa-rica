@@ -1,6 +1,6 @@
 # 📅 Itinerario Día por Día - Costa Rica Nov 2025
 
-![Aventura en Costa Rica](assets/images/itinerario-hero.jpg)
+![Calendario Visual del Viaje](assets/images/calendar-hero.jpg)
 
 ---
 
