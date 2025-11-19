@@ -115,8 +115,31 @@ def create_calendar():
     """Genera la imagen del calendario"""
     print("🎨 Creando calendario visual...")
 
-    # Crear imagen base con degradado
-    img = create_gradient_background(WIDTH, HEIGHT, COLOR_BG_TOP, COLOR_BG_BOTTOM)
+    # Intentar cargar imagen IA como fondo (si existe)
+    ai_bg_path = OUTPUT_DIR / "tropical-bg.jpg"
+
+    if ai_bg_path.exists():
+        print("🌴 Usando fondo tropical generado por IA...")
+        img = Image.open(ai_bg_path)
+
+        # Redimensionar a las dimensiones deseadas si es necesario
+        if img.size != (WIDTH, HEIGHT):
+            img = img.resize((WIDTH, HEIGHT), Image.Resampling.LANCZOS)
+
+        # Convertir a RGB si es necesario
+        if img.mode != 'RGB':
+            img = img.convert('RGB')
+
+        # Añadir overlay semi-transparente SUTIL para mejor legibilidad
+        # (menos opaco que antes para preservar la belleza del fondo)
+        overlay = Image.new('RGBA', (WIDTH, HEIGHT), (0, 0, 0, 40))
+        img_rgba = img.convert('RGBA')
+        img = Image.alpha_composite(img_rgba, overlay).convert('RGB')
+    else:
+        print("📐 Usando degradado programático...")
+        # Crear imagen base con degradado (fallback)
+        img = create_gradient_background(WIDTH, HEIGHT, COLOR_BG_TOP, COLOR_BG_BOTTOM)
+
     draw = ImageDraw.Draw(img)
 
     # Intentar cargar fuentes del sistema (fallback a default si no existen)

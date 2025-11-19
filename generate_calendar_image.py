@@ -26,58 +26,32 @@ OUTPUT_DIR = Path("docs/assets/images")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 MODEL = "gemini-2.5-flash-image"
 
-# Prompt para calendario del viaje
+# Prompt para background decorativo tropical (SIN TEXTO)
 CALENDAR_PROMPT = """
-Create a beautiful, modern travel calendar infographic for a 7-day trip to Costa Rica
-(November 23-29, 2025). The calendar should be visually appealing with a tropical,
-vibrant Costa Rican aesthetic.
+Tropical Costa Rica themed decorative background for a travel website hero image.
+Lush tropical rainforest elements: monstera leaves, palm fronds, banana leaves,
+vibrant red and orange hibiscus flowers, colorful toucan birds, blue morpho butterflies,
+tropical paradise atmosphere. Rich emerald greens, ocean blues, sunset oranges,
+vibrant reds from flowers. Professional nature photography aesthetic, photorealistic style.
 
-Layout should show 7 days horizontally or in a clean grid, with each day containing:
+IMPORTANT - NO TEXT ELEMENTS:
+- NO words, NO letters, NO numbers, NO text of any kind
+- NO calendar cards, NO date boxes, NO information panels
+- NO title, NO labels, NO captions
+- PURE decorative natural background ONLY
 
-DAY 1 (Sun Nov 23):
-- Arrival San José ✈️
-- Airport pickup 🚗
-- Hotel check-in 🏨
+Composition: Frame the decorative elements around the edges (top corners, bottom corners),
+leaving the center area relatively clear for overlay content. Tropical foliage and flowers
+should feel natural and organic, not artificial. Lighting: bright, vibrant, tropical sunlight.
 
-DAY 2 (Mon Nov 24):
-- Drive to La Fortuna 🚗
-- Arenal Volcano 🌋
-- Hot Springs ♨️
-
-DAY 3 (Tue Nov 25):
-- ATV Adventure 🏍️
-- Whitewater Rafting 🌊
-- La Fortuna Waterfall 💦
-
-DAY 4 (Wed Nov 26):
-- Return to San José 🚗
-- City Tour 🏛️
-- Artisan Market 🎨
-
-DAY 5 (Thu Nov 27):
-- Cartago Visit 🏛️
-- Basilica ⛪
-- Irazú Volcano 🌋❄️
-
-DAY 6 (Fri Nov 28):
-- Free Day San José 🛍️
-- Shopping & Relax ☕
-- Trip Preparation 🧳
-
-DAY 7 (Sat Nov 29):
-- Early Checkout ⏰
-- Return Flight ✈️
-- Back Home 🏠
-
-Style: Modern, colorful, tropical vibes with Costa Rican colors (blue, white, red accents),
-clean typography, icons for each activity, professional travel brochure aesthetic,
-infographic style, vibrant but organized layout, each day clearly separated
+Style: National Geographic nature photography, professional travel brochure background,
+photorealistic, high quality, 16:9 aspect ratio
 """
 
 def generate_calendar():
-    """Genera la imagen del calendario usando Gemini 2.5 Flash Image"""
+    """Genera el background tropical decorativo usando Gemini 2.5 Flash Image"""
 
-    print(f"🎨 Generando imagen de calendario con {MODEL}...")
+    print(f"🎨 Generando background tropical decorativo con {MODEL}...")
     print(f"💰 Costo estimado: ~$0.039 USD\n")
 
     # Crear cliente
@@ -97,7 +71,7 @@ def generate_calendar():
         )
 
         # Extraer y guardar imagen
-        output_path = OUTPUT_DIR / "calendar-hero.jpg"
+        output_path = OUTPUT_DIR / "tropical-bg.jpg"
 
         if response.candidates:
             for part in response.candidates[0].content.parts:
