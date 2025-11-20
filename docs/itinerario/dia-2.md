@@ -2,6 +2,8 @@
 
 **Traslado a La Fortuna - Volcán Arenal y Aguas Termales**
 
+📋 **[Ver itinerario detallado hora por hora →](dia-2-detallado.md)**
+
 [← Día 1](dia-1.md) | [Volver al Itinerario](../itinerario.md) | [Día 3 →](dia-3.md)
 
 ---

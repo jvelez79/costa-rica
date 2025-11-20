@@ -2,6 +2,8 @@
 
 **Regreso a San José - City Tour y Mercado de Artesanías**
 
+📋 **[Ver itinerario detallado hora por hora →](dia-4-detallado.md)**
+
 [← Día 3](dia-3.md) | [Volver al Itinerario](../itinerario.md) | [Día 5 →](dia-5.md)
 
 ---

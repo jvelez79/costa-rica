@@ -2,6 +2,8 @@
 
 **Excursión Cartago y Volcán Irazú**
 
+📋 **[Ver itinerario detallado hora por hora →](dia-5-detallado.md)**
+
 [← Día 4](dia-4.md) | [Volver al Itinerario](../itinerario.md) | [Día 6 →](dia-6.md)
 
 ---

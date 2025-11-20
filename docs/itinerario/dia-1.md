@@ -2,6 +2,8 @@
 
 **Llegada a Costa Rica - San José**
 
+📋 **[Ver itinerario detallado hora por hora →](dia-1-detallado.md)**
+
 [← Volver al Itinerario](../itinerario.md) | [Día 2 →](dia-2.md)
 
 ---

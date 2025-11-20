@@ -2,6 +2,8 @@
 
 **Día Libre en San José - Relax, Compras y Preparación**
 
+📋 **[Ver itinerario detallado hora por hora →](dia-6-detallado.md)**
+
 [← Día 5](dia-5.md) | [Volver al Itinerario](../itinerario.md) | [Día 7 →](dia-7.md)
 
 ---

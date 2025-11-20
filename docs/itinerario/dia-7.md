@@ -2,6 +2,8 @@
 
 **Check-out y Vuelo de Regreso a Puerto Rico**
 
+📋 **[Ver itinerario detallado hora por hora →](dia-7-detallado.md)**
+
 [← Día 6](dia-6.md) | [Volver al Itinerario](../itinerario.md)
 
 ---

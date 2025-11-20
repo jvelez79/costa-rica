@@ -2,6 +2,8 @@
 
 **Día de Aventura en La Fortuna - ATV, Rafting y Cascada**
 
+📋 **[Ver itinerario detallado hora por hora →](dia-3-detallado.md)**
+
 [← Día 2](dia-2.md) | [Volver al Itinerario](../itinerario.md) | [Día 4 →](dia-4.md)
 
 ---
