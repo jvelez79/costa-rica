@@ -45,6 +45,191 @@ Grupo de 10 adultos. Enfoque: Naturaleza, Aventura, Ciudad, Cultural.
 ### Archivos de Referencia
 - **Booking.com_ Confirmation.pdf** - Confirmación Hotel Aloft
 
+---
+
+## 🏗️ ESTRUCTURA Y ORGANIZACIÓN DEL WEBSITE
+
+### 📐 Principios de Organización
+
+**🔴 REGLA FUNDAMENTAL: TODO COLAPSABLE POR DEFAULT**
+
+TODAS las secciones del website deben estar colapsadas por default para evitar abrumar al usuario con demasiada información de golpe. El usuario debe poder expandir progresivamente solo lo que necesita.
+
+---
+
+### 📋 Sección: ITINERARIO
+
+**REGLA:** Una sola sección "Itinerario" (NO dos secciones separadas)
+
+**Estructura:**
+```
+Itinerario (sección expandible/colapsable)
+├── Resumen (primera subsección)
+│   ├── Tabla concisa de días
+│   ├── Links a itinerarios detallados
+│   └── Sin información día por día expandida
+├── Día 1 (subsección colapsable)
+├── Día 2 (subsección colapsable)
+├── Día 3 (subsección colapsable)
+├── Día 4 (subsección colapsable)
+├── Día 5 (subsección colapsable)
+├── Día 6 (subsección colapsable)
+└── Día 7 (subsección colapsable)
+```
+
+**Contenido de "Resumen":**
+- Tabla concisa con columnas: Día | Fecha | Actividades (breve)
+- Cada fila tiene link al itinerario detallado de ese día
+- NO incluir toda la información día por día aquí (solo en detallados)
+
+**Contenido de "Día X":**
+- Itinerario detallado completo (horarios, actividades, logística)
+- Formato actual de itinerarios detallados se mantiene
+
+**Migración de contenido:**
+- Si hay información importante en resúmenes antiguos que no está en detallados, moverla a los itinerarios detallados correspondientes
+- Eliminar archivos/secciones redundantes una vez migrado
+
+---
+
+### 🍽️ Sección: RESTAURANTES
+
+**PROBLEMA ACTUAL:** Hay "restaurantes-la-fortuna.md" Y "restaurantes-la-fortuna/" (carpeta) como secciones separadas. Lo mismo con San José.
+
+**REGLA:** Una sola sección de restaurantes por región (NO dos)
+
+**Estructura preferida:**
+```
+Restaurantes La Fortuna (sección expandible/colapsable)
+├── [Categoría 1] (subsección colapsable)
+├── [Categoría 2] (subsección colapsable)
+├── [Categoría 3] (subsección colapsable)
+└── Guía Práctica (subsección colapsable)
+
+Restaurantes San José (sección expandible/colapsable)
+├── [Categoría 1] (subsección colapsable)
+├── [Categoría 2] (subsección colapsable)
+├── [Categoría 3] (subsección colapsable)
+└── Guía Práctica (subsección colapsable)
+```
+
+**Categorización:**
+- PENDIENTE: Brainstorming para determinar mejor categorización
+- Opciones: Por presupuesto (Budget/Mid-range/Premium), por tipo de comida, por zona
+- Evitar categorías donde un restaurante pueda pertenecer a múltiples categorías
+- Priorizar claridad y facilidad de búsqueda
+
+**Implementación:**
+- Archivo INDEX conciso (~200 líneas) con tabla comparativa
+- Módulos especializados en subcarpeta (cada uno <300 líneas)
+- Eliminar duplicación entre archivo principal y carpeta
+
+---
+
+### 🔬 Sección: INVESTIGACIÓN
+
+**REGLA CRÍTICA:** Un archivo de investigación = Una actividad específica
+
+**❌ NUNCA hacer:**
+- Combinar múltiples actividades en un mismo archivo
+- Ejemplo incorrecto: "investigacion-dia3-actividades.md" (combina ATV + Rafting + Cascada)
+
+**✅ SIEMPRE hacer:**
+- Un archivo por actividad individual
+- Ejemplos correctos:
+  - `investigacion-atv-la-fortuna.md`
+  - `investigacion-rafting-rapidos.md`
+  - `investigacion-cascada-la-fortuna.md`
+  - `investigacion-volcan-arenal.md`
+  - `investigacion-aguas-termales.md`
+
+**Propósito:**
+- Archivos de investigación son para actividades que requieren research detallado
+- Cada actividad debe tener su propio archivo con:
+  - Información clave
+  - Opciones (tour vs independiente)
+  - Operadores/contactos
+  - Costos
+  - Logística (estacionamiento, rutas, horarios)
+  - Recomendaciones
+
+**En itinerarios:**
+- Itinerarios detallados pueden referenciar múltiples actividades
+- Pero cada actividad tiene su archivo de investigación separado
+- Links desde itinerario → archivos de investigación específicos
+
+---
+
+### 👔 Sección: PLANIFICACIÓN DE ROPA
+
+**REGLA:** Dividir en subsecciones por género
+
+**Estructura:**
+```
+Planificación de Ropa (sección expandible/colapsable)
+├── Hombres (subsección colapsable)
+│   ├── Información clave para hombres
+│   ├── Ropa por día
+│   └── Recomendaciones específicas
+└── Mujeres (subsección colapsable)
+    ├── Información clave para mujeres
+    ├── Ropa por día
+    └── Recomendaciones específicas
+```
+
+**Contenido:**
+- Separar claramente recomendaciones para hombres vs mujeres
+- Mantener formato conciso (20-30 líneas por ítem)
+- Cross-reference con itinerario para actividades del día
+
+---
+
+### 🎯 Navegación en MkDocs
+
+**Configuración requerida:**
+- Usar `nav` sections con subsecciones anidadas
+- Todas las secciones colapsables por default en el menú
+- Links internos funcionan con rutas relativas
+
+**Ejemplo de estructura nav en mkdocs.yml:**
+```yaml
+nav:
+  - Inicio: index.md
+  - Vuelos: vuelos.md
+  - Itinerario:
+    - Resumen: itinerario/resumen.md
+    - Día 1: itinerario/dia-1.md
+    - Día 2: itinerario/dia-2.md
+    # ...
+  - Restaurantes La Fortuna:
+    - restaurantes-la-fortuna/index.md
+    - [Categoría 1]: restaurantes-la-fortuna/categoria1.md
+    # ...
+  - Investigación:
+    - investigacion/volcan-arenal.md
+    - investigacion/aguas-termales.md
+    - investigacion/atv-la-fortuna.md
+    # ...
+  - Planificación de Ropa:
+    - Hombres: ropa/hombres.md
+    - Mujeres: ropa/mujeres.md
+```
+
+---
+
+### ✅ Checklist de Verificación de Estructura
+
+Antes de commit, verificar:
+- [ ] NO hay secciones duplicadas (itinerario vs itinerario-detallado)
+- [ ] NO hay archivos de investigación que combinen múltiples actividades
+- [ ] Restaurantes tienen una sola sección por región (no archivo + carpeta duplicados)
+- [ ] Planificación de ropa está dividida en Hombres/Mujeres
+- [ ] Todas las secciones configuradas como colapsables en nav
+- [ ] Links entre archivos usan rutas relativas correctas
+- [ ] No se perdió información importante en la reorganización
+
+---
+
 ## 🗓️ Contexto del Viaje
 
 ### Información Clave
@@ -149,8 +334,11 @@ Grupo de 10 adultos. Enfoque: Naturaleza, Aventura, Ciudad, Cultural.
 
 ### Al Hacer Investigación
 - **Guardar SIEMPRE** en `/home/juanca/Documents/viaje-costa-rica/docs/investigacion/`
+- **🔴 REGLA CRÍTICA:** Un archivo = Una actividad (NUNCA combinar múltiples actividades)
 - **Formato:** Markdown con estructura clara para website público
-- **Nombrar archivos:** `investigacion-[tema].md` o `[tema].md`
+- **Nombrar archivos:** `[nombre-actividad].md` (ej: `atv-la-fortuna.md`, `rafting-rapidos.md`, `cascada-la-fortuna.md`)
+  - ✅ CORRECTO: `volcan-arenal.md`, `aguas-termales.md`, `atv-la-fortuna.md`
+  - ❌ INCORRECTO: `investigacion-dia3-actividades.md` (combina múltiples actividades)
 - **Estilo:** Aplicar formato público desde el inicio (ver sección "REFACTORING" abajo)
 - **Incluir:**
   - **Información Clave** al inicio (no "Resumen Ejecutivo")
