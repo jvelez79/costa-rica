@@ -61,8 +61,9 @@ nav:
   - 'Día 6: Día Libre': itinerario/dia-6.md
   - 'Día 7: Salida': itinerario/dia-7.md
 - '🏨 Alojamientos': alojamientos.md
-- '👕 Planificación Ropa': planificacion-ropa.md
-- '👗 Planificación Ropa Mujeres': planificacion-ropa-mujeres.md
+- '👕 Planificación de Ropa':
+  - 'Hombres': ropa/hombres.md
+  - 'Mujeres': ropa/mujeres.md
 - '📚 Investigación':
   # Volcán Arenal
   - '🌋 Volcán Arenal': investigacion/volcan-arenal.md

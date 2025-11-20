@@ -203,7 +203,7 @@ La mayoría de tours en La Fortuna combinan la cascada con otras actividades:
 4. Continuar con siguiente actividad (ATV/Rafting)
 
 **Si llueve mientras están allí:**
-- Tienen jackets impermeables (ver planificacion-ropa.md Día 3)
+- Tienen jackets impermeables (ver ropa/hombres.md Día 3)
 - Escaleras serán más resbalosas - MUCHO CUIDADO
 - Consideren acortar visita si tormenta fuerte
 
@@ -300,7 +300,7 @@ La mayoría de tours en La Fortuna combinan la cascada con otras actividades:
 - ✅ **Agua embotellada** (hidratación durante subida)
 - ✅ **Protector solar biodegradable** (aplicar ANTES de bajar)
 - ✅ **Repelente de insectos** (selva tropical)
-- ✅ **Jacket impermeable** (CRÍTICO en noviembre - ver planificacion-ropa.md)
+- ✅ **Jacket impermeable** (CRÍTICO en noviembre - ver ropa/hombres.md)
 
 ### Recomendado
 

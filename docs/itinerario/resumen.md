@@ -44,5 +44,5 @@
 
 - [✈️ Vuelos](../vuelos.md)
 - [🏨 Alojamientos](../alojamientos.md)
-- [👕 Planificación de Ropa](../planificacion-ropa.md)
+- [👕 Planificación de Ropa](../ropa/hombres.md)
 - [📚 Investigación de Actividades](../investigacion/)

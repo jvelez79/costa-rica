@@ -32,7 +32,7 @@
 - [**vuelos.md**](./vuelos.md) - Itinerario completo, horarios, checklists, zonas horarias
 - [**itinerario.md**](./itinerario.md) - Plan día por día con todas las actividades
 - [**alojamientos.md**](./alojamientos.md) - Info de los 3 alojamientos, check-in/out, contactos
-- [**planificacion-ropa.md**](./planificacion-ropa.md) - Lista completa de ropa + plan por día
+- [**ropa/hombres.md**](./ropa/hombres.md) - Lista completa de ropa + plan por día
 
 ### 📋 Preparativos del Viaje
 - Confirmación de reservas de tours y actividades en proceso
