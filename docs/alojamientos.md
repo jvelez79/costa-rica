@@ -126,8 +126,10 @@
 - **Fechas:** Miércoles 26 - Viernes 28 Noviembre 2025
 - **Noches:** 3 noches
 - **Link:** https://www.airbnb.com/rooms/37756859
-- **Ubicación:** San José
-- **Tipo:** Casa de lujo elegante
+- **Ubicación:** Curridabat, Residencial Monte Ayarco, San José
+- **Dirección específica:** Residencial Monte Ayarco, Curridabat
+- **Tipo:** Casa de lujo elegante en residencial privado
+- **Distancia del centro de San José:** 6 km (4 millas) - ~10-15 minutos en auto
 
 ### Detalles
 - **Check-in:** Miércoles 26 Nov (tarde, después de City Tour)
@@ -170,8 +172,16 @@
 ### Notas Especiales
 - **Lavadora:** Planear lavar ropa Día 5 o 6
 - **Early check-out:** Preparar todo desde la noche anterior
-- **Transporte aeropuerto:** Coordinar para las 6:00am-6:30am
-- **Ubicación:** Verificar cercanía a restaurantes para última cena
+- **Transporte aeropuerto:** Coordinar para las 6:00am-6:30am (~25-30 min al aeropuerto SJO)
+- **Ubicación:** Curridabat - área residencial segura al este de San José
+- **Residencial Monte Ayarco:** Residencial privado con seguridad 24/7 (portón con guardia)
+- **Cercanía:** 6 km del centro de San José, cerca de Multiplaza Curridabat (mall)
+- **Comodidades cercanas:** Supermercados, farmacias, restaurantes en la zona
+- **Distancias importantes:**
+  - Centro San José: 6 km (~10-15 min)
+  - Aeropuerto SJO: 27 km (~25-30 min sin tráfico)
+  - Cartago (para Día 5): 15 km (~20-25 min)
+  - Café Britt Heredia (para tour): 18 km (~20-25 min)
 
 ---
 
