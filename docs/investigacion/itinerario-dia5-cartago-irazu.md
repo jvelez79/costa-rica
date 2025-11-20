@@ -2,7 +2,7 @@
 
 **Para:** Día 5 (Jueves 27 Noviembre 2025)
 **Contexto:** Grupo de 10 adultos con 2 vehículos alquilados
-**Base:** Casa Ayarcos, San José
+**Base:** Casa Ayarcos, Curridabat (6 km al este de San José centro)
 
 ---
 
@@ -20,8 +20,8 @@
 
 ## Itinerario Sugerido
 
-### 6:30 AM - Salida de San José
-**Ubicación:** Casa Ayarcos
+### 6:30 AM - Salida de Curridabat
+**Ubicación:** Casa Ayarcos, Residencial Monte Ayarco, Curridabat
 **Destino:** Volcán Irazú (directo, sin paradas)
 
 **Ruta:**
@@ -240,10 +240,10 @@
 
 ---
 
-### 2:00 PM - Regreso a San José
-**Ruta:** Ruta 2 Oeste
-**Distancia:** ~20 km
-**Tiempo:** 30-40 minutos (considerar tráfico de la tarde)
+### 2:00 PM - Regreso a Curridabat
+**Ruta:** Ruta 2 Oeste hacia Curridabat
+**Distancia:** ~15-20 km
+**Tiempo:** 25-35 minutos (considerar tráfico de la tarde)
 
 **Opción de Parada:**
 - **Mercado Municipal de Cartago:** Si hay interés en comprar productos locales, frutas, artesanías
@@ -251,7 +251,7 @@
 
 ---
 
-### 2:30-3:00 PM - Llegada a Casa Ayarcos (San José)
+### 2:30-3:00 PM - Llegada a Casa Ayarcos (Curridabat)
 
 **Resto del día:**
 - Descanso en el Airbnb
@@ -457,15 +457,15 @@
 ## Mapa de Referencia Rápida
 
 ```
-San José (Casa Ayarcos)
+Curridabat (Casa Ayarcos, Residencial Monte Ayarco)
     ↓ 52 km, 1.5h por Ruta 2 + Ruta 219
 Volcán Irazú (8:00-10:00 AM)
     ↓ 32 km, 45 min por Ruta 219 Sur
 Cartago - Basílica (10:45-12:00 PM)
     ↓ en el centro, a pie
 Almuerzo en Cartago (12:00-2:00 PM)
-    ↓ 20 km, 30-40 min por Ruta 2 Oeste
-San José (Casa Ayarcos) ~2:30-3:00 PM
+    ↓ 15-20 km, 25-35 min por Ruta 2 Oeste
+Curridabat (Casa Ayarcos) ~2:30-3:00 PM
 ```
 
 ---
