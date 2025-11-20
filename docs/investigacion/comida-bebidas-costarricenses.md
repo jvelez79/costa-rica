@@ -476,7 +476,7 @@ Costa Rica es relativamente fácil para vegetarianos/veganos:
 - **Cafeoteca** (Barrio Escalante)
 - **Café del Barista**
 
-[Ver Guía Completa de Restaurantes San José](restaurantes-san-jose.md)
+[Ver Guía Completa de Restaurantes San José](restaurantes-san-jose/guia-practica.md)
 
 ---
 
@@ -491,7 +491,7 @@ Costa Rica es relativamente fácil para vegetarianos/veganos:
 **Para Café:**
 - **Red Frog Coffee Roasters** - Café tostado in-house, mejor de La Fortuna
 
-[Ver Guía Completa de Restaurantes La Fortuna](restaurantes-la-fortuna.md)
+[Ver Guía Completa de Restaurantes La Fortuna](restaurantes-la-fortuna/guia-practica.md)
 
 ---
 
@@ -575,6 +575,6 @@ Costa Rica es relativamente fácil para vegetarianos/veganos:
 
 ---
 
-**¿Preguntas sobre algún plato o bebida?** Toda la información de restaurantes específicos está en las guías de [Restaurantes San José](restaurantes-san-jose.md) y [Restaurantes La Fortuna](restaurantes-la-fortuna.md).
+**¿Preguntas sobre algún plato o bebida?** Toda la información de restaurantes específicos está en las guías de [Restaurantes San José](restaurantes-san-jose/guia-practica.md) y [Restaurantes La Fortuna](restaurantes-la-fortuna/guia-practica.md).
 
 ---

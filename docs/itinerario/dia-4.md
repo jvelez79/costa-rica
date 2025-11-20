@@ -380,7 +380,7 @@
 - Parking gratuito
 - Presupuesto: $12-20 por persona
 
-**📚 Más opciones:** Ver [Restaurantes San José](../investigacion/restaurantes-san-jose.md)
+**📚 Más opciones:** Ver [Restaurantes San José](../investigacion/restaurantes-san-jose/guia-practica.md)
 
 ---
 
@@ -591,7 +591,7 @@
 
 - [Resumen del Día 4](dia-4.md)
 - [Guía City Tour San José](../investigacion/city-tour-san-jose.md)
-- [Restaurantes San José](../investigacion/restaurantes-san-jose.md)
+- [Restaurantes San José](../investigacion/restaurantes-san-jose/guia-practica.md)
 - [Alojamiento Casa Ayarcos](../alojamientos.md#airbnb-casa-ayarcos---san-josé)
 - [← Día 3 Detallado](dia-3.md)
 - [Día 5 - Cartago + Irazú →](dia-5.md)

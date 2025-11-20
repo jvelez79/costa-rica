@@ -1,6 +1,6 @@
 # Guía por Zonas - Restaurantes San José
 
-[← Volver a Restaurantes San José](../restaurantes-san-jose)
+[← Volver a Restaurantes San José](guia-practica.md)
 
 ---
 
@@ -284,4 +284,4 @@
 
 ---
 
-[← Volver a Restaurantes San José](../restaurantes-san-jose) | [Ver Guía Práctica →](guia-practica)
+[← Volver a Restaurantes San José](guia-practica.md) | [Ver Guía Práctica →](guia-practica)

@@ -495,7 +495,7 @@
 - **Opciones:** Vegetarianas, veganas, pescados, pastas
 - **Total estimado:** $120-180 grupo
 
-**📚 Más opciones:** Ver [Restaurantes La Fortuna](../investigacion/restaurantes-la-fortuna.md)
+**📚 Más opciones:** Ver [Restaurantes La Fortuna](../investigacion/restaurantes-la-fortuna/guia-practica.md)
 
 ---
 
@@ -694,7 +694,7 @@
 - [Resumen del Día 3](dia-3.md)
 - [Guía Completa Rafting Los Rápidos](../investigacion/rafting-rapidos.md)
 - [Guía Cascada La Fortuna](../investigacion/cascada-la-fortuna.md)
-- [Restaurantes La Fortuna](../investigacion/restaurantes-la-fortuna.md)
+- [Restaurantes La Fortuna](../investigacion/restaurantes-la-fortuna/guia-practica.md)
 - [Alojamiento Casa Mañana](../alojamientos.md#airbnb-casa-mañana---la-fortuna)
 - [← Día 2 Detallado](dia-2.md)
 - [Día 4 - Regreso a San José →](dia-4.md)

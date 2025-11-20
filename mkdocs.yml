@@ -79,20 +79,17 @@ nav:
   - '☕ Tours de Café': investigacion/tours-de-cafe.md
 
   # Restaurantes La Fortuna
-  - '🍽️ Restaurantes La Fortuna': investigacion/restaurantes-la-fortuna.md
-  - 'Restaurantes La Fortuna - Categorías':
-    - 'Desayuno': investigacion/restaurantes-la-fortuna/desayuno.md
-    - 'Almuerzo': investigacion/restaurantes-la-fortuna/almuerzo.md
-    - 'Cena': investigacion/restaurantes-la-fortuna/cena.md
-    - 'Sodas y Budget': investigacion/restaurantes-la-fortuna/sodas-y-budget.md
+  - '🍽️ Restaurantes La Fortuna':
+    - 'Budget (<$15)': investigacion/restaurantes-la-fortuna/budget.md
+    - 'Mid-Range ($10-25)': investigacion/restaurantes-la-fortuna/mid-range.md
+    - 'Premium (>$30)': investigacion/restaurantes-la-fortuna/premium.md
     - 'Guía Práctica': investigacion/restaurantes-la-fortuna/guia-practica.md
 
   # Restaurantes San José
-  - '🍽️ Restaurantes San José': investigacion/restaurantes-san-jose.md
-  - 'Restaurantes San José - Categorías':
-    - 'Premium': investigacion/restaurantes-san-jose/premium.md
-    - 'Mid-Range': investigacion/restaurantes-san-jose/mid-range.md
-    - 'Sodas y Budget': investigacion/restaurantes-san-jose/sodas-y-budget.md
+  - '🍽️ Restaurantes San José':
+    - 'Budget (<$15)': investigacion/restaurantes-san-jose/budget.md
+    - 'Mid-Range ($15-35)': investigacion/restaurantes-san-jose/mid-range.md
+    - 'Premium (>$30)': investigacion/restaurantes-san-jose/premium.md
     - 'Guía por Zonas': investigacion/restaurantes-san-jose/guia-zonas.md
     - 'Guía Práctica': investigacion/restaurantes-san-jose/guia-practica.md
 

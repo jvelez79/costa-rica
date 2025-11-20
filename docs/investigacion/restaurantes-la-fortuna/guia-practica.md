@@ -1,6 +1,6 @@
 # Guía Práctica - Restaurantes La Fortuna
 
-[← Volver a Restaurantes La Fortuna](../restaurantes-la-fortuna.md)
+[← Volver a Restaurantes La Fortuna](guia-practica.md)
 
 **Para:** Grupo de 10 adultos con 2 vehículos alquilados
 **Incluye:** Mapas, parking, apps, reservas, presupuestos, tips
@@ -408,4 +408,4 @@ Noviembre es temporada alta en Arenal (aunque temporada lluviosa), así que rest
 
 ---
 
-[← Ver Opciones Budget](sodas-y-budget.md) | [Volver a Restaurantes La Fortuna](../restaurantes-la-fortuna.md)
+[← Ver Opciones Budget](budget.md) | [Volver a Restaurantes La Fortuna](guia-practica.md)

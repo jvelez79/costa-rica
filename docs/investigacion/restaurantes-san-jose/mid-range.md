@@ -1,6 +1,6 @@
 # Restaurantes Mid-Range - San José
 
-[← Volver a Restaurantes San José](../restaurantes-san-jose)
+[← Volver a Restaurantes San José](guia-practica.md)
 
 ---
 
@@ -158,4 +158,4 @@
 
 ---
 
-[← Volver a Restaurantes San José](../restaurantes-san-jose) | [Ver Sodas y Budget →](sodas-y-budget)
+[← Volver a Restaurantes San José](guia-practica.md) | [Ver Sodas y Budget →](sodas-y-budget)

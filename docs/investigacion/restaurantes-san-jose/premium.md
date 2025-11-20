@@ -1,6 +1,6 @@
 # Restaurantes Premium - San José
 
-[← Volver a Restaurantes San José](../restaurantes-san-jose)
+[← Volver a Restaurantes San José](guia-practica.md)
 
 ---
 
@@ -115,4 +115,4 @@
 
 ---
 
-[← Volver a Restaurantes San José](../restaurantes-san-jose) | [Ver Mid-Range →](mid-range)
+[← Volver a Restaurantes San José](guia-practica.md) | [Ver Mid-Range →](mid-range)

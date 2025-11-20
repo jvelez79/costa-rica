@@ -144,7 +144,7 @@
 - **Precio:** $12-18 por persona
 - **Opciones:** Vegetarianas, veganas disponibles
 
-**📚 Más opciones:** Ver [Restaurantes La Fortuna](../investigacion/restaurantes-la-fortuna.md)
+**📚 Más opciones:** Ver [Restaurantes La Fortuna](../investigacion/restaurantes-la-fortuna/guia-practica.md)
 
 ---
 
@@ -705,7 +705,7 @@
 - [Resumen del Día 2](dia-2.md)
 - [Guía Completa Volcán Arenal](../investigacion/volcan-arenal.md)
 - [Comparación Aguas Termales](../investigacion/aguas-termales.md)
-- [Restaurantes La Fortuna](../investigacion/restaurantes-la-fortuna.md)
+- [Restaurantes La Fortuna](../investigacion/restaurantes-la-fortuna/guia-practica.md)
 - [Alojamiento Casa Mañana - Detalles](../alojamientos.md#airbnb-casa-mañana---la-fortuna)
 - [← Día 1 Detallado](dia-1.md)
 - [Día 3 - ATV + Rafting →](dia-3.md)

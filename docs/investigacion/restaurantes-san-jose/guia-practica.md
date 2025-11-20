@@ -1,6 +1,6 @@
 # Guía Práctica - Restaurantes San José
 
-[← Volver a Restaurantes San José](../restaurantes-san-jose)
+[← Volver a Restaurantes San José](guia-practica.md)
 
 ---
 
@@ -343,4 +343,4 @@ Cuando parking es difícil, **usar taxi/Uber sin dudarlo** - el estrés de busca
 
 **¡PURA VIDA y BUEN PROVECHO!** 🇨🇷🍽️
 
-[← Volver a Restaurantes San José](../restaurantes-san-jose)
+[← Volver a Restaurantes San José](guia-practica.md)

@@ -1,6 +1,6 @@
 # Sodas y Opciones Budget - San José
 
-[← Volver a Restaurantes San José](../restaurantes-san-jose)
+[← Volver a Restaurantes San José](guia-practica.md)
 
 ---
 
@@ -225,4 +225,4 @@
 
 ---
 
-[← Volver a Restaurantes San José](../restaurantes-san-jose) | [Ver Guía por Zonas →](guia-zonas)
+[← Volver a Restaurantes San José](guia-practica.md) | [Ver Guía por Zonas →](guia-zonas)

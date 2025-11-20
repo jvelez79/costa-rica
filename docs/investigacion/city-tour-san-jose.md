@@ -186,7 +186,7 @@
 - **Café recomendado:** La Mancha (café tradicional costarricense)
 
 #### **7:00 PM - Cena en Barrio Escalante**
-- Ver archivo separado: `restaurantes-san-jose.md` para opciones detalladas
+- Ver archivo separado: `restaurantes-san-jose/guia-practica.md` para opciones detalladas
 - Zona gastronómica premium a ~10-15 min en vehículo desde centro
 - Restaurantes con estacionamiento disponible
 
@@ -453,7 +453,7 @@ El Teatro Nacional ofrece **servicio gratuito de microbús** a parqueos asociado
 
 **Comida:**
 - Almuerzo previo al tour: $10 × 10 = $100 USD
-- Cena después: Ver restaurantes-san-jose.md
+- Cena después: Ver restaurantes-san-jose/guia-practica.md
 
 **Parking:**
 - 2 vehículos: $12 USD
@@ -506,7 +506,7 @@ El Teatro Nacional ofrece **servicio gratuito de microbús** a parqueos asociado
 - **Ventaja:** Flexibilidad, tiempo en lugares favoritos
 
 **7:00 PM:**
-- Cena en Barrio Escalante (ver `restaurantes-san-jose.md`)
+- Cena en Barrio Escalante (ver `restaurantes-san-jose/guia-practica.md`)
 
 **Por qué esta opción:**
 - ✅ Mejor de ambos mundos: guía experto + tiempo libre
@@ -653,10 +653,10 @@ El Teatro Nacional ofrece **servicio gratuito de microbús** a parqueos asociado
 
 **Post-tour:**
 - [ ] Recoger vehículos antes de que cierre el parqueo
-- [ ] Dirigirse a cena en Barrio Escalante (ver `restaurantes-san-jose.md`)
+- [ ] Dirigirse a cena en Barrio Escalante (ver `restaurantes-san-jose/guia-practica.md`)
 
 ---
 
 **Recursos adicionales:**
-- [Restaurantes San José](restaurantes-san-jose.md) - Opciones de almuerzo y cena
+- [Restaurantes San José](restaurantes-san-jose/guia-practica.md) - Opciones de almuerzo y cena
 - [Cocktail Bars San José](investigacion-cocktail-bars-san-jose.md) - Vida nocturna
