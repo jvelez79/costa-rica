@@ -349,7 +349,7 @@ La Fortuna (llegada ~3:00-4:00 PM)
 ### Escenario 1: Tour en San José (Día 6 - Día Libre) ⭐ **RECOMENDADO**
 
 **Opción A: Café Britt (Más relajado)**
-- **Salida:** 10:00 AM desde Casa Ayarcos
+- **Salida:** 10:00 AM desde Casa Ayarcos (Curridabat)
 - **Tour:** 11:00 AM (1.5-2 horas)
 - **Almuerzo:** Heredia o regreso a San José (~1:30 PM)
 - **Tarde:** Libre en San José (shopping, explorar ciudad)
@@ -364,7 +364,7 @@ La Fortuna (llegada ~3:00-4:00 PM)
 ---
 
 **Opción B: Finca Rosa Blanca (Más premium)**
-- **Salida:** 8:30 AM desde Casa Ayarcos
+- **Salida:** 8:30 AM desde Casa Ayarcos (Curridabat)
 - **Tour:** 9:30-10:00 AM (coordinar horario)
 - **Almuerzo:** En la finca o Santa Bárbara
 - **Tarde:** Libre en San José
@@ -379,10 +379,10 @@ La Fortuna (llegada ~3:00-4:00 PM)
 ---
 
 **Opción C: Doka Estate (Más auténtico)**
-- **Salida:** 7:30 AM desde Casa Ayarcos
+- **Salida:** 7:30 AM desde Casa Ayarcos (Curridabat)
 - **Tour:** 9:00 AM (2-2.5 horas)
 - **Parada:** Grecia + Sarchí (opcional, artesanías)
-- **Regreso:** San José ~2:00-3:00 PM
+- **Regreso:** Curridabat ~2:00-3:00 PM
 - **Costo:** $350 grupo
 
 **Ventajas:**
@@ -575,11 +575,11 @@ Día 7 (Sáb 29): Vuelo regreso
 ```
 
 **Día 6 detallado:**
-- 10:00 AM: Salida Casa Ayarcos → Café Britt (20 min)
+- 10:00 AM: Salida Casa Ayarcos (Curridabat) → Café Britt (20-25 min)
 - 11:00 AM: Tour de café (1.5-2 horas)
-- 1:00 PM: Almuerzo en Heredia o regreso a SJ
-- 2:00 PM: Tarde libre (opciones: shopping, Mercado Central, museos, piscina en Airbnb)
-- Noche: Cena especial de despedida en San José
+- 1:00 PM: Almuerzo en Heredia o regreso a Curridabat
+- 2:00 PM: Tarde libre (opciones: shopping, Mercado Central, museos, Multiplaza Curridabat, piscina en Airbnb)
+- Noche: Cena especial de despedida en San José o Curridabat
 
 ---
 
