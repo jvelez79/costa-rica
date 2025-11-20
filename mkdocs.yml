@@ -67,6 +67,9 @@ nav:
   # Comida Típica
   - '🍴 Comida Típica Costarricense': investigacion/comida-bebidas-costarricenses.md
 
+  # Tours de Café
+  - '☕ Tours de Café': investigacion/tours-de-cafe.md
+
   # Restaurantes La Fortuna
   - '🍽️ Restaurantes La Fortuna': investigacion/restaurantes-la-fortuna.md
   - 'Restaurantes La Fortuna - Categorías':
@@ -98,6 +101,9 @@ nav:
 
   # City Tour San José
   - '🏛️ City Tour San José': investigacion/city-tour-san-jose.md
+
+  # Itinerarios por Día
+  - '📆 Día 5: Cartago + Irazú': investigacion/itinerario-dia5-cartago-irazu.md
 
   # Escala Panamá
   - '✈️ Escala Panamá':
