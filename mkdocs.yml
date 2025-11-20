@@ -51,15 +51,15 @@ markdown_extensions:
 nav:
 - '🏠 Inicio': index.md
 - '✈️ Vuelos': vuelos.md
-- '📅 Itinerario': itinerario.md
-- '📅 Itinerarios Detallados':
-  - 'Día 1: Llegada': itinerario/dia-1-detallado.md
-  - 'Día 2: La Fortuna': itinerario/dia-2-detallado.md
-  - 'Día 3: Aventura': itinerario/dia-3-detallado.md
-  - 'Día 4: Regreso SJ': itinerario/dia-4-detallado.md
-  - 'Día 5: Cartago + Irazú': itinerario/dia-5-detallado.md
-  - 'Día 6: Café + Libre': itinerario/dia-6-detallado.md
-  - 'Día 7: Salida': itinerario/dia-7-detallado.md
+- '📅 Itinerario':
+  - 'Resumen': itinerario/resumen.md
+  - 'Día 1: Llegada': itinerario/dia-1.md
+  - 'Día 2: La Fortuna': itinerario/dia-2.md
+  - 'Día 3: Aventura': itinerario/dia-3.md
+  - 'Día 4: Regreso SJ': itinerario/dia-4.md
+  - 'Día 5: Cartago + Irazú': itinerario/dia-5.md
+  - 'Día 6: Día Libre': itinerario/dia-6.md
+  - 'Día 7: Salida': itinerario/dia-7.md
 - '🏨 Alojamientos': alojamientos.md
 - '👕 Planificación Ropa': planificacion-ropa.md
 - '👗 Planificación Ropa Mujeres': planificacion-ropa-mujeres.md
