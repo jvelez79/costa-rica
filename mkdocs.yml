@@ -50,6 +50,7 @@ markdown_extensions:
 
 nav:
 - '🏠 Inicio': index.md
+- '👥 El Crew': crew.md
 - '✈️ Vuelos': vuelos.md
 - '📅 Itinerario':
   - 'Resumen': itinerario/resumen.md
