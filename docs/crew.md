@@ -49,7 +49,7 @@
 </div>
 
 <div class="crew-member" markdown>
-![Mary Rose](assets/images/crew/placeholder.svg){ .crew-photo }
+![Mary Rose](assets/images/crew/Mary Rose.jpeg){ .crew-photo }
 
 **Mary Rose**
 </div>
