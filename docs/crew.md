@@ -25,7 +25,7 @@
 </div>
 
 <div class="crew-member" markdown>
-![Veronica](assets/images/crew/placeholder.svg){ .crew-photo }
+![Veronica](assets/images/crew/Veronica.jpeg){ .crew-photo }
 
 **Veronica**
 </div>
@@ -43,7 +43,7 @@
 </div>
 
 <div class="crew-member" markdown>
-![Elena](assets/images/crew/placeholder.svg){ .crew-photo }
+![Elena](assets/images/crew/Elena.jpeg){ .crew-photo }
 
 **Elena**
 </div>
