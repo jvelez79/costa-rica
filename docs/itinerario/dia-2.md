@@ -12,21 +12,27 @@
 
 ## Información Clave
 
-- **Salida:** Hotel Aloft San José (7:00-8:00 AM)
-- **Destino:** La Fortuna, Arenal
-- **Ruta:** Ruta 1 Norte → Ciudad Quesada → Ruta 142 → La Fortuna
-- **Distancia:** ~130 km (3-3.5 horas sin paradas)
-- **Actividades:** Volcán Arenal ($15/pp) + Aguas Termales ($8-99/pp según opción)
-- **Alojamiento:** Airbnb Casa Mañana - La Fortuna (late check-in ~9:00-10:00 PM)
-- **⚠️ CRÍTICO:** Confirmar late check-in con anfitrión antes del viaje
-- **Clima:** 68-83°F, alta probabilidad de lluvia tarde (1-3 PM)
+- **Salida:** Hotel Aloft San José (**6:30 AM - TEMPRANO**)
+- **Destino:** Parque Nacional Volcán Arenal → La Fortuna
+- **Ruta:** Ruta 1 Norte → Ciudad Quesada → Ruta 142 → **DIRECTO (sin paradas)**
+- **Distancia:** ~140 km (3-3.5 horas directo)
+- **Orden de actividades:**
+  1. Volcán Arenal (10:00 AM-12:30 PM) - **PRIMERO**
+  2. Almuerzo (12:45-1:45 PM)
+  3. Aguas Termales (2:15-6:15 PM)
+  4. Check-in Airbnb (6:30-7:00 PM)
+- **Costos:** Volcán $15/pp + Aguas Termales $8-99/pp según opción
+- **Alojamiento:** Airbnb Casa Mañana - La Fortuna (check-in normal ~6:30-7:00 PM)
+- **Clima:** 68-83°F, lluvia probable 2-4 PM (terminamos volcán antes)
 
 ---
 
 ## Timeline Detallado
 
-### 7:00-7:30 AM - Check-out y Desayuno Hotel Aloft
+### 6:00-6:15 AM - Check-out Temprano Hotel Aloft
 **Ubicación:** Hotel Aloft San José
+
+**⏰ SALIDA TEMPRANO - 6:30 AM es la meta**
 
 **Check-out:**
 - Verificar factura
@@ -35,134 +41,69 @@
 - Cargar equipaje en ambos vehículos
 
 **Desayuno:**
-- Desayuno incluido en el hotel (típicamente 6:00-10:00 AM)
-- Opción 1: Desayunar en hotel antes de check-out
-- Opción 2: Desayuno para llevar (si hotel ofrece)
-- Opción 3: Desayunar en ruta (parada en camino)
+- **Recomendación:** Llevar snacks/desayuno rápido (salida muy temprana)
+- Opciones:
+  - Opción 1: Desayuno rápido del hotel si está abierto (típicamente desde 6:00 AM)
+  - Opción 2: Comprar algo para llevar (7-Eleven, panadería cerca del hotel)
+  - Opción 3: Parar en gasolinera para snacks/café (antes de salir de San José)
 
 ---
 
-### 7:30-8:00 AM - Preparativos de Viaje
-**Ubicación:** Estacionamiento Hotel Aloft
+### 6:15-6:30 AM - Llenar Tanques de Gasolina
+**Ubicación:** Gasolinera cercana al hotel
 
-**Antes de salir:**
-- ⛽ **Llenar tanques de gasolina** (ambos vehículos)
-  - Gasolinera cercana al hotel o en ruta
+**⛽ Antes de salir de San José:**
+- **Llenar tanques de gasolina** (ambos vehículos)
   - Política lleno-lleno de alquiler
   - Costo estimado: $40-50 llenar ambos vehículos
-- 📱 Verificar GPS/Waze con ruta a La Fortuna cargada
-- 💧 Comprar agua para el viaje (si no lo hicieron anoche)
-- 🗺️ Revisar paradas opcionales en ruta
+- 📱 Verificar GPS/Waze con ruta al Parque Nacional Arenal cargada
+- 💧 Comprar agua para el viaje
+- 🍫 Snacks para el camino
 - 📞 Coordinar comunicación entre ambos vehículos (WhatsApp/radio)
 
 ---
 
-### 8:00 AM - Salida hacia La Fortuna
-**Ruta:** Autopista General Cañas (Ruta 1) Norte
+### 6:30 AM - Salida DIRECTA hacia Parque Nacional Arenal
+**Ruta:** Autopista General Cañas (Ruta 1) Norte → Ruta 142
 
 **Coordenadas:**
 - **Origen:** Hotel Aloft San José (N 009° 57.339, W 84° 11.692)
-- **Destino:** La Fortuna, Arenal (N 10.4667, W 84.6433)
+- **Destino:** Parque Nacional Arenal (N 10.4628, W 84.7034)
 
 **Ruta detallada:**
 1. Salir del Hotel Aloft hacia Autopista General Cañas
 2. Tomar Ruta 1 Norte (dirección Alajuela/Aeropuerto inicialmente)
 3. Continuar en Ruta 1 hacia Naranjo/Ciudad Quesada
 4. En Ciudad Quesada, tomar Ruta 142 hacia La Fortuna
-5. Distancia total: 130 km
-6. Tiempo sin paradas: 3 horas 15 minutos
+5. Continuar hasta Parque Nacional Arenal (14 km pasando La Fortuna)
+6. **Distancia total:** ~140 km
+7. **Tiempo:** 3 horas directo (sin paradas)
+
+**🚫 SIN PARADAS - Ir directo al volcán**
 
 **Consideraciones de manejo:**
 - Autopista General Cañas tiene peajes (llevar efectivo/tarjeta)
 - Últimos 40 km son carretera de montaña con curvas
 - Puede haber neblina en zonas altas
 - Manejar con precaución, no apurarse
+- Meta: Llegar al parque ~9:30-10:00 AM
 
 ---
 
-### 9:30-10:00 AM - PARADA OPCIONAL: Sarchí
-**Ubicación:** Sarchí, Alajuela (a 1 hora de San José)
-**Coordenadas:** 10.0892° N, 84.3458° W
-
-**Qué ver:**
-- **Fábrica de Carretas:** Carretas pintadas a mano (símbolo de Costa Rica)
-- **Plaza Central:** Iglesia rosada de Sarchí
-- **Artesanías:** Muebles de madera, souvenirs, productos locales
-- **Carreta más grande del mundo:** Guinness World Record
-
-**Tiempo sugerido:** 30-45 minutos
-**Parking:** Disponible y gratuito en plaza central
-
-**Opción 2: Zarcero** (en lugar de Sarchí)
-- **Ubicación:** Zarcero, Alajuela (más adelante en la ruta)
-- **Qué ver:** Parque topiary con esculturas de plantas elaboradas
-- **Tiempo:** 20-30 minutos
-- **Parking:** Alrededor de la plaza
-
-**Recomendación:**
-- Si van bien de tiempo: Parar en Sarchí (más interesante)
-- Si van tarde: Saltar parada o solo Zarcero (más rápido)
-- Si no les interesa: Ir directo a La Fortuna
-
----
-
-### 11:00-11:30 AM - Llegada a La Fortuna
-**Ubicación:** La Fortuna, Arenal
-**Coordenadas pueblo:** 10.4667° N, 84.6433° W
+### 9:30-10:00 AM - Llegada a Parque Nacional Volcán Arenal
+**Ubicación:** Parque Nacional Arenal
+**Coordenadas:** 10.4628° N, 84.7034° W
 
 **Al llegar:**
-- Familiarizarse con el pueblo (pueblo pequeño, fácil de navegar)
-- Ubicar ubicación del Airbnb Casa Mañana (para check-in nocturno después)
-- Verificar ubicación de supermercado (si necesitan comprar algo)
-- Coordinar plan del día entre el grupo
-
-**NO check-in todavía:**
-- Check-in será tarde noche (~9:00-10:00 PM)
-- Dejar equipaje en vehículos (seguro durante el día)
-- Solo llevar mochila de día con lo esencial
+- Estacionar en el parking del parque (gratuito)
+- Comprar entradas ($15/pp)
+- Ir a baños si es necesario
+- Preparar mochilas de día (agua, snacks, bloqueador, repelente)
+- Coordinar plan entre el grupo (¿qué sendero hacer?)
 
 ---
 
-### 12:00 PM - 1:00 PM - Almuerzo en La Fortuna
-
-**Opción 1: Soda Viquez** (Budget, local)
-- **Ubicación:** Centro de La Fortuna
-- **Estilo:** Soda típica costarricense
-- **Precio:** $5-8 por persona
-- **Especialidad:** Casado (arroz, frijoles, carne, plátano, ensalada)
-- **Parking:** Calles públicas cercanas
-
-**Opción 2: Restaurante Nene's** (Mid-range)
-- **Ubicación:** Centro La Fortuna
-- **Estilo:** Comida costarricense con opciones internacionales
-- **Precio:** $10-15 por persona
-- **Parking:** Disponible
-
-**Opción 3: Café Mediterráneo** (Mid-range, variado)
-- **Ubicación:** Centro La Fortuna
-- **Estilo:** Mediterráneo/internacional
-- **Precio:** $12-18 por persona
-- **Opciones:** Vegetarianas, veganas disponibles
-
-**📚 Más opciones:** Ver [Restaurantes La Fortuna](../investigacion/restaurantes-la-fortuna/guia-practica.md)
-
----
-
-### 1:30 PM - Salida hacia Parque Nacional Volcán Arenal
-**Ruta:** La Fortuna centro → Entrada Parque Nacional
-**Distancia:** 14 km desde La Fortuna
-**Tiempo:** 20-25 minutos
-
-**Coordenadas Parque Nacional Arenal:** 10.4628° N, 84.7034° W
-
-**Consideraciones:**
-- Carretera pavimentada pero con curvas
-- Señalización clara hacia el parque
-- Hay varias entradas - confirmar GPS va a entrada principal
-
----
-
-### 2:00 PM - 4:30 PM - Parque Nacional Volcán Arenal 🌋
+### 10:00 AM - 12:30 PM - Parque Nacional Volcán Arenal 🌋
 
 #### Entrada y Parking
 
@@ -240,13 +181,16 @@
 
 #### Visibilidad del Volcán en Noviembre
 
-**⚠️ Clima Noviembre:**
-- Solo 27% del día tiene cielo despejado
+**✅ EXCELENTE DECISIÓN - Llegar a las 10:00 AM**
+- Solo 27% del día tiene cielo despejado en noviembre
 - **Mejor ventana:** 5:30-9:00 AM (antes de nubes)
-- Después de 9 AM: nubes cubren la cima frecuentemente
-- **2:00-4:00 PM:** Alta probabilidad de nubes, pero aún vale la pena
+- **10:00 AM-12:30 PM:** Aún buena visibilidad (mejor que 2:00 PM)
+- Nubes empiezan a cubrir la cima después de 9 AM, pero gradualmente
+- A las 10 AM todavía hay MUCHA mejor visibilidad que a las 2 PM
 
-**Nota:** Aunque esté nublado, los senderos y la experiencia del parque valen la pena.
+**✅ Beneficio adicional:** Terminar antes de lluvia típica de 2-4 PM
+
+**Nota:** Aunque esté parcialmente nublado, los senderos y la experiencia del parque valen la pena.
 
 #### Qué Llevar
 
@@ -280,7 +224,44 @@
 
 ---
 
-### 4:30 PM - Salida del Parque hacia Aguas Termales
+### 12:30 PM - Salida del Parque hacia Almuerzo
+**Ruta:** Parque Nacional Arenal → La Fortuna centro
+**Distancia:** 14 km
+**Tiempo:** 15-20 minutos
+
+---
+
+### 12:45 PM - 1:45 PM - Almuerzo en La Fortuna
+
+**Opción 1: Soda Viquez** (Budget, local, rápido)
+- **Ubicación:** Centro de La Fortuna
+- **Estilo:** Soda típica costarricense
+- **Precio:** $5-8 por persona
+- **Especialidad:** Casado (arroz, frijoles, carne, plátano, ensalada)
+- **Parking:** Calles públicas cercanas
+- **Ventaja:** Servicio rápido, comida abundante, económico
+
+**Opción 2: Restaurante Nene's** (Mid-range)
+- **Ubicación:** Centro La Fortuna
+- **Estilo:** Comida costarricense con opciones internacionales
+- **Precio:** $10-15 por persona
+- **Parking:** Disponible
+- **Ventaja:** Más variedad de opciones
+
+**Opción 3: Café Mediterráneo** (Mid-range, variado)
+- **Ubicación:** Centro La Fortuna
+- **Estilo:** Mediterráneo/internacional
+- **Precio:** $12-18 por persona
+- **Opciones:** Vegetarianas, veganas disponibles
+- **Ventaja:** Opciones más ligeras después de caminar
+
+**📚 Más opciones:** Ver [Restaurantes La Fortuna](../investigacion/restaurantes-la-fortuna/guia-practica.md)
+
+**Recomendación:** Opción rápida para no perder tiempo (tienen 4 horas en aguas termales después)
+
+---
+
+### 2:00 PM - Salida hacia Aguas Termales
 
 **Decisión del grupo:** ¿Qué aguas termales visitar?
 
@@ -289,24 +270,23 @@
 ## Aguas Termales - Opciones Detalladas ♨️
 
 ### Opción 1: Baldi Hot Springs ⭐ **RECOMENDADO PARA GRUPOS**
-**Precio:** $53 USD por persona (incluye almuerzo O cena buffet)
-**Total grupo 10:** $530 USD
+**Precio:** $42 USD por persona (solo termales, sin comida)
+**Precio alternativo:** $53 USD por persona (incluye almuerzo O cena buffet)
+**Total grupo 10:** $420 USD (solo termales) | $530 USD (con buffet)
 
 **Ubicación:** 8 km al oeste de La Fortuna
 **Coordenadas:** 10.4597° N, 84.7458° W
 **Horario:** 9:00 AM - 10:00 PM
 
-**Qué incluye:**
+**Qué incluye (opción $42):**
 - Acceso a ~25 piscinas termales (diferentes temperaturas)
 - Toboganes de agua
-- Almuerzo O cena buffet (elegir uno)
 - Toallas (con depósito de $10, devuelven)
 - Casilleros
 - Estacionamiento gratuito
 
 **Ventajas:**
 - ✅ **NO requiere reserva** (comprar en entrada - flexibilidad total)
-- ✅ Incluye comida (ahorro de tiempo y dinero)
 - ✅ Muchas piscinas (fácil encontrar espacio para 10 personas)
 - ✅ Toboganes (divertido para grupo)
 - ✅ Excelente relación calidad-precio
@@ -315,7 +295,7 @@
 **Desventajas:**
 - Puede estar ocupado (pero al ser grande, no es problema)
 
-**Tiempo sugerido:** 3-4 horas (5:00 PM - 9:00 PM)
+**Tiempo sugerido:** 4 horas (2:15 PM - 6:15 PM)
 
 ---
 
@@ -446,89 +426,73 @@
 
 ### Para Grupo de 10 Personas:
 
-**Escenario 1: Mejor valor + comodidad**
-→ **BALDI** ($53/pp = $530 total)
-- Incluye cena buffet (ahorran tiempo/dinero)
+**Escenario 1: Mejor valor + comodidad (RECOMENDADO)**
+→ **BALDI** ($42/pp = $420 total, solo termales)
 - NO requiere reserva (flexibilidad total)
 - Muchas piscinas + toboganes
 - Perfecto para grupos grandes
+- 4 horas es tiempo perfecto (2:15-6:15 PM)
+- Cenan después en La Fortuna (~7:00 PM)
 
-**Escenario 2: Experiencia de lujo**
+**Escenario 2: Baldi con buffet incluido**
+→ **BALDI con cena** ($53/pp = $530 total)
+- Incluye buffet (pueden comer allí ~5:00-6:00 PM)
+- Ahorra tiempo de ir a restaurante después
+- Llegan más temprano a Airbnb
+
+**Escenario 3: Experiencia de lujo**
 → **TABACÓN** ($99-168/pp = $990-1,680 total)
 - ⚠️ SOLO si reservan YA (se llena con meses de anticipación)
 - Ambiente premium
 - Jardines hermosos
 
-**Escenario 3: Ambiente tranquilo**
+**Escenario 4: Ambiente tranquilo**
 → **ECOTERMALES** (~$42-50/pp = $420-500 total)
 - Menos multitudes
 - Restaurante/bar en piscinas
 - Más íntimo
 
-**Escenario 4: Aventura natural + ahorro**
+**Escenario 5: Aventura natural + ahorro MÁXIMO**
 → **GRATIS** ($8-10 total parking)
 - Experiencia 100% natural
 - Casi gratis
 - Requiere espíritu aventurero
-
-**Escenario 5: Combo (¡lo mejor de ambos mundos!)**
-→ **GRATIS (tarde 4:30-6:00 PM) + BALDI (7:00-10:00 PM)**
-- Ver ambas experiencias
-- Total: $530 + $10 = $540
-- 2 horas gratis + 3 horas Baldi con cena
+- 4 horas perfectas (2:15-6:15 PM)
 
 ---
 
-### 5:00 PM - 9:00 PM - Aguas Termales
+### 2:15 PM - 6:15 PM - Aguas Termales ♨️
 **Ubicación:** Según opción elegida
 
-**Itinerario sugerido (Opción Baldi):**
+**Itinerario sugerido (Opción Baldi - solo termales):**
 
-**5:00 PM** - Llegada a Baldi
-- Comprar tickets en entrada ($53/pp)
+**2:15 PM** - Llegada a Baldi
+- Comprar tickets en entrada ($42/pp solo termales)
 - Recoger toallas (dejar depósito $10)
 - Usar casilleros para cosas de valor
 - Cambiarse a traje de baño
 
-**5:30 PM - 7:30 PM** - Disfrutar piscinas
+**2:30 PM - 6:00 PM** - Disfrutar piscinas (3.5 horas)
 - Explorar las ~25 piscinas
 - Probar diferentes temperaturas (algunas muy calientes, otras templadas)
 - Toboganes si el grupo quiere
+- Relajarse completamente
 
-**7:30 PM - 8:30 PM** - Cena buffet
-- Buffet incluido en el ticket
-- Comida costarricense e internacional
-- Comer en restaurante del complejo
-
-**8:30 PM - 9:00 PM** - Última ronda de piscinas
-- Relajarse después de cena
-- Disfrutar ambiente nocturno (luces en piscinas)
-
-**9:00 PM** - Cambiarse y salir
+**6:00 PM** - Cambiarse y salir
 - Devolver toallas (recuperar depósito $10)
-- Prepararse para late check-in en Airbnb
+- Cambiarse y prepararse para salir
+
+**6:15 PM** - Salida hacia Airbnb
 
 ---
 
-### 9:30 PM - Traslado a Airbnb Casa Mañana
+### 6:30-7:00 PM - Check-in Airbnb Casa Mañana
+
 **Ruta:** Baldi (u otra termal) → Airbnb Casa Mañana
 **Distancia:** Depende de ubicación termal (5-15 min típicamente)
 
 **Coordenadas Airbnb:** (Confirmar con anfitrión)
 **Link Airbnb:** https://www.airbnb.com/l/T56fxqdQ
-
----
-
-### 9:30-10:00 PM - Late Check-in Airbnb Casa Mañana
-
-**⚠️ CRÍTICO - Antes del viaje:**
-- **CONTACTAR ANFITRIÓN** para confirmar late check-in permitido
-- Preguntar método de entrada:
-  - ¿Lockbox con código?
-  - ¿Anfitrión presente?
-  - ¿Llave escondida?
-- Obtener número WhatsApp para emergencias
-- Confirmar dirección exacta y coordenadas GPS
 
 **Proceso de check-in:**
 1. Llegar al Airbnb
@@ -545,7 +509,20 @@
 
 ---
 
-### 10:00 PM - 10:30 PM - Preparativos para Mañana
+### 7:00-7:30 PM - Cena en La Fortuna
+
+**Opciones rápidas:**
+1. **Delivery/Uber Eats:** Pedir al Airbnb
+2. **Restaurante cercano:** Ir a cenar al pueblo
+3. **Supermercado:** Comprar algo simple y cocinar en Airbnb
+
+**Recomendación:** Decidir según energía del grupo
+
+**📚 Ver opciones:** [Restaurantes La Fortuna](../investigacion/restaurantes-la-fortuna/guia-practica.md)
+
+---
+
+### 8:00-9:00 PM - Preparativos para Mañana
 
 **Mañana es DÍA 3 - Día MÁS ACTIVO del viaje:**
 - ATV (cuatrimotos)
@@ -568,57 +545,67 @@
 
 ## 📝 Notas Importantes del Día
 
+### ✅ Ventajas del Nuevo Itinerario
+- **Salida temprano 6:30 AM** = Llegan al volcán 10:00 AM (mejor visibilidad)
+- **Volcán PRIMERO** = Evitan lluvia típica de 2-4 PM
+- **Check-in normal 6:30-7:00 PM** = NO necesitan coordinar late check-in
+- **Cena normal** = Más relajados, no apurados
+
 ### Timing del Día
-- Es día largo: 7 AM - 10 PM (~15 horas)
-- 3 horas de manejo + Volcán + Aguas Termales
-- No apurarse, tomar breaks cuando sea necesario
-- Está bien ajustar el plan según energía del grupo
+- Día largo pero bien estructurado: 6 AM - 9 PM (~15 horas)
+- 3 horas de manejo + Volcán (2.5h) + Almuerzo (1h) + Aguas Termales (4h)
+- Ritmo activo pero con breaks incluidos
+- Check-in temprano permite descansar bien antes del Día 3 (muy activo)
 
 ### Clima en Noviembre
 - **Temperatura:** 68-83°F (20-29°C)
 - **Probabilidad lluvia:** 81% diaria
 - **Patrón típico:** Mañanas despejadas, lluvia 2-4 PM (1-3h), luego despeja
-- **Lluvia NO arruina el día:**
-  - Aguas termales se disfrutan igual (o más) con lluvia
-  - Volcán tiene senderos techados en partes
-  - Llevar ponchos/impermeables
+- **Nuevo itinerario aprovecha clima:**
+  - Volcán 10 AM-12:30 PM = Antes de lluvia
+  - Aguas termales 2:15-6:15 PM = Durante/después de lluvia (no importa, están en agua)
+  - Llevar ponchos/impermeables igual
 
 ### Visibilidad Volcán
 - Solo 27% del día tiene cielo despejado en noviembre
-- Mejor ventana: 5:30-9:00 AM
-- A las 2:00 PM (nuestra llegada) puede estar nublado
+- **Mejor ventana:** 5:30-9:00 AM
+- **Nuestra llegada 10:00 AM** = Aún buena visibilidad (mejor que 2 PM)
 - **NO importa si no ven la cima:**
   - Los senderos y naturaleza valen la pena igual
   - Flujos de lava de 1968 siguen siendo impresionantes
   - Lago Arenal y bosque son hermosos
 
-### Late Check-in Airbnb
-- **CRÍTICO:** Contactar anfitrión ANTES del viaje
-- Confirmar que late check-in (~9:30-10:00 PM) está permitido
-- Obtener instrucciones de entrada
-- Número WhatsApp para emergencias
-
 ### Aguas Termales
 - Decisión importante: ¿Cuál opción elegir?
-- **Recomendación:** Baldi (mejor valor, flexibilidad, incluye cena)
+- **Recomendación:** Baldi solo termales ($42/pp) + cena después
 - Pueden decidir mismo día (Baldi no requiere reserva)
-- O combinar Gratis + Baldi
 
 ---
 
 ## 💰 Presupuesto Estimado Día 2
 
-### Opción 1: Con Baldi (Recomendado)
+### Opción 1: Baldi Solo Termales (RECOMENDADO)
 
 | Concepto | Costo por persona | Total grupo 10 |
 |----------|-------------------|----------------|
 | **Gasolina** (llenado tanques SJ) | $4-5 | $40-50 |
-| **Almuerzo La Fortuna** | $10-15 | $100-150 |
+| **Almuerzo La Fortuna** (después volcán) | $10-15 | $100-150 |
 | **Entrada Volcán Arenal** | $15 | $150 |
-| **Baldi Hot Springs** (con cena) | $53 | $530 |
+| **Baldi Hot Springs** (solo termales) | $42 | $420 |
+| **Cena La Fortuna** (~7:00 PM) | $10-20 | $100-200 |
+| **TOTAL** | **$81-97** | **$810-970** |
+
+### Opción 2: Baldi con Buffet Incluido
+
+| Concepto | Costo por persona | Total grupo 10 |
+|----------|-------------------|----------------|
+| Gasolina | $4-5 | $40-50 |
+| Almuerzo La Fortuna | $10-15 | $100-150 |
+| Volcán Arenal | $15 | $150 |
+| **Baldi** (con buffet/cena) | $53 | $530 |
 | **TOTAL** | **$82-88** | **$820-880** |
 
-### Opción 2: Con Tabacón (Luxury)
+### Opción 3: Con Tabacón (Luxury)
 
 | Concepto | Costo por persona | Total grupo 10 |
 |----------|-------------------|----------------|
@@ -629,7 +616,7 @@
 | Cena | $15-25 | $150-250 |
 | **TOTAL** | **$143-159** | **$1,430-1,590** |
 
-### Opción 3: Budget (Termales Gratis)
+### Opción 4: Budget Máximo (Termales Gratis)
 
 | Concepto | Costo por persona | Total grupo 10 |
 |----------|-------------------|----------------|
@@ -637,21 +624,28 @@
 | Almuerzo | $10-15 | $100-150 |
 | Volcán Arenal | $15 | $150 |
 | **Termales Gratis** (parking) | $0.80-1 | $8-10 |
-| Cena La Fortuna | $15-25 | $150-250 |
-| **TOTAL** | **$45-61** | **$448-610** |
+| Cena La Fortuna | $10-20 | $100-200 |
+| **TOTAL** | **$40-56** | **$398-560** |
 
 ---
 
 ## ✅ Checklist del Día 2
 
-### Antes de Salir de San José (7:00-8:00 AM)
-- [ ] Check-out Hotel Aloft sin problemas
-- [ ] Desayuno (hotel o para llevar)
-- [ ] ⛽ **Llenar tanques de gasolina** (ambos vehículos)
+### Noche Anterior (Día 1)
+- [ ] **Configurar alarmas para 5:30-5:45 AM** (salida temprano)
+- [ ] Preparar mochilas/equipaje (listo para cargar rápido)
+- [ ] Verificar que tienen todo para el volcán (botas, bloqueador, repelente)
+- [ ] Cargar celulares, cámaras, power banks
+
+### Antes de Salir de San José (6:00-6:30 AM)
+- [ ] Check-out Hotel Aloft temprano (6:00 AM)
+- [ ] Snacks/desayuno rápido (o llevar para el camino)
+- [ ] ⛽ **Llenar tanques de gasolina** (ambos vehículos, 6:15-6:30 AM)
 - [ ] Verificar equipaje en vehículos
-- [ ] GPS/Waze con ruta a La Fortuna
+- [ ] GPS/Waze con ruta al Parque Nacional Arenal
 - [ ] Agua para el viaje
 - [ ] Comunicación entre vehículos lista
+- [ ] **Meta: Salir 6:30 AM**
 
 ### Para el Volcán Arenal
 - [ ] Botas de hiking impermeables
@@ -672,12 +666,12 @@
 - [ ] Efectivo/tarjeta para pagar entrada
 - [ ] Si van a gratis: traje de baño VIEJO o NEGRO
 
-### Late Check-in Airbnb
-- [ ] Confirmación de late check-in con anfitrión (ANTES del viaje)
-- [ ] Instrucciones de entrada (lockbox code, etc.)
+### Check-in Airbnb (6:30-7:00 PM)
+- [ ] Dirección exacta y GPS del Airbnb
+- [ ] Instrucciones de entrada del anfitrión
 - [ ] Número WhatsApp del anfitrión
-- [ ] Dirección exacta y GPS
 - [ ] Link de Airbnb guardado en celular
+- [ ] **Ya NO necesitan coordinar late check-in** (llegada normal 6:30-7 PM)
 
 ---
 
@@ -693,10 +687,11 @@
   - 5:00 PM+: Despeja nuevamente
 - **Temperatura aguas termales:** 80-104°F (27-40°C) dependiendo de piscina
 
-**Qué significa para nuestro día:**
-- ✅ Mañana de viaje: Buen clima
-- ⚠️ Tarde en Volcán (2-4 PM): Posible lluvia - llevar ponchos
-- ✅ Noche en aguas termales (5-9 PM): Clima despejado o lluvia ligera (no importa, estás en agua caliente)
+**Qué significa para nuestro día (nuevo itinerario):**
+- ✅ Mañana de viaje (6:30-10 AM): Buen clima
+- ✅ Volcán (10 AM-12:30 PM): Antes de lluvia típica, mejor visibilidad
+- ⚠️ Aguas termales (2:15-6:15 PM): Posible lluvia, pero no importa (estás en agua caliente)
+- ✅ Check-in/cena (6:30-7:30 PM): Clima despejado o lluvia ligera ya pasando
 
 ---
 
