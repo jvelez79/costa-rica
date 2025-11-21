@@ -31,13 +31,13 @@
 </div>
 
 <div class="crew-member" markdown>
-![Heriberto](assets/images/crew/placeholder.svg){ .crew-photo }
+![Heriberto](assets/images/crew/Heriberto.png){ .crew-photo }
 
 **Heriberto**
 </div>
 
 <div class="crew-member" markdown>
-![Mariana](assets/images/crew/placeholder.svg){ .crew-photo }
+![Mariana](assets/images/crew/Mariana.jpeg){ .crew-photo }
 
 **Mariana**
 </div>
@@ -55,7 +55,7 @@
 </div>
 
 <div class="crew-member" markdown>
-![Juan Carlos](assets/images/crew/placeholder.svg){ .crew-photo }
+![Juan Carlos](assets/images/crew/Juan Carlos.jpeg){ .crew-photo }
 
 **Juan Carlos**
 </div>
