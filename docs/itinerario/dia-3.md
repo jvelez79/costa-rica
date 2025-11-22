@@ -30,30 +30,6 @@
 
 ---
 
-## ⚠️ Decisión Importante: ¿2 o 3 Actividades?
-
-### Opción A: 3 Actividades (MUY INTENSO)
-- ATV (8 AM - 12 PM) + Rafting (1 PM - 6 PM) + Cascada (7 PM - 9:30 PM)
-- **Duración:** 13+ horas de actividades
-- **Cena:** ~10:00-11:00 PM (muy tarde)
-- **Mejor para:** Grupo con mucha energía, amantes de aventura extrema
-
-### Opción B: 2 Actividades - ATV + Rafting (✅ CONFIRMADO)
-- **COMBO WAVE RAFTING:** ATV (7:30 AM - 11:30 AM) + Rafting (12 PM - 4 PM)
-- **7 personas hacen COMBO completo:** Brian, Angie, Ernesto, Elena, Mariana, Juan Carlos, Mary Rose
-- **2 personas SOLO ATV:** Verónica, Heriberto (terminan ~11:30 AM, actividades independientes después)
-- **Duración combo:** ~8.5 horas (7:30 AM - 4:00 PM)
-- **Cena:** ~7:00-8:30 PM
-- **Costo:** $1,071.69 total grupo
-
-### Opción C: 2 Actividades - Rafting + Cascada
-- Rafting temprano (7:30 AM - 3:30 PM) + Cascada (4 PM - 6:30 PM)
-- **Mejor para:** Quienes prefieren experiencias de naturaleza vs ATV
-
-**🎯 Recomendación:** Opción B (ATV + Rafting) - Excelente día de aventura sin ser agotador
-
----
-
 ## Timeline Detallado - COMBO WAVE RAFTING ✅ CONFIRMADO
 
 ### 6:30-7:15 AM - Desayuno Temprano
