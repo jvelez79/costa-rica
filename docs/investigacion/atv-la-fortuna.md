@@ -10,7 +10,10 @@
 ## 📋 Información Clave
 
 - 🏍️ **Operador confirmado:** Wave Rafting (Wave Expeditions)
-- ⏰ **Horario:** 7:30 AM inicio
+- 📋 **Número de reserva:** R52942
+- ⏰ **Horario:** 7:30 AM inicio en Wave Office
+- 📍 **Punto de encuentro:** Wave Office (Corner Building behind Catholic Church, La Fortuna)
+  - ⚠️ **NO hay pickup en Airbnb** - Ir directamente a Wave Office
 - 👥 **Participantes:** 9 personas total
   - **7 personas:** Combo ATV + Rafting (Brian, Angie, Ernesto, Elena, Mariana, Juan Carlos, Mary Rose)
   - **2 personas:** Solo ATV (Verónica, Heriberto)
@@ -214,18 +217,19 @@
 
 ## 👕 QUÉ LLEVAR / QUÉ PONERSE
 
-### Ropa Recomendada
+### Ropa Recomendada (Según Operador Wave Rafting)
 
 **Para el tour:**
-- 👕 Camiseta/playera de manga corta o larga (que pueda ensuciarse)
-- 👖 Pantalones largos o shorts (preferible largos para protección)
-- 👟 Zapatos cerrados deportivos (tenis viejos)
+- 👕 **Camiseta/playera** de manga corta o larga (que pueda ensuciarse)
+- 👖 **Ropa cómoda deportiva** - Pantalones largos o shorts (preferible largos para protección)
+- 👟 **Zapatos cerrados deportivos** (tenis viejos que se puedan mojar)
+  - ⚠️ **USO DE ZAPATOS OBLIGATORIO** - NO se permiten flip flops
 - 🧢 Gorra o bandana (protección del sol/lodo)
 - 🕶️ Lentes de sol con correa (opcional, hay goggles incluidos)
 
 **EVITAR:**
-- ❌ Ropa nueva o cara (se ensuciará)
-- ❌ Sandalias o chanclas (peligroso)
+- ❌ Ropa nueva o cara (se ensuciará completamente)
+- ❌ **Sandalias tipo flip flops (PROHIBIDO por operador)**
 - ❌ Zapatos abiertos
 - ❌ Joyería o accesorios de valor
 
@@ -237,9 +241,16 @@
 - 👟 Zapatos limpios
 - 🧴 Toalla pequeña
 
-### Artículos Esenciales
+### Artículos Esenciales (Según Operador)
 
+**OBLIGATORIO:**
+- 👟 **Zapatos cerrados** que se puedan mojar (NO flip flops)
+- 👕 **Ropa cómoda/deportiva** que se pueda mojar y ensuciar
+- 👕 **Cambio de ropa completo** (llevar en bolsa)
+
+**RECOMENDADO:**
 - 🧴 **Bloqueador solar** (resistente al agua, aplicar antes)
+- 🎒 **Bolsas plásticas** para ropa mojada/sucia
 - 💧 **Botella de agua** (mantenerse hidratado)
 - 📸 **Cámara waterproof/GoPro** (opcional, para fotos)
 - 💵 **Efectivo** ($10-15 pp para propinas)
@@ -251,18 +262,24 @@
 - ❌ Celulares sin protección waterproof
 - ❌ Relojes caros
 - ❌ Joyas
+- ❌ **Sandalias tipo flip flops (PROHIBIDO)**
 
 ---
 
-## ⚠️ RESTRICCIONES Y REQUISITOS
+## ⚠️ RESTRICCIONES Y REQUISITOS (Confirmadas por Wave Rafting)
+
+### Restricciones de Salud - NO PERMITIDO
+
+- ❌ **Mujeres embarazadas**
+- ❌ **Postoperatorios recientes, quebraduras o lesiones**
+- ❌ **Presión alta/baja o problemas cardíacos severos**
+- ❌ **Personas bajo influencia de alcohol o estupefacientes**
 
 ### Edad y Condición Física
 
 - ✅ **Edad mínima:** Típicamente 16 años para manejar (verificar con operador)
 - ✅ **Pasajeros:** Niños desde 6+ pueden ir como pasajeros
 - ✅ **Condición física:** Moderada (poder sostener ATV en terreno irregular)
-- ⚠️ **No recomendado:** Mujeres embarazadas
-- ⚠️ **No recomendado:** Problemas severos de espalda/cuello
 
 ### Requisitos del Conductor
 
@@ -273,34 +290,40 @@
 
 ### Reglas de Seguridad
 
-- ⚠️ Seguir al guía en todo momento
-- ⚠️ Mantener distancia segura entre ATVs
-- ⚠️ Usar casco en todo momento (obligatorio)
-- ⚠️ No conducir bajo influencia de alcohol/drogas
-- ⚠️ Respetar límites de velocidad indicados
-- ⚠️ No salirse de los senderos marcados
+- ⚠️ **Seguir al guía en todo momento**
+- ⚠️ **Mantener distancia segura entre ATVs**
+- ⚠️ **Usar casco en todo momento (obligatorio)**
+- ⚠️ **Uso de zapatos cerrados obligatorio (NO flip flops)**
+- ⚠️ **No conducir bajo influencia de alcohol/drogas** (acceso denegado si se presenta bajo influencia)
+- ⚠️ **Respetar límites de velocidad indicados**
+- ⚠️ **No salirse de los senderos marcados**
+
+### Seguro y Cobertura
+
+- 🏥 **Seguro incluye:** Atención inmediata y estabilización del paciente
+- ⚠️ **NO cubre:** Tratamientos prolongados, hospitalizaciones, cirugías (responsabilidad del cliente)
+- 📋 **IMPORTANTE:** Verificar que todos tengan seguro de viaje personal que cubra actividades de aventura
 
 ---
 
 ## 🚗 LOGÍSTICA CON VEHÍCULOS PROPIOS
 
-### ¿Usar Nuestros Vehículos o Tour con Transporte?
+### ⚠️ IMPORTANTE: NO HAY PICKUP EN AIRBNB
 
-**RECOMENDACIÓN: Usar transporte del tour (incluido en precio)**
+**El tour NO incluye transporte desde Casa Mañana. Deben ir directamente a Wave Office.**
 
-**Razones:**
-- ✅ Transporte ya incluido en el precio del tour
-- ✅ No hay ahorro usando vehículos propios
-- ✅ Pickup directo desde Casa Mañana Airbnb
-- ✅ No preocuparse por estacionamiento
-- ✅ Más cómodo después del tour (estás cansado/sucio)
-- ✅ Operador coordina logística completa
+**Punto de encuentro confirmado:**
+- 📍 **Wave Office** - Corner Building behind Catholic Church, La Fortuna
+- ⏰ **Hora:** 7:30 AM
+- 🚗 **Desde Casa Mañana:** ~10 minutos de manejo
+- 🕐 **Salir Airbnb:** 7:00-7:10 AM (dejar margen)
 
-**Si prefieren usar vehículos propios:**
-- Confirmar punto de encuentro con Wave Rafting
-- Verificar disponibilidad de estacionamiento seguro
-- Coordinar horarios de llegada
-- Considerar que estarán muy sucios después del ATV
+**Logística con vehículos propios:**
+- ✅ Dejar vehículos estacionados en Wave Office
+- ✅ Verificar estacionamiento seguro al llegar
+- ✅ Considerar que estarán muy sucios después del ATV (proteger asientos)
+- ✅ Llevar cambio de ropa completo en el vehículo
+- ✅ Llevar bolsas plásticas para ropa mojada/sucia
 
 ---
 
@@ -394,17 +417,23 @@
 
 ### Confirmación de Reserva
 
-**IMPORTANTE - Confirmar con operador:**
-- ✅ Reserva confirmada para 9 personas (7 combo + 2 solo ATV)
-- ✅ Fecha: Martes 25 Noviembre 2025
-- ✅ Horario: 7:30 AM pickup
-- ✅ Pickup desde Casa Mañana Airbnb, La Fortuna
-- ✅ Configuración: 3 dobles + 1 single (combo) + 1 doble (solo ATV)
-- ✅ Precio confirmado: $1,071.69 total
-- ✅ Descuento 5% aplicado al combo
-- ✅ Método de pago acordado
-- ✅ Política de cancelación entendida
-- ✅ Número de confirmación recibido
+**DATOS DE RESERVA CONFIRMADA:**
+- ✅ **Número de reserva:** R52942
+- ✅ **Fecha:** Martes 25 Noviembre 2025
+- ✅ **Horario:** 7:30 AM en Wave Office
+- ✅ **Punto de encuentro:** Wave Office (NO pickup en Airbnb)
+- ✅ **Participantes:** 9 personas (7 combo + 2 solo ATV)
+- ✅ **Configuración:** 3 dobles + 1 single (combo) + 1 doble (solo ATV)
+- ✅ **Precio confirmado:** $1,071.69 total
+- ✅ **Descuento 5% aplicado** al combo
+
+### Política de Cancelación
+
+- 🚫 **Cancelación:** Mínimo 24 horas antes del tour
+  - Enviar por escrito a: info@waveexpeditions.com
+  - **Penalización 100%** si no se cumple el plazo
+- ⚠️ **Grupos >10 personas:** Requiere 48 horas de anticipación
+- 📧 **Método:** Solo por email (debe ser por escrito)
 
 ---
 
