@@ -13,14 +13,20 @@
 ## Información Clave
 
 - **Alojamiento:** Airbnb Casa Mañana - La Fortuna (segunda noche)
-- **Actividades:**
-  1. 🏍️ ATV (cuatrimotos) - Mañana - $60-85/pp
-  2. 🌊 Rafting Los Rápidos - Tarde - $65-85/pp (incluye almuerzo)
-  3. 💦 Cascada La Fortuna - Tarde/noche - $20/pp (opcional)
-- **Transporte:** Rafting incluye pickup/drop-off; ATV depende del operador; Cascada con vehículos propios
-- **⚠️ Día MUY completo:** 3 actividades requiere 13-15 horas - evaluar energía del grupo
-- **Opción más relajada:** Hacer solo 2 de las 3 actividades
-- **Presupuesto:** $145-190/pp (2 actividades) o $165-210/pp (3 actividades)
+- **Operador confirmado:** Wave Rafting (+506 2479-7262 | waveexpeditions.com)
+- **Grupo:** 9 personas (no 10)
+  - **7 personas COMBO (ATV + Rafting):** Brian, Angie, Ernesto, Elena, Mariana, Juan Carlos, Mary Rose
+  - **2 personas SOLO ATV:** Verónica, Heriberto
+- **Actividades principales:**
+  1. 🏍️ **ATV** (cuatrimotos) - 7:30 AM - Todos (9 personas) - $136.79 pp combo / $57.07 pp solo
+  2. 🌊 **Rafting** Los Rápidos - Post-ATV - Solo 7 personas - Incluido en combo
+  3. 💦 Cascada La Fortuna - Tarde/noche - $20/pp (opcional, NO confirmado)
+- **Horario:** Inicio 7:30 AM (pickup desde Casa Mañana)
+- **Grupo se divide:** Después del ATV (~11:30 AM), 2 personas terminan, 7 continúan con rafting
+- **Transporte:** Pickup/drop-off incluido desde Airbnb
+- **Presupuesto confirmado:** $1,071.69 total grupo ($119.08 pp promedio)
+  - Combo 7 personas: $957.56 ($136.79 pp)
+  - Solo ATV 2 personas: $114.13 ($57.07 pp)
 
 ---
 
@@ -32,11 +38,13 @@
 - **Cena:** ~10:00-11:00 PM (muy tarde)
 - **Mejor para:** Grupo con mucha energía, amantes de aventura extrema
 
-### Opción B: 2 Actividades - ATV + Rafting (RECOMENDADO)
-- ATV (9 AM - 1 PM) + Rafting (2 PM - 7 PM)
-- **Duración:** 10 horas
-- **Cena:** ~7:30-8:30 PM (más razonable)
-- **Mejor para:** Balance entre aventura y no agotarse completamente
+### Opción B: 2 Actividades - ATV + Rafting (✅ CONFIRMADO)
+- **COMBO WAVE RAFTING:** ATV (7:30 AM - 11:30 AM) + Rafting (12 PM - 4 PM)
+- **7 personas hacen COMBO completo:** Brian, Angie, Ernesto, Elena, Mariana, Juan Carlos, Mary Rose
+- **2 personas SOLO ATV:** Verónica, Heriberto (terminan ~11:30 AM, actividades independientes después)
+- **Duración combo:** ~8.5 horas (7:30 AM - 4:00 PM)
+- **Cena:** ~7:00-8:30 PM
+- **Costo:** $1,071.69 total grupo
 
 ### Opción C: 2 Actividades - Rafting + Cascada
 - Rafting temprano (7:30 AM - 3:30 PM) + Cascada (4 PM - 6:30 PM)
@@ -46,9 +54,9 @@
 
 ---
 
-## Timeline Detallado - OPCIÓN B (2 Actividades) ⭐ RECOMENDADO
+## Timeline Detallado - COMBO WAVE RAFTING ✅ CONFIRMADO
 
-### 7:30-8:30 AM - Desayuno
+### 6:30-7:15 AM - Desayuno Temprano
 
 **Opción 1: Desayuno en Airbnb**
 - Si Casa Mañana tiene cocina equipada
@@ -70,7 +78,7 @@
 
 ---
 
-### 8:30-9:00 AM - Preparativos para ATV
+### 7:15-7:30 AM - Preparativos para ATV + Pickup
 
 **En el Airbnb:**
 - Aplicar bloqueador solar (SPF 50+)
@@ -90,49 +98,63 @@
 
 ---
 
-## 🏍️ ATV (Cuatrimotos) - 9:00 AM - 1:00 PM
+## 🏍️ ATV (Cuatrimotos) - 7:30 AM - 11:30 AM ✅ CONFIRMADO
 
-### Información del Tour
+### ✅ Operador Confirmado: WAVE RAFTING
 
-**Duración total:** ~4 horas
-- Briefing de seguridad: 15-20 min
-- Tiempo en cuatrimotos: 2.5-3 horas
-- Paradas en miradores/cascadas: 30-45 min
-- Regreso y limpieza: 15-20 min
+**Información de contacto:**
+- **Operador:** Wave Rafting (Wave Expeditions)
+- **Teléfono:** +506 2479-7262
+- **Website:** waveexpeditions.com | waverafting.com
+- **Ubicación:** Corner Building behind Catholic Church, La Fortuna
+- **Experiencia:** 20+ años en la industria
+- **Pickup:** Incluido desde Casa Mañana Airbnb
 
-**Pickup:**
-- Depende del operador (algunos hacen pickup, otros tienen punto de encuentro)
-- Confirmar al reservar: ¿Pickup en Airbnb o ir al punto de partida?
-- Si es punto de encuentro: Usar vehículos propios para llegar
+### Participantes y Configuración
 
-### Operadores Recomendados ATV
+**TODOS (9 personas) hacen ATV:**
+- **7 personas COMBO (ATV + Rafting):** Brian, Angie, Ernesto, Elena, Mariana, Juan Carlos, Mary Rose
+- **2 personas SOLO ATV:** Verónica, Heriberto
 
-**ATV Tours La Fortuna** (ejemplo de búsqueda)
-- Buscar operadores con +500 reseñas
-- Verificar que incluyan:
-  - Equipo de seguridad (casco, goggles)
-  - Guía bilingüe
-  - Seguro
-  - Rutas escénicas (Volcán Arenal, cascadas)
+**Configuración de ATVs (5 total):**
+- **Para combo (7 personas):**
+  - 3 ATVs dobles (6 personas): Brian+Angie, Ernesto+Elena, Mariana+Juan Carlos
+  - 1 ATV single (1 persona): Mary Rose
+- **Para solo ATV (2 personas):**
+  - 1 ATV doble: Verónica+Heriberto
 
-**Qué preguntar al reservar:**
-- ¿Hacen pickup en Airbnb o punto de encuentro?
-- ¿Cuántas personas por cuatrimoto? (individual vs doble)
-- ¿Incluye visita a cascadas/miradores?
-- ¿Proveen goggles/bandanas?
-- ¿Política de cancelación?
-- ¿Descuento para grupo de 10?
+### Precios Confirmados
 
-### Precio Estimado
+**COMBO ATV + Rafting (7 personas):**
+- ATV Doble: $122 + 13% IVA = $137.86 pp (6 personas)
+- ATV Single: $160 + 13% IVA = $180.80 pp (1 persona)
+- Subtotal: $1,007.96
+- Descuento 5% (grupo 7+): -$50.40
+- **TOTAL COMBO: $957.56** ($136.79 pp)
 
-| Opción | Costo por persona | Total grupo 10 |
-|--------|-------------------|----------------|
-| **ATV compartido** (2 por cuatrimoto) | $60-75 | $600-750 |
-| **ATV individual** (1 por cuatrimoto) | $75-85 | $750-850 |
+**SOLO ATV (2 personas - Verónica y Heriberto):**
+- ATV Doble: $101 + 13% IVA = $114.13 total
+- **Por persona: $57.07 pp**
 
-**Nota:** Si son 10 personas:
-- Opción compartida: 5 cuatrimotos (2 personas cada una)
-- Opción individual: 10 cuatrimotos
+**TOTAL ATV DÍA 3: $1,071.69** (9 personas)
+
+### Duración y Horario
+
+**7:30 AM** - Pickup desde Casa Mañana
+**7:45 AM** - Briefing de seguridad (15-20 min)
+**8:00 AM - 9:45 AM** - Tour ATV (~2 horas)
+**10:00 AM** - **GRUPO SE DIVIDE:** (confirmado por operador)
+- **7 personas (combo):** Continúan con Rafting
+- **2 personas (solo ATV):** Terminan aquí → Actividades independientes
+
+### 📚 Más Información
+
+Ver [Guía Completa ATV La Fortuna](../investigacion/atv-la-fortuna.md) para:
+- Qué llevar / Qué ponerse
+- Ruta del tour y destinos
+- Consideraciones época lluviosa
+- Restricciones y requisitos
+- Tips y recomendaciones
 
 ### Ruta Típica del Tour
 
@@ -189,48 +211,60 @@
 
 ---
 
-### 1:00 PM - Regreso de ATV
+### 10:00 AM - Fin ATV y División del Grupo ⚠️
 
-**Al regresar:**
-- Cambio de ropa completo (ducharse si es posible)
-  - Opción 1: Regresar al Airbnb (15-20 min)
-  - Opción 2: Usar baños/cambiadores del operador ATV
-  - Opción 3: Ir directo a punto de pickup rafting (cambiarse ahí)
+**GRUPO SE DIVIDE AQUÍ:** (Confirmado por operador Wave)
+
+**Opción A - 7 personas COMBO (continúan con Rafting):**
+- Brian, Angie, Ernesto, Elena, Mariana, Juan Carlos, Mary Rose
+- Cambio rápido de ropa (operador provee instalaciones)
 - Prepararse para rafting:
   - Traje de baño como ropa interior
   - Ropa que pueda mojarse completamente
   - Zapatos con correas (Tevas, Chacos)
+- **10:15-10:30 AM:** Inicio Rafting (después de cambio y preparativos)
 
-**Tiempo entre actividades:**
-- Si ATV termina 1:00 PM y rafting empieza 2:00 PM → 1 hora para cambio
-- Coordinar bien para no apurarse
+**Opción B - 2 personas SOLO ATV (terminan aquí):**
+- Verónica, Heriberto
+- **Actividades independientes 10:00 AM - 2:30 PM** (a determinar):
+  - Regresar a Casa Mañana (ducha, descanso, piscina)
+  - Visitar Cascada La Fortuna independiente con vehículos
+  - Explorar pueblo La Fortuna, almorzar
+  - Reunirse con grupo ~2:30 PM al regresar de rafting
 
 ---
 
-## 🌊 Rafting Los Rápidos - 2:00 PM - 7:00 PM
+## 🌊 Rafting Los Rápidos - 10:30 AM - 2:30 PM ✅ CONFIRMADO
 
-### Información del Tour
+### ✅ Parte del COMBO Wave Rafting
 
-**Duración total:** ~5 horas
-- Pickup desde Airbnb/hotel: 15 min
-- Traslado al río: 35 min (Balsa) o 1h 20min (Sarapiquí)
+**Solo 7 personas hacen rafting:**
+- Brian, Angie, Ernesto, Elena, Mariana, Juan Carlos, Mary Rose
+- **Incluido en precio combo** ($136.79 pp)
+- Verónica y Heriberto NO hacen rafting (solo ATV)
+
+**Duración total:** ~4 horas
+- **Inicio después del ATV:** ~10:30 AM (después de cambio de ropa)
+- Traslado al río: 35 min (Balsa)
 - Briefing de seguridad: 20 min
 - Tiempo en el río: 2.5 horas
 - Almuerzo: 45 min
-- Regreso a La Fortuna: 35 min (Balsa) o 1h 20min (Sarapiquí)
+- Regreso a La Fortuna: 35 min
+- **Retorno a Casa Mañana:** ~2:30 PM
 
-**Pickup incluido:**
-- ✅ Pickup desde Airbnb Casa Mañana
-- ✅ Transporte roundtrip incluido en precio
-- ✅ **NO usar vehículos propios** (innecesario, transporte incluido)
+**Transporte incluido en combo:**
+- ✅ Continúan directamente del ATV (10:00 AM división)
+- ✅ Transporte al río y retorno incluido
+- ✅ Drop-off en Casa Mañana Airbnb
 
 ### Elección de Río
 
-**Río Balsa (Clase II-III)** ⭐ RECOMENDADO PARA ESTE GRUPO
+**Río Balsa (Clase II-III)** ✅ CONFIRMADO
 - **Nivel:** Principiante a intermedio
 - **Edad mínima:** 6-8 años
-- **Duración tour:** ~5 horas total
+- **Duración tour:** ~4-5 horas total
 - **Distancia:** 35 min de La Fortuna
+- **Operador:** Wave Rafting
 - **Ventajas:**
   - ✅ Rápidos emocionantes pero seguros
   - ✅ Vistas espectaculares del Volcán Arenal
@@ -238,42 +272,28 @@
   - ✅ Secciones tranquilas para disfrutar naturaleza
   - ✅ Observación de fauna (monos, perezosos, tucanes)
   - ✅ Perfecto para mezcla de aventura + paisajes
-- **Precio:** $65-75 USD por persona
-- **Total grupo 10:** $650-750 USD
+- **Incluido en combo:** $136.79 pp (7 personas)
+- **Total rafting (7 personas):** Incluido en $957.56 (combo con descuento 5%)
 
-**Río Sarapiquí (Clase III-IV)**
+**Río Sarapiquí (Clase III-IV)** ❌ NO elegido
 - **Nivel:** Intermedio a avanzado
 - **Edad mínima:** 12-13 años
 - **Duración tour:** ~7-8 horas total (más lejos)
 - **Distancia:** 1h 20min de La Fortuna
-- **Ventajas:**
-  - ✅ Rápidos clase IV más desafiantes
-  - ✅ ~30 rápidos continuos
-  - ✅ Río más prístino y salvaje
-  - ✅ Mayor adrenalina
-- **Desventajas:**
-  - ⚠️ Mucho más lejos (más tiempo en van)
-  - ⚠️ Tour más largo (7-8h) - difícil hacer cascada después
-  - ⚠️ Más exigente físicamente
-- **Precio:** $75-85 USD por persona
-- **Total grupo 10:** $750-850 USD
+- **Nota:** No se eligió para este viaje (preferimos Balsa por timing y accesibilidad)
 
-**🎯 Recomendación:** Río Balsa
-- Mejor para día con múltiples actividades
-- Menos tiempo de transporte
-- Excelente balance aventura/paisajes
-- Deja tiempo para cascada si quieren
+### ✅ Operador Confirmado
 
-### Operadores Recomendados
-
-**1. WAVE Expeditions** ⭐⭐⭐⭐⭐
+**WAVE RAFTING (Wave Expeditions)** ⭐⭐⭐⭐⭐ - CONFIRMADO
 - **Teléfono:** +506 2479-7262
-- **Website:** waveexpeditions.com
+- **Website:** waveexpeditions.com | waverafting.com
 - **Experiencia:** 20+ años
-- **Precio:** Desde $78 + IVA por persona
-- **Ríos:** Balsa (II-III) y Sarapiquí (III-IV)
+- **Río:** Balsa (Clase II-III)
+- **Precio confirmado:** $136.79 pp (incluye ATV + Rafting + almuerzo con descuento 5%)
 - **Facebook:** facebook.com/waveexp (9,150+ likes)
-- **Ubicación oficina:** Corner Building behind Catholic Church, La Fortuna
+- **Instagram:** @wave.expeditions
+- **Ubicación:** Corner Building behind Catholic Church, La Fortuna
+- **Destacado:** Negocio local operado por Warner and Vanessa, atención personalizada
 
 **2. Arenal Rafting** ⭐⭐⭐⭐⭐
 - **WhatsApp:** +506 8934-2626
@@ -369,7 +389,7 @@
 
 **En el río:**
 - Guía profesional en cada balsa (6-8 personas por balsa)
-  - Grupo de 10 = 2 balsas (5 personas cada una)
+  - Grupo de 7 = 1 balsa (todo el grupo junto)
 - Kayaker de seguridad acompaña el grupo
 - Rápidos emocionantes pero seguros
 - Secciones tranquilas entre rápidos (disfrutar naturaleza)
@@ -383,14 +403,20 @@
 
 ---
 
-### 7:00 PM - Regreso a La Fortuna
+### 2:30 PM - Regreso a Casa Mañana
 
-**Al regresar del rafting:**
+**Al regresar del rafting (7 personas):**
 - Drop-off en Airbnb Casa Mañana
-- Grupo probablemente cansado pero feliz
+- Reunión con Verónica y Heriberto (quienes terminaron a las 10:00 AM)
+- Grupo completo reunido nuevamente (9 personas)
 - Ducha y cambio de ropa
+- Descanso merecido
 
-**Decisión: ¿Cascada o Cena?**
+**Tarde libre (2:30-7:00 PM):**
+- Descansar en Airbnb (piscina, relajar)
+- Opción: Visitar pueblo La Fortuna
+- **Opción viable:** Cascada La Fortuna (cierra 5:00 PM - hay tiempo suficiente 3:00-5:00 PM)
+- **Recomendado:** Descansar o hacer actividad ligera
 
 ---
 
@@ -574,65 +600,72 @@
 
 ---
 
-## 💰 Presupuesto Estimado Día 3
+## 💰 Presupuesto Confirmado Día 3
 
-### Opción B: 2 Actividades - ATV + Rafting (RECOMENDADO)
+### ✅ COMBO WAVE RAFTING - CONFIRMADO
 
-| Concepto | Costo por persona | Total grupo 10 |
-|----------|-------------------|----------------|
-| **Desayuno** | $8-12 | $80-120 |
-| **ATV Tour** | $60-85 | $600-850 |
-| **Rafting Tour** (incluye almuerzo) | $65-75 | $650-750 |
-| **Cena** | $15-25 | $150-250 |
-| **Propinas** (guías ATV + Rafting) | $10-20 | $100-200 |
-| **TOTAL** | **$158-217** | **$1,580-2,170** |
+**Desglose por grupo:**
 
-**Por persona:** $158-217 USD
+| Grupo | Actividad | Costo Total | Por Persona |
+|-------|-----------|-------------|-------------|
+| **7 personas** (Brian, Angie, Ernesto, Elena, Mariana, Juan Carlos, Mary Rose) | COMBO ATV + Rafting | $957.56 | $136.79 |
+| **2 personas** (Verónica, Heriberto) | SOLO ATV | $114.13 | $57.07 |
+| **SUBTOTAL ACTIVIDADES (9 personas)** | - | **$1,071.69** | **$119.08 promedio** |
 
----
+**Detalles del COMBO (7 personas):**
+- 6 personas en ATVs dobles: 6 × $137.86 = $827.16
+- 1 persona en ATV single: 1 × $180.80 = $180.80
+- Subtotal: $1,007.96
+- Descuento 5% (grupo 7+): -$50.40
+- **Total combo:** $957.56
 
-### Opción A: 3 Actividades (MUY INTENSO)
-
-| Concepto | Costo por persona | Total grupo 10 |
-|----------|-------------------|----------------|
-| Desayuno | $8-12 | $80-120 |
-| **Rafting Tour** (con almuerzo) | $65-75 | $650-750 |
-| **Cascada entrada** | $20 | $200 |
-| **ATV Tour** (o saltar) | $60-85 | $600-850 |
-| Cena | $15-25 | $150-250 |
-| Propinas | $15-25 | $150-250 |
-| **TOTAL** | **$183-242** | **$1,830-2,420** |
-
-**Por persona:** $183-242 USD
+**Detalles SOLO ATV (2 personas):**
+- 1 ATV doble: $101 + 13% IVA = $114.13 total
 
 ---
 
-### Opción C: Solo Rafting (Más Relajado)
+### Presupuesto Total Día 3 (Incluyendo Comidas y Extras)
 
-| Concepto | Costo por persona | Total grupo 10 |
-|----------|-------------------|----------------|
-| Desayuno | $8-12 | $80-120 |
-| **Rafting Tour** (incluye almuerzo) | $65-75 | $650-750 |
-| Cena | $15-25 | $150-250 |
-| Propinas | $5-10 | $50-100 |
-| **TOTAL** | **$93-122** | **$930-1,220** |
+| Concepto | Costo Estimado | Notas |
+|----------|----------------|-------|
+| **Desayuno** | $70-110 (grupo 9) | $8-12 pp |
+| **ACTIVIDADES CONFIRMADAS** | **$1,071.69** | Wave Rafting combo + solo ATV |
+| **Almuerzo** | Incluido en combo (7 personas) | Verónica y Heriberto por su cuenta: ~$20 |
+| **Cena** | $135-225 (grupo 9) | $15-25 pp |
+| **Propinas** (guías) | $70-140 | $10-15 pp para 7 del combo |
+| **TOTAL DÍA 3** | **$1,347-1,567** | **$150-174 pp promedio** |
 
-**Por persona:** $93-122 USD
+**Nota:** El combo incluye almuerzo para las 7 personas que hacen rafting. Verónica y Heriberto almuerzan por su cuenta.
+
+---
+
+### Comparación: Antes vs Confirmado
+
+| Concepto | Estimado Original (10 personas) | Confirmado (9 personas) | Diferencia |
+|----------|--------------------------------|------------------------|------------|
+| Actividades | $1,250-1,600 | $1,071.69 | **Ahorro ~$178-528** |
+| Por persona (actividades) | $125-160 pp | $119.08 pp | Ahorro $6-41 pp |
+
+**Ahorro logrado:**
+- Combo con descuento 5%
+- Solo 2 personas hacen ATV-only (más económico que combo completo)
 
 ---
 
 ## ✅ Checklist del Día 3
 
-### Antes de Salir del Airbnb (Mañana)
-- [ ] Desayuno completo (día largo de actividades)
+### Antes de Salir del Airbnb (6:30 AM)
+- [ ] Desayuno completo y temprano (inicio 7:30 AM)
 - [ ] Bloqueador solar aplicado
 - [ ] Repelente de insectos aplicado
-- [ ] Confirmaciones de tours (ATV, Rafting)
-- [ ] Múltiples cambios de ropa empacados
+- [ ] Confirmación Wave Rafting verificada
+- [ ] **7 personas combo:** Múltiples cambios de ropa (ATV + Rafting)
+- [ ] **2 personas solo ATV:** Un cambio de ropa
 - [ ] Toallas
 - [ ] Bolsas plásticas para ropa mojada
+- [ ] 7:30 AM listos para pickup
 
-### Para ATV
+### Para TODOS - ATV (9 personas)
 - [ ] Ropa que pueda ensuciarse/arruinarse
 - [ ] Pantalón largo (NO shorts)
 - [ ] Zapatos cerrados (tenis viejos)
@@ -640,14 +673,20 @@
 - [ ] Gafas de sol o goggles
 - [ ] Agua en mochila
 
-### Para Rafting
-- [ ] Traje de baño (usar debajo de ropa)
+### Para COMBO - Rafting (Solo 7 personas)
+**Brian, Angie, Ernesto, Elena, Mariana, Juan Carlos, Mary Rose:**
+- [ ] Traje de baño (usar debajo de ropa después del ATV)
 - [ ] Camiseta de secado rápido
 - [ ] Shorts de secado rápido
 - [ ] **Zapatos con correas** (Tevas, Chacos)
 - [ ] Bloqueador solar resistente al agua
-- [ ] Toalla y ropa seca en mochila (dejar en van)
+- [ ] Toalla adicional para rafting
 - [ ] Bolsa impermeable
+
+### Para SOLO ATV (Verónica y Heriberto)
+- [ ] Un cambio de ropa (después del ATV)
+- [ ] Decidir actividad post-ATV (11:30 AM - 4:00 PM)
+- [ ] Opcional: Equipo para Cascada si van independiente
 
 ### Para Cascada (si hacen)
 - [ ] Traje de baño

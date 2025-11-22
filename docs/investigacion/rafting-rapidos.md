@@ -8,25 +8,29 @@
 
 ## 📋 Información Clave
 
+- ✅ **CONFIRMADO:** Operador Wave Rafting | Río Balsa (Clase II-III)
+- 👥 **Grupo:** 7 personas (parte del combo ATV + Rafting)
+  - Brian, Angie, Ernesto, Elena, Mariana, Juan Carlos, Mary Rose
+  - **Nota:** Verónica y Heriberto solo hacen ATV (no rafting)
 - ✅ **Noviembre = EXCELENTE temporada** (temporada lluviosa = niveles de agua altos + rápidos emocionantes)
-- 🌊 **Dos opciones de ríos:** Balsa (II-III, familiar) o Sarapiquí (III-IV, más desafiante)
-- 💰 **Costo:** $65-$85 USD por persona (promedio $75 pp)
-- ⏰ **Duración:** 5-6 horas total (2.5 horas en el río)
-- 🚐 **Transporte incluido:** Pickup desde hoteles La Fortuna (35 min al río)
+- 💰 **Costo confirmado:** $136.79 pp (incluye ATV + Rafting + almuerzo con 5% descuento)
+- 💵 **Total rafting (7 personas):** Incluido en combo $957.56
+- ⏰ **Duración:** 4-5 horas (12:00 PM - 4:00 PM)
+- 🚐 **Transporte incluido:** Continúan del ATV, drop-off en Casa Mañana
 - ✅ **Incluye:** Equipo completo, guías certificados, almuerzo, frutas, bebidas
-- 👥 **Grupo de 10:** Tours aceptan grupos, posible descuento grupal (confirmar con operador)
-- 🚗 **Con vehículos propios:** NO recomendado - tour incluye transporte, logística completa
+- 🚗 **Vehículos propios:** NO necesarios - tour incluye todo
 
 ---
 
-## 🌊 OPCIÓN 1: RÍO BALSA (Clase II-III)
+## 🌊 RÍO BALSA (Clase II-III) ✅ CONFIRMADO
 
 ### Características
 - **Nivel de dificultad:** Principiante a intermedio
 - **Clase de rápidos:** II-III
 - **Distancia:** ~11 km de recorrido
 - **Edad mínima:** 6-8 años (según operador)
-- **Ideal para:** Familias, primera vez, combinación aventura + paisajes
+- **Ideal para:** Nuestro grupo - Combinación aventura + paisajes
+- **Operador:** Wave Rafting (confirmado)
 
 ### Ventajas
 - ✅ Rápidos emocionantes pero seguros
@@ -35,58 +39,59 @@
 - ✅ Secciones tranquilas para disfrutar naturaleza
 - ✅ Selva tropical exuberante
 - ✅ Observación de fauna (monos, perezosos, tucanes)
+- ✅ Perfecto para combinar con ATV en el mismo día
 
-### Desventajas
-- ⚠️ Menos desafiante que Sarapiquí
-- ⚠️ Si buscan adrenalina máxima, considerar Sarapiquí
-
-### Precio Estimado
-- **Por persona:** $65-75 USD
-- **Grupo de 10:** ~$650-750 USD total
+### Precio Confirmado
+- **Por persona (combo):** $136.79 USD (incluye ATV + Rafting + almuerzo)
+- **Grupo de 7:** $957.56 USD total (con 5% descuento grupal)
+- **Base rafting solo:** ~$78 + IVA, pero hacemos combo
 
 ---
 
-## 🌊 OPCIÓN 2: RÍO SARAPIQUÍ (Clase III-IV)
+## 🌊 RÍO SARAPIQUÍ (Clase III-IV) ❌ NO ELEGIDO
 
-### Características
+**Decidimos no elegir Sarapiquí para este viaje.**
+
+### Por qué no lo elegimos:
+- ⚠️ Más lejos de La Fortuna (~1h 20min) - Menos tiempo en río, más en transporte
+- ⚠️ Tour más largo (7-8h) - Difícil combinar con ATV
+- ⚠️ Más exigente físicamente - Preferimos balance aventura/accesibilidad
+- ⚠️ Elegimos Balsa para mejor timing con combo ATV
+
+### Características (referencia)
 - **Nivel de dificultad:** Intermedio a avanzado
 - **Clase de rápidos:** III-IV (hasta 30 rápidos continuos)
-- **Edad mínima:** 12-13 años (según operador)
-- **Ideal para:** Buscadores de adrenalina, experiencia previa recomendada
-
-### Ventajas
-- ✅ Rápidos clase IV más desafiantes y emocionantes
-- ✅ ~30 rápidos continuos
-- ✅ Río más prístino y salvaje
-- ✅ Mayor nivel de aventura
-- ✅ Temporada lluviosa = condiciones perfectas
-
-### Desventajas
-- ⚠️ Más lejos de La Fortuna (~1h 20min)
-- ⚠️ Más exigente físicamente
-- ⚠️ Edad mínima mayor (13 años)
-- ⚠️ Tour más largo por la distancia
-
-### Precio Estimado
-- **Por persona:** $75-85 USD
-- **Grupo de 10:** ~$750-850 USD total
+- **Edad mínima:** 12-13 años
+- **Distancia:** 1h 20min de La Fortuna
 
 ---
 
-## 🏢 OPERADORES RECOMENDADOS
+## 🏢 OPERADOR CONFIRMADO
 
-### 1. **WAVE Rafting** (Wave Expeditions) ⭐⭐⭐⭐⭐
+### ✅ **WAVE RAFTING** (Wave Expeditions) - CONFIRMADO ⭐⭐⭐⭐⭐
+
+**Nuestro operador elegido para Día 3 - Combo ATV + Rafting**
+
 - **Experiencia:** 20+ años en la industria
 - **Teléfono:** +506 2479-7262
-- **Website:** waveexpeditions.com | waverafting.com
-- **Facebook:** facebook.com/waveexp (9,150+ likes)
-- **Instagram:** @wave.expeditions
+- **Websites:**
+  - waveexpeditions.com
+  - waverafting.com
+- **Redes sociales:**
+  - Facebook: facebook.com/waveexp (9,150+ likes)
+  - Instagram: @wave.expeditions
 - **Dirección:** Corner Building behind the Catholic Church, La Fortuna, Alajuela
 - **TripAdvisor:** Excelentes reviews
-- **Precio:** Desde $78 USD + IVA por persona
-- **Ríos:** Balsa (II-III) y Sarapiquí (III-IV)
-- **Destacado:** Warner And Vanessa Expeditions, atención personalizada, operado por locales
+- **Combo confirmado:** ATV + Rafting Balsa (II-III)
+- **Precio confirmado:** $136.79 pp (7 personas, incluye ATV + Rafting + almuerzo + descuento 5%)
+- **Total grupo:** $957.56 (7 personas)
+- **Destacado:** Warner And Vanessa Expeditions, atención personalizada, operado por locales costarricenses
 - **Pago:** Tarjetas, PayPal, efectivo
+- **Grupo:** 7 personas (Brian, Angie, Ernesto, Elena, Mariana, Juan Carlos, Mary Rose)
+
+---
+
+## 🏢 OTROS OPERADORES (No utilizados)
 
 ### 2. **Arenal Rafting** ⭐⭐⭐⭐⭐
 - **Experiencia:** 10,000+ reseñas excelentes en TripAdvisor y Google
