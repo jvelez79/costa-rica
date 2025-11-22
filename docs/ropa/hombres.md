@@ -1,6 +1,6 @@
 # Planificación de Ropa - Viaje Costa Rica
 
-![Planificación de equipaje](assets/images/ropa-hero.jpg)
+![Planificación de equipaje](../assets/images/ropa-hero.jpg)
 
 **Fechas:** 23-29 Noviembre 2025 (6 días)
 
@@ -28,8 +28,8 @@
 - **Características:** Tropical, húmedo, lluvias frecuentes pero mejorando
 
 ## Actividades Específicas Confirmadas
-✅ **Naturaleza:** Volcán Arenal, Cascada La Fortuna, Volcán Irazú
-✅ **Aventura:** Aguas Termales, ATV (Cuatrimotos), Rafting Los Rápidos
+✅ **Naturaleza:** Volcán Arenal, Volcán Irazú
+✅ **Aventura:** Aguas Termales, Combo Wave Rafting (ATV + Rafting), Tour de Café
 ✅ **Ciudad/Cultural:** San José, Cartago, Basílica, Mercado Artesanías
 ⚠️ **IMPORTANTE:** Volcán Irazú requiere ropa de ABRIGO (frío extremo)
 
@@ -55,7 +55,7 @@
 - 1 pantalón casual/jeans ligero - Para ciudad
 - 1 pantalón que pueda ensuciarse - **Para ATV (se va a manchar de barro)**
 - 2 shorts deportivos/casuales - Clima cálido y actividades
-- 1 traje de baño - **ESENCIAL:** Aguas Termales (Día 2) + Cascada La Fortuna (Día 3)
+- 1 traje de baño - **ESENCIAL:** Aguas Termales (Día 2) + Rafting (Día 3)
 
 ### Ropa Interior y Calcetines (7-8 juegos)
 - 6 boxers/calzoncillos (puedes lavar a mitad de semana)
@@ -154,18 +154,18 @@ Con acceso a lavadora, puedes:
 - Toalla
 - Ropa cómoda para después
 
-### Martes 25 Nov - ATV + Cascada La Fortuna
+### Martes 25 Nov - Combo Wave Rafting (ATV + Rafting)
 **Mañana - ATV:**
 - Pantalón que pueda ensuciarse
 - Camiseta que pueda mancharse
 - Zapatos cerrados (tenis)
 - Gafas de sol
 
-**Tarde - Cascada:**
+**Tarde - Rafting:**
 - **Traje de baño** debajo de ropa
-- Pantalón corto
-- Zapatos con buen agarre
-- Toalla
+- Ropa que pueda mojarse
+- Zapatos deportivos (pueden mojarse)
+- Toalla secado rápido
 - Bolsa impermeable para celular
 
 ### Miércoles 26 Nov - City Tour San José
@@ -176,7 +176,7 @@ Con acceso a lavadora, puedes:
 - Mochila pequeña
 - Gorra
 
-### Jueves 27 Nov - Cartago + Volcán Irazú ❄️
+### Jueves 27 Nov - Cartago + Volcán Irazú + Cena Thanksgiving 🦃❄️
 **Todo el día - FRÍO:**
 - ⚠️ **Pantalones largos** (no shorts)
 - **Camiseta + camisa manga larga + chaqueta GRUESA**
@@ -186,11 +186,14 @@ Con acceso a lavadora, puedes:
 - Bufanda (opcional)
 - **CAPAS** - clima variable
 
-### Viernes 28 Nov - Día Libre San José
-**Según actividades elegidas:**
-- Casual urbano
-- Tenis cómodos
-- Ropa que no hayas usado mucho
+### Viernes 28 Nov - Tour de Café + Día Libre San José
+**Tour de Café (mañana):**
+- Ropa casual cómoda
+- Tenis
+- Gorra
+
+**Tarde libre:**
+- Casual urbano según actividades
 - **Día para lavar ropa** si necesitas
 
 ### Sábado 29 Nov - Regreso
@@ -212,16 +215,16 @@ Con acceso a lavadora, puedes:
 - **Oscuros/Neutros:** Negro, gris, azul marino - Ocultan manchas, combinan fácil
 - **Evitar:** Blanco (se ensucia rápido en naturaleza)
 
-### Check Final Antes de Empacar
-- ✅ Chaqueta GRUESA para Volcán Irazú (41-50°F / 5-10°C)
-- ✅ Gorro/beanie + calcetines largos para el frío
-- ✅ Traje de baño (usar 2 veces: aguas termales + cascada)
-- ✅ Pantalón para ensuciar (ATV con barro)
-- ✅ Botas de hiking impermeables
-- ✅ Chaqueta impermeable/rompevientos
-- ✅ 2 toallas de secado rápido
-- ✅ Bolsa impermeable para electrónicos
-- Verificar que cada prenda sirva para 2+ actividades
+### Verificación Final Antes de Empacar
+- ⚠️ **Chaqueta GRUESA** para Volcán Irazú (41-50°F / 5-10°C) - NO negociable
+- ⚠️ **Gorro/beanie + calcetines largos** para el frío del Irazú
+- **Traje de baño** (usar 2 veces: aguas termales Día 2 + rafting Día 3)
+- **Pantalón para ensuciar** (ATV con barro)
+- **Botas de hiking impermeables** - Esencial para volcanes
+- **Chaqueta impermeable/rompevientos** - Lluvias frecuentes
+- **2 toallas de secado rápido** (microfibra)
+- **Bolsa impermeable** para electrónicos
+- Verificar que cada prenda sirva para múltiples actividades
 - Confirmar que todo sea ligero y de secado rápido (excepto ropa de abrigo)
 
 ---
