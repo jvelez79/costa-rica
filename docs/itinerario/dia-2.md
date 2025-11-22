@@ -43,7 +43,7 @@
 ## Notas Importantes
 
 - ⏰ **Salida TEMPRANO 6:30 AM** - Check-out hotel 6:00 AM, llenar tanques 6:15 AM
-- 🚗 **Viaje DIRECTO a La Fortuna** - Sin paradas en Sarchí/Zarcero (3 horas)
+- 🚗 **Viaje DIRECTO a La Fortuna** - (3 horas)
 - 🌋 **VOLCÁN PRIMERO** - Llegar 10:00 AM = mejor visibilidad (antes de nubes de tarde)
 - 🌧️ **Clima:** Lluvia probable 2-4 PM - Terminamos volcán antes de lluvia
 - ♨️ **Aguas Termales 2:15-6:15 PM** - Baldi recomendado ($42/pp solo termales) - NO requiere reserva
@@ -55,27 +55,3 @@
 
 ---
 
-## ¿Hay espacio para más?
-
-**NO - Día completo y bien estructurado**
-
-Este es un día de **transición de región** con 3.5 horas de manejo más dos actividades principales (volcán y aguas termales). El nuevo itinerario está optimizado perfectamente:
-
-- **Mañana temprano:** Traslado (3.5h) para llegar a volcán a las 10 AM
-- **Media mañana:** Volcán Arenal (2.5h) - Antes de lluvia, mejor visibilidad
-- **Tarde:** Aguas termales (4h) - Relajación después de caminar
-- **Noche:** Check-in temprano (6:30-7 PM) - Tiempo para descansar
-
-**✅ Ventajas del nuevo timing:**
-- Mejor visibilidad del volcán (10 AM vs 2 PM anterior)
-- Evitan lluvia típica de 2-4 PM en el volcán
-- Check-in normal en Airbnb (no late check-in a las 10 PM)
-- Más tiempo para descansar antes del Día 3 (día muy activo)
-
-**Recomendación:** NO agregar actividades. El itinerario está perfectamente balanceado entre manejo, actividades y descanso. Mantener ritmo relajado para disfrutar cada experiencia.
-
-**Flexibilidad existente:**
-- Elegir entre diferentes opciones de aguas termales según presupuesto/preferencia
-- Decidir tipo de cena (restaurante, delivery, o cocinar en Airbnb)
-
----
