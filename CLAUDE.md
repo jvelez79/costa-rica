@@ -230,6 +230,388 @@ Antes de commit, verificar:
 
 ---
 
+## 📅 FORMATO DE ITINERARIOS
+
+### Contexto
+Los itinerarios (archivos `dia-X.md`) usan un formato conciso tipo **timeline** que prioriza escaneo visual rápido y claridad. Este formato fue diseñado para ser:
+- ✅ Escaneable en 30 segundos (100-150 líneas)
+- ✅ Enfocado en información accionable
+- ✅ Mobile-friendly
+- ✅ Tabla horaria completa visible de un golpe
+
+---
+
+### 📐 Estructura Completa del Formato
+
+```markdown
+# Día X: [Día de semana] [Número] [Mes] [Año]
+
+**[Descripción breve del día en 5-10 palabras]**
+
+---
+
+## Timeline del Día
+
+| Hora | Actividad | Ubicación |
+|------|-----------|-----------|
+| [Hora inicio] | [Actividad principal] | [Lugar] |
+| [Hora-Hora] | [Actividad con duración] | [Lugar] |
+| [Hora] | [Milestone importante] | [Lugar] |
+
+---
+
+## Resumen del Día
+
+- **Duración:** [X horas] ([hora inicio] - [hora fin])
+- **Manejo total:** ~[X km] ([X horas])
+  - [Ruta 1]: [distancia], [tiempo]
+  - [Movimientos locales]: [detalles]
+- **Actividades principales:**
+  - [Actividad 1] ([duración])
+  - [Actividad 2] ([duración])
+  - [Actividad 3] (opcional)
+- **Comidas:**
+  - Desayuno: [Lugar/opción] ($X-Y/pp)
+  - Almuerzo: [Lugar/opción] ($X-Y/pp)
+  - Cena: [Lugar/opción] ($X-Y/pp)
+
+---
+
+## Notas Importantes
+
+- [Emoji] **[Tema clave]:** [Detalle breve accionable]
+- [Emoji] **[Tema clave]:** [Detalle breve accionable]
+- [Emoji] **[Tema clave]:** [Detalle breve accionable]
+- [Emoji] **[Tema clave]:** [Detalle breve accionable]
+- [Emoji] **[Tema clave]:** [Detalle breve accionable]
+
+---
+
+## ¿Hay espacio para más?
+
+**[SÍ/NO] - [Resumen de flexibilidad]**
+
+[Análisis breve de la flexibilidad del día]
+
+[Opciones específicas si aplica:]
+- **Opción 1:** [Actividad adicional posible]
+  - [Pros/contras breves]
+- **Opción 2:** [Alternativa]
+  - [Pros/contras breves]
+
+**Recomendación:** [Sugerencia clara basada en contexto del viaje]
+
+---
+```
+
+---
+
+### 🎯 Convenciones Específicas
+
+#### 1. Título del Archivo
+- **Formato:** `# Día X: [Día semana] [Número] [Mes] [Año]`
+- **Ejemplo:** `# Día 1: Domingo 23 Noviembre 2025`
+- **Regla:** NO usar "Timeline Día X" (ese formato era para archivos separados que ya no existen)
+
+#### 2. Subtítulo Descriptivo
+- **Formato:** `**[Descripción breve del día]**`
+- **Longitud:** 5-10 palabras máximo
+- **Estilo:** Puede incluir emojis para claridad visual
+- **Ejemplos:**
+  - `**Llegada a Costa Rica vía Panamá ✈️**`
+  - `**Aventura total: ATV, Rafting y Cascadas 🏍️🚣**`
+  - `**Traslado a La Fortuna + Volcán Arenal 🌋**`
+
+#### 3. Tabla de Timeline
+
+**Columnas fijas:**
+```markdown
+| Hora | Actividad | Ubicación |
+```
+
+**Formato de Hora:**
+- Hora específica: `3:00 AM`, `7:30 PM`
+- Rango de tiempo: `7:30-10:00 AM`, `1:00-3:00 PM`
+- Usar formato 12h (AM/PM) siempre
+
+**Formato de Actividad:**
+- Actividades importantes en **negrita**: `**Check-out Hotel Aloft**`
+- Emojis para categorizar:
+  - ✈️ Vuelos
+  - 🚗 Transporte/manejo
+  - 🏍️ ATV/motos
+  - 🚣 Rafting/acuáticos
+  - 🌋 Volcanes/naturaleza
+  - 🏨 Alojamiento
+  - 🍽️ Comidas
+- Detalles breves entre paréntesis si necesario: `Rafting Los Rápidos (Clase III-IV)`
+
+**Formato de Ubicación:**
+- Concisa pero específica
+- Ejemplos: `Aeropuerto SJO`, `Ruta 1 Norte (130 km)`, `Hotel Aloft San José`
+
+#### 4. Resumen del Día
+
+**Subsecciones obligatorias:**
+
+**A. Duración**
+```markdown
+- **Duración:** 16 horas (3:00 AM - 7:00 PM)
+```
+
+**B. Manejo total**
+```markdown
+- **Manejo total:** ~135 km (3.5 horas)
+  - San José → La Fortuna: 130 km, 3-3.5 horas
+  - Movimientos locales La Fortuna: 5 km
+```
+- Incluir solo si hay manejo ese día
+- Desglosar rutas principales
+
+**C. Actividades principales**
+```markdown
+- **Actividades principales:**
+  - Volcán Arenal (2 horas)
+  - Aguas termales Tabacón (3-4 horas)
+  - Cena en Don Rufino
+```
+- Listar 2-5 actividades clave
+- Incluir duración estimada entre paréntesis
+
+**D. Comidas**
+```markdown
+- **Comidas:**
+  - Desayuno: En vuelo o aeropuerto Panamá ($8-12/pp)
+  - Almuerzo: Sodas en La Fortuna ($8-12/pp)
+  - Cena: Don Rufino o Anch'io ($15-25/pp)
+```
+- Especificar dónde
+- Incluir rango de precio por persona
+
+#### 5. Notas Importantes
+
+**Formato:**
+```markdown
+- [Emoji] **[Tema]:** [Detalle]
+```
+
+**Límites:**
+- 5-10 bullets máximo
+- Máximo 1-2 líneas por nota
+- Solo información **accionable** o **crítica**
+
+**Emojis recomendados por categoría:**
+
+| Emoji | Categoría | Uso |
+|-------|-----------|-----|
+| ✈️ | Vuelos | Horarios, escalas, confirmaciones |
+| 🚗 | Vehículos | Pickup, drop-off, rutas, parking |
+| 🏨 | Alojamiento | Check-in, check-out, confirmaciones |
+| 💰 | Presupuesto | Costos estimados del día |
+| 🌡️ | Clima | Temperatura, lluvia, condiciones |
+| ⏰ | Horarios | Tiempos críticos, madrugadas |
+| ⚠️ | Advertencias | Precauciones, seguridad |
+| 🧥 | Ropa | Qué llevar, capas, impermeable |
+| 📦 | Preparativos | Empacar, confirmar, verificar |
+| 😴 | Descanso | Dormir temprano, energía |
+| 🍽️ | Comida | Restaurantes, reservas |
+| 📱 | Contacto | Números, WhatsApp, emergencias |
+
+**Ejemplos:**
+```markdown
+- ✈️ **Vuelo muy temprano:** Despertar 3:00 AM, salida al aeropuerto 3:30 AM
+- 🚗 **Pickup vehículos:** 2 vehículos ~7:00 PM en Aeropuerto SJO
+- 💰 **Presupuesto día:** $40-60 pp (vuelos no incluidos)
+- 🌡️ **Clima La Fortuna:** 75-85°F, posible lluvia tarde
+- ⚠️ **Check-out temprano:** Confirmar con Casa Ayarcos para 6:00 AM
+```
+
+#### 6. "¿Hay espacio para más?"
+
+**Propósito:** Analizar flexibilidad del día para agregar actividades
+
+**Primera línea - formato fijo:**
+```markdown
+**SÍ - [razón]**
+o
+**NO - [razón]**
+```
+
+**Ejemplos:**
+```markdown
+**SÍ - Día de llegada tranquilo con tarde/noche libre**
+
+**NO - Día completamente lleno, salida muy temprano**
+
+**LIMITADO - Posible agregar algo pequeño en la tarde**
+```
+
+**Contenido:**
+- 2-3 párrafos máximo analizando el día
+- Si hay espacio, listar opciones específicas con pros/contras breves
+- Terminar con **Recomendación:** clara
+
+**Ejemplo completo:**
+```markdown
+## ¿Hay espacio para más?
+
+**SÍ - Tarde/noche completamente libre después de check-in**
+
+Llegamos al Hotel Aloft ~7:00-8:00 PM después de recoger vehículos.
+El resto de la noche está libre para explorar San José o descansar.
+
+**Opciones:**
+- **Cena en Barrio Escalante:** Zona gastronómica a 15 min del hotel
+  - Pro: Excelente comida, vida nocturna
+  - Contra: Necesita energía después de viaje largo
+
+- **Descansar en hotel:** Cenar algo ligero y dormir temprano
+  - Pro: Recuperar energía para Día 2 (muy activo)
+  - Contra: Perdemos primera noche en Costa Rica
+
+**Recomendación:** Cena ligera cerca del hotel, dormir temprano.
+Día 2 sale 9:00 AM hacia La Fortuna con actividades todo el día.
+```
+
+---
+
+### 📏 Límites de Longitud
+
+**Archivo completo:**
+- ✅ **MÍNIMO:** 80 líneas (días muy simples)
+- ✅ **IDEAL:** 100-130 líneas
+- ✅ **MÁXIMO:** 150 líneas
+- ❌ Si pasa 150 líneas → condensar o dividir contenido
+
+**Por sección:**
+- **Tabla timeline:** 10-25 filas (depende del día)
+- **Resumen del día:** 8-15 líneas
+- **Notas importantes:** 5-10 bullets (máximo 15 líneas total)
+- **¿Hay espacio para más?:** 10-25 líneas
+
+**Principio:** Si no cabe en ~100-150 líneas, el contenido es demasiado detallado para el formato timeline. Condensar a lo esencial.
+
+---
+
+### ✅ Checklist de Verificación
+
+Antes de commit de un itinerario, verificar:
+
+**Estructura:**
+- [ ] Título formato correcto: `# Día X: [Día] [Número] [Mes] [Año]`
+- [ ] Subtítulo descriptivo (5-10 palabras)
+- [ ] Tabla con 3 columnas: Hora | Actividad | Ubicación
+- [ ] Sección "Resumen del Día" con 4 subsecciones
+- [ ] Sección "Notas Importantes" con 5-10 bullets
+- [ ] Sección "¿Hay espacio para más?" con análisis
+
+**Contenido:**
+- [ ] Horarios en formato 12h (AM/PM)
+- [ ] Precios incluyen "$" y "/pp" cuando aplica
+- [ ] Distancias en km
+- [ ] Temperaturas en °F (°C opcional)
+- [ ] Emojis usados estratégicamente (no excesivo)
+- [ ] Información accionable, no descriptiva solamente
+
+**Longitud:**
+- [ ] Total archivo: 80-150 líneas
+- [ ] Tabla timeline: 10-25 filas
+- [ ] Cada nota importante: 1-2 líneas máximo
+
+**Calidad:**
+- [ ] Información crítica destacada en Notas Importantes
+- [ ] Costos estimados incluidos
+- [ ] Análisis de flexibilidad útil y específico
+- [ ] Recomendación final clara
+
+---
+
+### 🚫 Errores Comunes a Evitar
+
+❌ **NO usar formato "Timeline Día X" en título**
+- Ese era para archivos separados que ya no existen
+- Usar solo: `# Día X: [Fecha]`
+
+❌ **NO incluir links circulares**
+- No incluir `[Ver Itinerario Detallado](dia-X.md)` al final
+- Ya no hay archivos separados de "timeline" vs "detallado"
+
+❌ **NO exceder límites de longitud**
+- Si pasa 150 líneas, estás incluyendo demasiado detalle
+- Condensar a información esencial
+
+❌ **NO usar checkboxes `- [ ]` en Notas Importantes**
+- Formato público, no es lista de tareas personal
+- Usar bullets informativos: `- ✈️ **Tema:** Detalle`
+
+❌ **NO incluir metadata técnica**
+- No incluir "Última actualización", "Nivel de confianza", etc.
+- Solo contenido útil para viajeros
+
+❌ **NO repetir información entre secciones**
+- Tabla tiene hora/actividad/ubicación
+- Resumen tiene stats agregadas
+- Notas tienen solo info crítica/accionable
+- No duplicar lo mismo en múltiples lugares
+
+---
+
+### 📋 Template Vacío Listo para Usar
+
+```markdown
+# Día X: [Día] [Número] [Mes] [Año]
+
+**[Descripción del día en 5-10 palabras]**
+
+---
+
+## Timeline del Día
+
+| Hora | Actividad | Ubicación |
+|------|-----------|-----------|
+|  |  |  |
+|  |  |  |
+
+---
+
+## Resumen del Día
+
+- **Duración:**
+- **Manejo total:**
+  -
+- **Actividades principales:**
+  -
+  -
+- **Comidas:**
+  - Desayuno:
+  - Almuerzo:
+  - Cena:
+
+---
+
+## Notas Importantes
+
+-
+-
+-
+-
+-
+
+---
+
+## ¿Hay espacio para más?
+
+**[SÍ/NO/LIMITADO] - [razón]**
+
+[Análisis]
+
+**Recomendación:**
+
+---
+```
+
+---
+
 ## 🗓️ Contexto del Viaje
 
 ### Información Clave
@@ -1145,5 +1527,5 @@ Contenido...
 ---
 
 **Creado:** 9 Noviembre 2025
-**Última actualización:** 16 Noviembre 2025
+**Última actualización:** 21 Noviembre 2025
 **Mantenido por:** Claude AI + Juan Carlos
