@@ -898,6 +898,36 @@ docs/investigacion/
 - **La Fortuna:** Ver itinerario.md líneas 376-381
 - **Volcán Irazú:** Ver itinerario.md líneas 383-385
 
+### Recursos de Clima/Temperatura (AccuWeather)
+
+Para obtener información actualizada de temperatura y clima en noviembre:
+
+- **La Fortuna:**
+  - https://www.accuweather.com/en/cr/fortuna/111932/november-weather/111932
+  - Temperatura típica: 75-85°F (24-29°C)
+  - Época lluviosa, lluvia probable en tardes
+
+- **San José:**
+  - https://www.accuweather.com/en/cr/san-jose/1-115295_1_al/november-weather/1-115295_1_al
+  - Temperatura típica: 59-75°F (15-24°C)
+  - Noches frescas, llevar suéter
+
+- **Volcán Irazú:**
+  - https://www.accuweather.com/en/cr/san-juan-chicoa/112478/november-weather/112478
+  - Temperatura típica: 41-50°F (5-10°C)
+  - **FRÍO extremo**, ropa de abrigo esencial
+
+- **Volcán Arenal (Pueblo Nuevo):**
+  - https://www.accuweather.com/en/cr/pueblo-nuevo/111983/november-weather/111983
+  - Similar a La Fortuna: 75-85°F (24-29°C)
+  - Zona volcánica, puede variar
+
+**Uso recomendado:**
+- Verificar pronóstico 7-10 días antes del viaje
+- Actualizar recomendaciones de ropa según pronóstico real
+- Considerar lluvia probable en época (noviembre = época lluviosa)
+- Usar para confirmar temperaturas en itinerarios y archivos de investigación
+
 ### Ropa Recomendada por Día
 - Ver planificacion-ropa.md sección "Plan Día por Día"
 - Cross-ref con itinerario.md para actividades
