@@ -9,16 +9,18 @@
 ## 📋 Información Clave
 
 - ✅ **CONFIRMADO:** Operador Wave Rafting | Río Balsa (Clase II-III)
+- 📋 **Número de reserva:** R52942
+- 📍 **Punto de encuentro:** Wave Office, La Fortuna (7:30 AM - inicio con ATV)
 - 👥 **Grupo:** 7 personas (parte del combo ATV + Rafting)
   - Brian, Angie, Ernesto, Elena, Mariana, Juan Carlos, Mary Rose
   - **Nota:** Verónica y Heriberto solo hacen ATV (no rafting)
 - ✅ **Noviembre = EXCELENTE temporada** (temporada lluviosa = niveles de agua altos + rápidos emocionantes)
 - 💰 **Costo confirmado:** $136.79 pp (incluye ATV + Rafting + almuerzo con 5% descuento)
 - 💵 **Total rafting (7 personas):** Incluido en combo $957.56
-- ⏰ **Duración:** 4-5 horas (12:00 PM - 4:00 PM)
-- 🚐 **Transporte incluido:** Continúan del ATV, drop-off en Casa Mañana
+- ⏰ **Duración:** 4-5 horas (aprox 10:30 AM - 2:30 PM después del ATV)
+- 🚐 **Transporte:** Continúan desde punto ATV, drop-off en Wave Office
 - ✅ **Incluye:** Equipo completo, guías certificados, almuerzo, frutas, bebidas
-- 🚗 **Vehículos propios:** NO necesarios - tour incluye todo
+- 🚗 **Vehículos propios:** Dejar estacionados en Wave Office
 
 ---
 
@@ -317,71 +319,90 @@
 - ✅ Ya van a estar mojados de todas formas
 - ✅ Operadores proveen tours bajo lluvia (es seguro)
 
-### Qué Llevar
-**ESENCIAL:**
-- 🩱 Traje de baño (llevar puesto bajo ropa)
-- 👟 Zapatos que se puedan mojar (tenis viejos, sandalias deportivas con correa)
-- 🧴 Bloqueador solar (resistente al agua)
-- 👕 Cambio de ropa seca (dejar en van)
-- 💊 Medicamentos si necesitan (en bolsa impermeable)
+### Qué Llevar (Según Operador Wave Rafting)
+
+**ESENCIAL (OBLIGATORIO):**
+- 🩱 **Traje de baño** (llevar puesto bajo ropa)
+- 👕 **Camiseta** o ropa cómoda/deportiva que se pueda mojar
+- 👟 **Zapatos de agua o cerrados que se puedan mojar** (tenis viejos, sandalias deportivas con correa)
+  - ⚠️ **NO FLIP FLOPS** (sandalias tipo chancla) - Prohibido por operador
+- 🧴 **Bloqueador solar** (resistente al agua)
+- 👕 **Cambio de ropa completo** (dejar en van)
 
 **RECOMENDADO:**
+- 🎒 Bolsas plásticas para ropa mojada
 - 📸 Cámara waterproof o GoPro (si tienen)
 - 🕶️ Correa para lentes (si usan)
 - 💵 Efectivo para propinas ($10-15 pp)
+- 💊 Medicamentos personales (en bolsa impermeable)
 
 **NO LLEVAR:**
 - ❌ Joyas, relojes caros
 - ❌ Celulares (a menos que sean waterproof)
 - ❌ Objetos de valor (pueden perderse)
+- ❌ Sandalias tipo flip flops (prohibido)
 
-### Restricciones
-- ⚠️ Edad mínima: 6-8 años (Balsa) o 13 años (Sarapiquí)
-- ⚠️ No recomendado: Mujeres embarazadas
-- ⚠️ No recomendado: Problemas de espalda/cuello severos
-- ⚠️ Condición física: Moderada (poder remar 2.5 horas con descansos)
+### Restricciones (Confirmadas por Wave Rafting)
+
+**NO PERMITIDO:**
+- ❌ **Mujeres embarazadas**
+- ❌ **Postoperatorios recientes, quebraduras o lesiones**
+- ❌ **Presión alta/baja o problemas cardíacos severos**
+- ❌ **Personas bajo influencia de alcohol o estupefacientes**
+
+**Restricciones de Edad:**
+- ⚠️ **Rafting Clase II-III (Balsa):** Edad mínima 8 años / Edad máxima recomendada 65 años
+- ⚠️ **Rafting Clase III-IV (Sarapiquí):** Edad mínima 12 años / Edad máxima recomendada 55 años
+
+**Requisitos:**
+- ✅ Condición física moderada (poder remar 2.5 horas con descansos)
+- ✅ Uso de zapatos obligatorio (NO flip flops)
+- ✅ Seguir instrucciones de seguridad del guía
 
 ### Seguridad
+
+**Certificaciones y Protocolos:**
 - ✅ Todos los operadores tienen licencia y certificación
 - ✅ Guías certificados en primeros auxilios, CPR, rescate en aguas
 - ✅ Equipo inspeccionado regularmente
 - ✅ Briefing de seguridad obligatorio
 - ✅ Ratio guías:pasajeros adecuado
 
+**Seguro (Wave Rafting):**
+- 🏥 **Cubre:** Atención inmediata y estabilización del paciente
+- ⚠️ **NO cubre:** Tratamientos médicos prolongados, hospitalizaciones, procedimientos, terapias o cirugías (responsabilidad del cliente)
+- 📋 **Recomendación:** Todos deben tener seguro de viaje personal que cubra actividades de aventura
+
 ---
 
-## 📞 PRÓXIMOS PASOS - ACCIÓN REQUERIDA
+## ✅ RESERVA CONFIRMADA
 
-### 1. **Decidir Río** (URGENTE)
-- [ ] ¿Balsa (II-III) o Sarapiquí (III-IV)?
-- [ ] **Recomendación:** Balsa por razones arriba
+### Datos de Confirmación
 
-### 2. **Contactar Operador para Reserva Grupo** (URGENTE)
-Opciones recomendadas:
-- [ ] **WAVE Rafting:** +506 2479-7262 | waveexpeditions.com
-- [ ] **Arenal Rafting:** +506 8934-2626 (WhatsApp) | arenalrafting.com
-- [ ] **Desafío Adventures:** desafiocostarica.com
+- ✅ **Número de reserva:** R52942
+- ✅ **Operador:** Wave Rafting (Wave Expeditions)
+- ✅ **Fecha:** Martes 25 Noviembre 2025
+- ✅ **Río:** Balsa (Clase II-III)
+- ✅ **Participantes:** 7 personas (combo ATV + Rafting)
+- ✅ **Precio:** $957.56 total (con descuento 5%)
+- ✅ **Incluye:** ATV + Rafting + Almuerzo + Equipo + Guías
+- ✅ **Punto inicio:** Wave Office, 7:30 AM
 
-**Preguntar al reservar:**
-- ¿Precio final para grupo de 10 personas? (descuento grupal?)
-- ¿Horarios disponibles 25 Nov? (preferencia salida temprana 7:30-8:00 AM)
-- ¿Qué incluye exactamente?
-- ¿Fotos incluidas o costo adicional?
-- ¿Política de cancelación?
-- ¿Confirmar pickups desde Casa Mañana Airbnb en La Fortuna?
-- ¿Pago: depósito o total por adelantado?
-- ¿Métodos de pago aceptados?
+### Política de Cancelación
 
-### 3. **Confirmar Detalles Grupo** (ANTES DE RESERVAR)
-- [ ] Verificar que todos tengan edad mínima (6+ para Balsa, 13+ para Sarapiquí)
-- [ ] Consultar restricciones médicas individuales
-- [ ] Confirmar interés/comodidad con nivel de rápidos
-- [ ] Definir presupuesto aceptable ($70-80 pp)
+- 🚫 **Cancelación:** Mínimo 24 horas antes del tour
+  - Enviar por escrito a: info@waveexpeditions.com
+  - **Penalización 100%** si no se cumple el plazo
+- ⚠️ **Grupos >10 personas:** Requiere 48 horas de anticipación
+- 📧 **Método:** Solo por email (debe ser por escrito)
 
-### 4. **Coordinar con Cascada La Fortuna** (DÍA 3 TARDE)
-- [ ] Si hacen rafting AM, planear Cascada PM
-- [ ] Ver investigacion-cascada-la-fortuna.md (PENDIENTE crear)
-- [ ] Considerar energía del grupo después de rafting
+### Preparativos Recomendados
+
+- [ ] Verificar que todos cumplen restricciones de edad (8-65 años) y salud
+- [ ] Confirmar que todos tienen seguro de viaje que cubra actividades de aventura
+- [ ] Revisar lista de qué llevar (traje de baño, zapatos cerrados, protector solar)
+- [ ] Empacar cambio de ropa completo
+- [ ] Llevar efectivo para propinas ($10-15 pp)
 
 ---
 
