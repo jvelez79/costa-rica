@@ -327,16 +327,224 @@ Los restaurantes mid-range ofrecen buen balance entre calidad, variedad y precio
 
 ---
 
+## Chanta Verde
+
+**Tipo:** Fusión internacional upscale
+**Precio:** $20-25/persona
+
+### Contacto
+- **Ubicación:** A las afueras de La Fortuna (a unos minutos en carro)
+
+### Horarios
+- Verificar (cena principalmente)
+
+### Menú Especialidades
+- **Chicken cordon bleu** (muy recomendado)
+- **Ceviche** (excelente)
+- Fusión internacional con twist costarricense
+- Opciones veganas y para carnívoros
+- Platos saludables y deliciosos
+
+### Ambiente
+- **Boho chic elegante** pero playful
+- Espacio bien diseñado
+- Chef profesional con experiencia
+
+### Parking
+- Disponible (ubicación fuera del centro)
+
+### Para Grupos
+- Ambiente más íntimo
+- Reservación recomendada para 10 personas
+- Menú variado para diferentes gustos
+
+### Pros
+- ✅ Comida upscale a precio razonable
+- ✅ Chef profesional
+- ✅ Opciones veganas y carnívoras
+- ✅ Platos inventivos y sabrosos
+- ✅ Buen ambiente (boho chic)
+- ✅ Dos entradas upscale + bebidas = <$45 total
+
+### Contras
+- ❌ Ubicación fuera del pueblo (requiere vehículo)
+- ⚠️ Verificar horarios antes de ir
+
+**Calificación:** ⭐⭐⭐⭐⭐ Excelente opción upscale-casual
+
+**Presupuesto grupo:** $225 (10 personas × $22.50 promedio)
+
+---
+
+## Organico Fortuna
+
+**Tipo:** Restaurant orgánico/saludable
+**Precio:** $15-20/persona
+
+### Contacto
+- **Ubicación:** La Fortuna centro
+
+### Horarios
+- Verificar (desayuno y almuerzo principalmente)
+
+### Menú
+- **100% ingredientes orgánicos locales**
+- Opciones veganas y vegetarianas abundantes
+- Comida ligera y saludable
+- Fresh bowls, ensaladas, smoothies
+- Todo hecho con ingredientes de la zona
+
+### Mercadito
+- **Tienen mercadito en la parte de atrás**
+- Venden productos orgánicos locales
+- Ideal para comprar snacks saludables
+
+### Ambiente
+- **Vibe limpio y fresco**
+- Diseño moderno y minimalista
+- Perfecto para desayuno o almuerzo ligero
+
+### Parking
+- Verificar (centro La Fortuna)
+
+### Para Grupos
+- Espacio puede ser limitado
+- Perfecto para comensales con dieta especial
+- Opciones abundantes para veganos/vegetarianos
+
+### Pros
+- ✅ 100% orgánico y local
+- ✅ Excelente para veganos/vegetarianos
+- ✅ Comida fresca y saludable
+- ✅ Tienen mercadito para compras
+- ✅ Ambiente limpio y agradable
+
+### Contras
+- ❌ Precios más altos (por ingredientes orgánicos)
+- ❌ Espacio puede ser limitado para grupo 10
+- ⚠️ Más para desayuno/almuerzo que cena
+
+**Calificación:** ⭐⭐⭐⭐⭐ Perfecto para opciones saludables
+
+**Presupuesto grupo:** $175 (10 personas × $17.50)
+
+**Mejor para:** Desayuno o almuerzo saludable, veganos/vegetarianos
+
+---
+
+## Beer Land
+
+**Tipo:** Craft beer bar con comida
+**Precio:** $15-20/persona (comida) + cervezas
+
+### Menú
+- **Especialidad: Craft beers** (muchas opciones en tap)
+- Ofrecen flights (muestras de varias cervezas)
+- Comida disponible (bien reseñada)
+- Para llevar: Cervezas disponibles
+
+### Servicio
+- **Servicio excelente** al llegar
+- Staff explica todas las cervezas disponibles
+- Muy conocedores sobre sus productos
+
+### Parking
+- Verificar disponibilidad
+
+### Para Grupos
+- Perfecto para amantes de cerveza artesanal
+- Ambiente relajado tipo pub
+- Pueden hacer reserva de mesa
+
+### Pros
+- ✅ Mejor selección de craft beer en La Fortuna
+- ✅ Servicio excepcional
+- ✅ Ofrecen flights para probar varias
+- ✅ Cervezas para llevar
+- ✅ Comida también es buena
+
+### Contras
+- ❌ Más caro que Imperial (cerveza nacional)
+- ⚠️ No probaron la comida (pero reviews son positivas)
+
+**Calificación:** ⭐⭐⭐⭐⭐ Imperdible para amantes de craft beer
+
+**Presupuesto grupo:** $200 (10 personas × $20, incluyendo cervezas)
+
+**Mejor para:** Tarde/noche relajada con cervezas artesanales
+
+---
+
+## Restaurant Foreno
+
+**Tipo:** Rotisserie chicken & sharing plates
+**Precio:** $12-18/persona
+
+### Contacto
+- **Ubicación:** Centro de La Fortuna (calle principal)
+
+### Horarios
+- Verificar (almuerzo y cena)
+
+### Menú Especialidades
+- **Pollo rotisserie** (especialidad de la casa, visible desde ventana)
+- **Combo sharing plates** ⭐ (más popular):
+  - Pollo asado
+  - Tortillas
+  - Patacones (plátanos fritos)
+  - **Frijoles refritos** (estrella del show - deliciosos)
+  - Plátanos
+  - Ensalada
+- Sharing plate para 2 es suficiente para dos personas
+
+### Ambiente
+- **Trendy y social media-friendly**
+- Decoración con faux plants y neon signs
+- Pollo rotisserie visible desde ventana (atractivo visual)
+- Ambiente moderno y casual
+
+### Parking
+- Centro de La Fortuna (parking público cercano)
+
+### Para Grupos
+- **Ideal para grupos** (sharing plates concept)
+- Pueden juntar mesas
+- Comida abundante y económica
+
+### Pros
+- ✅ Excelente precio/calidad
+- ✅ Sharing plates perfectas para grupos
+- ✅ **Frijoles refritos excepcionales**
+- ✅ Porciones generosas
+- ✅ Ambiente fun y trendy
+- ✅ Ubicación central
+
+### Contras
+- ❌ Muchas plantas artificiales (en lugar de naturales)
+- ⚠️ Puede estar ocupado (es popular)
+
+**Calificación:** ⭐⭐⭐⭐⭐ Excelente opción casual y económica
+
+**Presupuesto grupo:** $150 (10 personas × $15, con sharing plates)
+
+**Mejor para:** Almuerzo o cena casual en grupo
+
+---
+
 ## Tabla Comparativa Rápida
 
 | Restaurante | Precio pp | Tipo | Parking | Reserva | Rating |
 |-------------|-----------|------|---------|---------|--------|
 | **Rio Lounge** | $9-12 | En parque cascada | ✅ Gratis | Opcional | ⭐⭐⭐⭐ |
 | **Mercadito Arenal** | $10-15 | Food court | ✅ Amplio | No necesaria | ⭐⭐⭐⭐ |
+| **Restaurant Foreno** | $12-18 | Rotisserie | Público | No necesaria | ⭐⭐⭐⭐⭐ |
+| **Organico Fortuna** | $15-20 | Orgánico/saludable | ⚠️ Verificar | Opcional | ⭐⭐⭐⭐⭐ |
+| **Beer Land** | $15-20 | Craft beer + comida | ⚠️ Verificar | Opcional | ⭐⭐⭐⭐⭐ |
 | **Lava Lounge** | $15-25 | Bar & grill | ✅ Cerca | Recomendada | ⭐⭐⭐⭐ |
 | **Kappa Sushi** | $15-20 | Sushi | Público | Recomendada | ⭐⭐⭐⭐ |
-| **Nenes** | $15-25 | Tico/Internacional | ? Verificar | Recomendada | ⭐⭐⭐⭐ |
-| **Tierra Mia** | $15-25 | Fusión | ? Verificar | Recomendada | ⭐⭐⭐⭐ |
+| **Nenes** | $15-25 | Tico/Internacional | ⚠️ Verificar | Recomendada | ⭐⭐⭐⭐ |
+| **Tierra Mia** | $15-25 | Fusión | ⚠️ Verificar | Recomendada | ⭐⭐⭐⭐ |
+| **Chanta Verde** | $20-25 | Fusión upscale | ✅ Disponible | Recomendada | ⭐⭐⭐⭐⭐ |
 
 ---
 
