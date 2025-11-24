@@ -293,6 +293,110 @@ Las "sodas" y restaurantes budget ofrecen comida auténtica costarricense a prec
 
 ---
 
+## Soda y Restaurante Rodriguez
+
+**Tipo:** Soda tradicional con ambiente único
+**Precio:** $8-12/comida
+
+### Contacto
+- **Ubicación:** Justo fuera del centro de La Fortuna (camino hacia afueras)
+
+### Horarios
+- Verificar (típicamente almuerzo/cena)
+
+### Menú
+- **Menú verbal del día** (la mesera lista opciones disponibles)
+- Quesadillas
+- **Chicken bowl** ⭐⭐⭐ (destacado como uno de los mejores platos del viaje)
+- Ingredientes frescos del día
+
+### Ambiente
+- **Estilo treehouse único** con decoración especial
+- Hanging signs con mensajes de visitantes de todo el mundo
+- Cada mesa tiene carácter propio o "nook" privado
+- Puedes dejar tu propio mensaje en teja de madera
+- **Animales en el lugar:** Perros, gatos y otros animales de granja
+
+### Parking
+- Disponible (ubicación fuera del centro)
+
+### Para Grupos
+- Ambiente único y memorable
+- Espacio con diferentes "nooks" privados
+- Menú limitado (puede ser desafío para picky eaters o restricciones dietarias)
+
+### Pros
+- ✅ Ambiente ÚNICO tipo treehouse
+- ✅ Experiencia memorable e instagrameable
+- ✅ Chicken bowl excepcional (favorito del viaje)
+- ✅ Ingredientes frescos
+- ✅ Parking disponible
+- ✅ Experiencia interactiva (dejar mensaje)
+
+### Contras
+- ❌ Menú verbal limitado (puede no funcionar para todos)
+- ❌ Ubicación fuera del centro
+- ⚠️ Puede tomar más tiempo (comida preparada al momento)
+
+**Calificación:** ⭐⭐⭐⭐⭐ Excelente para experiencia memorable
+
+**Presupuesto grupo:** $100 (10 personas × $10 promedio)
+
+---
+
+## Soda Saboris Lulu
+
+**Tipo:** Soda estilo "casa de abuela"
+**Precio:** $8-12/comida
+
+### Horarios
+- Sirve desayunos y almuerzos (verificar horario cena)
+
+### Menú
+- **Desayuno Típico** (Desayuno Typico)
+- **Casados** (más tipo lunch/dinner)
+- Fruta fresca como side (ofrecida al llegar)
+- **Smoothies** (porciones ENORMES)
+
+### Ambiente
+- **Vibe de "casa de abuela"** - comida casera auténtica
+- Mesas de comedor al frente
+- Patio pequeño
+- Ventana para ver la cocina
+- Servicio cálido y acogedor
+
+### Porciones
+- **Porciones MUY GENEROSAS** (típico de comida costarricense)
+- Un smoothie "pequeño" es enorme
+
+### Parking
+- Verificar disponibilidad
+
+### Para Grupos
+- Ambiente familiar acogedor
+- Perfecto para experiencia "home cooking"
+- Porciones grandes (nadie queda con hambre)
+
+### Pros
+- ✅ Comida casera auténtica
+- ✅ Porciones enormes
+- ✅ Fruta fresca incluida
+- ✅ Smoothies excepcionales
+- ✅ Ambiente familiar y acogedor
+- ✅ Excelente desayuno típico
+
+### Contras
+- ❌ Espacio más pequeño
+- ⚠️ Verificar si aceptan tarjetas (llevar efectivo)
+
+**Calificación:** ⭐⭐⭐⭐⭐ Perfecto para desayuno auténtico
+
+**Presupuesto grupo:** $100 (10 personas × $10 promedio)
+
+**Mejor para:** Desayuno o almuerzo estilo casero
+
+---
+
 ## Tabla Comparativa Rápida
 
 | Restaurante | Precio pp | Parking | Tarjetas | Mejor para | Rating |
@@ -301,7 +405,9 @@ Las "sodas" y restaurantes budget ofrecen comida auténtica costarricense a prec
 | **Soda La Parada** | $5-7 | Público | ✅ Probablemente | 24 horas | ⭐⭐⭐⭐ |
 | **Soda El Turnito** | $6-9 | ✅ Enfrente | ❌ Efectivo | Carretera | ⭐⭐⭐⭐ |
 | **Soda Viquez** | $8-10 | ✅ Propio | ✅ Sí | Almuerzo/Cena | ⭐⭐⭐⭐⭐ |
-| **Red Frog Coffee** | $8-12 | ✅ Propio | ✅ Sí | Desayuno | ⭐⭐⭐⭐⭐ |
+| **Soda Rodriguez** | $8-12 | ✅ Disponible | ⚠️ Verificar | Experiencia única | ⭐⭐⭐⭐⭐ |
+| **Soda Saboris Lulu** | $8-12 | ⚠️ Verificar | ⚠️ Efectivo | Desayuno casero | ⭐⭐⭐⭐⭐ |
+| **Red Frog Coffee** | $8-12 | ✅ Propio | ✅ Sí | Café premium | ⭐⭐⭐⭐⭐ |
 | **Restaurante Tiquicia** | $8-12 | ⚠️ Verificar | ✅ Probablemente | Casados | ⭐⭐⭐⭐⭐ |
 
 ---
