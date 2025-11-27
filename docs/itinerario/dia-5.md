@@ -15,11 +15,13 @@
 | 11:15 AM-1:00 PM | Exploración del volcán | Volcán Irazú (cráteres, miradores) |
 | 1:00 PM | Salida hacia Cartago | Irazú → Cartago |
 | 1:45 PM | Llegada a Cartago | Cartago centro |
-| 2:00-4:00 PM | Almuerzo | Cartago (restaurante a elegir) |
-| 4:00-4:45 PM | Visita Basílica de Los Ángeles | Cartago centro |
-| 4:45-5:30 PM | Exploración Ruinas + Plaza Mayor | Cartago centro (a pie) |
-| 5:30 PM | Salida hacia Ram Luna | Cartago → Aserrí |
-| 7:00-9:00 PM | Cena Thanksgiving 🦃 | Restaurante Ram Luna, Aserrí |
+| 2:00-3:45 PM | **Almuerzo tranquilo** 🍽️ | Cartago (restaurante a elegir) |
+| 3:45 PM | **Mover vehículos** a parqueo Basílica | Estacionamiento con guachimán |
+| 4:00-4:40 PM | **Basílica de Los Ángeles** 🙏 | Visita La Negrita + Pila del Agua Bendita |
+| 4:40-5:00 PM | Caminata por el Bulevar | 6 cuadras peatonales hacia las Ruinas |
+| 5:00-5:30 PM | **Ruinas de Cartago** 📸 | Jardín interior + foto grupal (atardecer ~5:15 PM) |
+| 5:30 PM | **Salida hacia Ram Luna** | Cartago → Aserrí (45-60 min) |
+| 7:00-9:00 PM | **Cena Thanksgiving** 🦃 | Restaurante Ram Luna, Aserrí |
 | 9:00-9:30 PM | Regreso a Curridabat | Aserrí → Curridabat |
 | 9:30-10:00 PM | Llegada al Airbnb | Casa Ayarcos, Curridabat |
 
@@ -35,28 +37,32 @@
   - Ram Luna → Curridabat: 20-25 km, 30-40 min
 - **Actividades principales:**
   - Volcán Irazú (cráter principal, miradores)
-  - Basílica de Nuestra Señora de Los Ángeles
-  - Ruinas de Cartago + Plaza Mayor
+  - Basílica de Los Ángeles (La Negrita + Pila del Agua Bendita)
+  - Caminata por bulevar peatonal (6 cuadras)
+  - Ruinas de Cartago + foto grupal atardecer
   - Cena celebración Thanksgiving en Ram Luna
 - **Comidas:**
   - Desayuno: Casa Ayarcos (8:30-9:00 AM)
-  - Almuerzo: Cartago - opciones (2:00-4:00 PM)
+  - Almuerzo: Cartago (2:00-3:45 PM, almuerzo tranquilo)
   - Cena: Ram Luna (7:00-9:00 PM)
 
 ---
 
 ## Notas Importantes
 
-- 🦃 **Thanksgiving Day** - Reservación Ram Luna para 9 personas a las 7:00 PM (CONFIRMAR)
+- 🦃 **Thanksgiving Day** - Reservación Ram Luna para 9 personas a las 7:00 PM (re-confirmar día del viaje)
 - ❄️ **Clima extremo en Irazú:** 5-10°C (41-50°F) - Llevar ropa MUY abrigadora
 - 🌡️ **Clima en Ram Luna:** 15-18°C (59-64°F) - Llevar suéter/chamarra para la noche
-- 🚗 **Estacionamiento Cartago:** Usar guachimán ($4-10 total) para cuidar 2 vehículos
+- 🚗 **Estrategia de parking Cartago:** Parquear directamente cerca de la **Basílica** (NO cerca de las Ruinas) - hay parqueos grandes con guachimanes ($4-10 total)
+- 🌧️ **Plan B si llueve:** Invertir orden - hacer Basílica primero (está techada) y dejar Ruinas para el final esperando que escampe
+- 🌅 **Atardecer ~5:15 PM** - Hora dorada perfecta para foto grupal en Plaza Mayor frente a las Ruinas
+- 🚶 **Caminata opcional:** Del parqueo de la Basílica a las Ruinas son 6 cuadras por bulevar peatonal (si alguien no quiere caminar, puede ir en carro)
 - 💰 **Costo total día:** $403-524 grupo (9 personas) = $44.78-58.22 por persona
   - Entrada Irazú: $135 (9 × $15)
   - Almuerzo: $60-80
   - Cena Ram Luna: $180-270
   - Parking + Gasolina: $24-35
-- ⏰ **Día largo:** Salida 9:30 AM, regreso ~10:00 PM (12.5 horas)
+- ⏰ **HORA CERO 5:30 PM:** Tener carros listos y Waze configurado hacia Ram Luna - la salida de Cartago se complica después de las 6:00 PM
 - 🗺️ **Descargar mapas offline** de todas las rutas (4 tramos diferentes)
 - 👔 **Vestirse presentable** para Ram Luna (restaurante premium)
 
